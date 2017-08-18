@@ -2,12 +2,12 @@
   {
     "Name": "Jab",
     "Common_name": "LP",
-    "Startup": 4,
-    "Hit": 6,
-    "Recovery": 6,
-    "Block_advantage": 2,
-    "Hit_advantage": 2,
-    "Crouch_hit_advantage": 2,
+    "Startup": "4",
+    "Hit": "6",
+    "Recovery": "6",
+    "Block_advantage": "2",
+    "Hit_advantage": "2",
+    "Crouch_hit_advantage": "2",
     "Cancel": {
       "Super_art": true,
       "Special": true,
@@ -20,29 +20,29 @@
       "High": true,
       "Low": true
     },
-    "Kara_range": 0,
+    "Kara_range": "0",
     "Throw_range": null,
-    "Damage": 5,
-    "Stun": 5,
+    "Damage": "5",
+    "Stun": "5",
     "Bar_gain_attacker": {
-      "Whiff": 0,
-      "Hit": 2,
-      "Block": 1
+      "Whiff": "0",
+      "Hit": "2",
+      "Block": "1"
     },
     "Bar_gain_opponent": {
-      "Hit": 0,
-      "Block": 0
+      "Hit": "0",
+      "Block": "0"
     }
   },
   {
     "Name": "Strong",
     "Common_name": "MP",
-    "Startup": 8,
-    "Hit": 11,
-    "Recovery": 4,
-    "Block_advantage": 6,
-    "Hit_advantage": 7,
-    "Crouch_hit_advantage": 8,
+    "Startup": "8",
+    "Hit": "11",
+    "Recovery": "4",
+    "Block_advantage": "6",
+    "Hit_advantage": "7",
+    "Crouch_hit_advantage": "8",
     "Cancel": {
       "Super_art": true,
       "Special": true,
@@ -55,18 +55,18 @@
       "High": true,
       "Low": false
     },
-    "Kara_range": 0,
+    "Kara_range": "0",
     "Throw_range": null,
-    "Damage": 14,
-    "Stun": 9,
+    "Damage": "14",
+    "Stun": "9",
     "Bar_gain_attacker": {
-      "whiff": 2,
-      "hit": 11,
-      "block": 6
+      "whiff": "2",
+      "hit": "11",
+      "block": "6"
     },
     "Bar_gain_opponent": {
-      "hit": 2,
-      "block": 0
+      "hit": "2",
+      "block": "0"
     }
   }
 ]
