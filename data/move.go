@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"strings"
 	"bytes"
+	"github.com/fmicaelli/framedata/util"
 )
 
 type ThirdStrikeMove struct {
@@ -56,7 +57,7 @@ func (t ThirdStrikeMove) GetMove(characterData []byte, moveName string) (s strin
 
 	// Search for the move in the move list
 	for _, move := range moveList {
-		if strings.EqualFold(move.Name, moveName) || strings.EqualFold(move.Common_Name, moveName) {
+		if util.EqualFoldWithoutSpace(move.Name, moveName) || util.ContainsIgnoreCaseAndWithoutSpace(strings.Split(move.Common_Name, ","), moveName) {
 			s = move.String()
 			return
 		}
