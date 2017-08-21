@@ -13,8 +13,7 @@ func main() {
 		log.Fatal("Bot Token missing")
 	}
 	token := os.Args[1]
-	t := new(data.ThirdStrikeMove)
-	framedata.RunBot(token, t)
+	framedata.RunBot(token, data.GetMove)
 }
 
 

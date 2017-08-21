@@ -48,7 +48,7 @@ type BarGain struct {
 	Block string
 }
 
-func (t ThirdStrikeMove) GetMove(characterData []byte, moveName string) (s string, err error) {
+func GetMove(characterData []byte, moveName string) (s string, err error) {
 	var moveList []ThirdStrikeMove
 	err = json.Unmarshal(characterData, &moveList)
 	if err != nil {
