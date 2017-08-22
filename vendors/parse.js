@@ -34,12 +34,12 @@ $("#fd_table").find("tbody tr").each(function () {
         "Stun": $($($tds[13]).find("span")).html(),
         "Bar_gain_attacker": {
             "Whiff": a[0].trim(),
-            "Hit": a[1].trim(),
-            "Block": a[2].trim()
+            "Hit": a.length > 1 ? a[1].trim() : "-",
+            "Block": a.length > 2 ? a[2].trim() : "-"
         },
         "Bar_gain_opponent": {
-            "Hit": b[0].trim(),
-            "Block": b[1].trim()
+            "Hit": b.length > 1 ? b[0].trim() : "-",
+            "Block": b.length > 1 ? b[1].trim() : "-"
         }
 
     });
@@ -80,12 +80,12 @@ $("#fd_table").find("tbody tr").each(function () {
         "Stun": $($($tds[11]).find("span")).html(),
         "Bar_gain_attacker": {
             "Whiff": a[0].trim(),
-            "Hit": a[1].trim(),
-            "Block": a[2].trim()
+            "Hit": a.length > 1 ? a[1].trim() : "-",
+            "Block": a.length > 2 ? a[2].trim() : "-"
         },
         "Bar_gain_opponent": {
-            "Hit": b[0].trim(),
-            "Block": b[1].trim()
+            "Hit": b.length > 1 ? b[0].trim() : "-",
+            "Block": b.length > 1 ? b[1].trim() : "-"
         }
 
     });
