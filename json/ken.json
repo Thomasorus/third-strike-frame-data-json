@@ -2,16 +2,16 @@
   {
     "Name": "Jab",
     "Common_name": "LP",
-    "Startup": "4",
-    "Hit": "6",
-    "Recovery": "6",
-    "Block_advantage": "2",
-    "Hit_advantage": "2",
-    "Crouch_hit_advantage": "2",
+    "Startup": "3",
+    "Hit": "3",
+    "Recovery": "5",
+    "Block_advantage": "3",
+    "Hit_advantage": "3",
+    "Crouch_hit_advantage": "3",
     "Cancel": {
       "Super_art": true,
       "Special": true,
-      "Self": true,
+      "Self": false,
       "Chain": false,
       "Dash": false,
       "High_jump": false
@@ -22,7 +22,7 @@
     },
     "Kara_range": "0",
     "Throw_range": "-",
-    "Damage": "5",
+    "Damage": "3",
     "Stun": "3",
     "Bar_gain_attacker": {
       "Whiff": "0",
@@ -37,12 +37,12 @@
   {
     "Name": "Strong",
     "Common_name": "MP",
-    "Startup": "8",
-    "Hit": "11",
-    "Recovery": "4",
-    "Block_advantage": "6",
-    "Hit_advantage": "7",
-    "Crouch_hit_advantage": "8",
+    "Startup": "4",
+    "Hit": "4",
+    "Recovery": "10",
+    "Block_advantage": "1",
+    "Hit_advantage": "2",
+    "Crouch_hit_advantage": "3",
     "Cancel": {
       "Super_art": true,
       "Special": true,
@@ -57,8 +57,8 @@
     },
     "Kara_range": "0",
     "Throw_range": "-",
-    "Damage": "14",
-    "Stun": "9",
+    "Damage": "17",
+    "Stun": "7",
     "Bar_gain_attacker": {
       "Whiff": "2",
       "Hit": "11",
@@ -72,12 +72,12 @@
   {
     "Name": "Fierce",
     "Common_name": "HP",
-    "Startup": "8",
-    "Hit": "2",
-    "Recovery": "22",
-    "Block_advantage": "-5",
-    "Hit_advantage": "-3",
-    "Crouch_hit_advantage": "-1",
+    "Startup": "6",
+    "Hit": "3",
+    "Recovery": "15",
+    "Block_advantage": "-2",
+    "Hit_advantage": "0",
+    "Crouch_hit_advantage": "2",
     "Cancel": {
       "Super_art": true,
       "Special": true,
@@ -92,7 +92,7 @@
     },
     "Kara_range": "0",
     "Throw_range": "-",
-    "Damage": "21",
+    "Damage": "23",
     "Stun": "15",
     "Bar_gain_attacker": {
       "Whiff": "3",
@@ -105,14 +105,14 @@
     }
   },
   {
-    "Name": "Towards Jab",
-    "Common_name": "6LP",
-    "Startup": "4",
-    "Hit": "4",
-    "Recovery": "8",
-    "Block_advantage": "0",
-    "Hit_advantage": "0",
-    "Crouch_hit_advantage": "0",
+    "Name": "Far Jab",
+    "Common_name": "Far LP, f.LP",
+    "Startup": "5",
+    "Hit": "3",
+    "Recovery": "4",
+    "Block_advantage": "4",
+    "Hit_advantage": "4",
+    "Crouch_hit_advantage": "4",
     "Cancel": {
       "Super_art": true,
       "Special": true,
@@ -127,7 +127,7 @@
     },
     "Kara_range": "0",
     "Throw_range": "-",
-    "Damage": "4",
+    "Damage": "3",
     "Stun": "3",
     "Bar_gain_attacker": {
       "Whiff": "0",
@@ -140,13 +140,48 @@
     }
   },
   {
-    "Name": "Towards Strong",
-    "Common_name": "6MP",
+    "Name": "Far Strong",
+    "Common_name": "Far MP, f.MP",
+    "Startup": "6",
+    "Hit": "3",
+    "Recovery": "10",
+    "Block_advantage": "3",
+    "Hit_advantage": "4",
+    "Crouch_hit_advantage": "5",
+    "Cancel": {
+      "Super_art": false,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": true,
+      "Low": false
+    },
+    "Kara_range": "0",
+    "Throw_range": "-",
+    "Damage": "16",
+    "Stun": "11",
+    "Bar_gain_attacker": {
+      "Whiff": "2",
+      "Hit": "11",
+      "Block": "6"
+    },
+    "Bar_gain_opponent": {
+      "Hit": "2",
+      "Block": "0"
+    }
+  },
+  {
+    "Name": "Far Fierce",
+    "Common_name": "Far HP, f.HP",
     "Startup": "9",
-    "Hit": "6",
-    "Recovery": "9",
-    "Block_advantage": "2",
-    "Hit_advantage": "3",
+    "Hit": "3",
+    "Recovery": "15",
+    "Block_advantage": "0",
+    "Hit_advantage": "2",
     "Crouch_hit_advantage": "4",
     "Cancel": {
       "Super_art": false,
@@ -160,49 +195,14 @@
       "High": true,
       "Low": false
     },
-    "Kara_range": "4",
-    "Throw_range": "-",
-    "Damage": "15",
-    "Stun": "5",
-    "Bar_gain_attacker": {
-      "Whiff": "2",
-      "Hit": "11",
-      "Block": "6"
-    },
-    "Bar_gain_opponent": {
-      "Hit": "2",
-      "Block": "0"
-    }
-  },
-  {
-    "Name": "Towards Fierce",
-    "Common_name": "6HP",
-    "Startup": "16",
-    "Hit": "12",
-    "Recovery": "16",
-    "Block_advantage": "-4",
-    "Hit_advantage": "-2",
-    "Crouch_hit_advantage": "0",
-    "Cancel": {
-      "Super_art": false,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": false,
-      "High_jump": false
-    },
-    "Parry": {
-      "High": true,
-      "Low": false
-    },
     "Kara_range": "0",
     "Throw_range": "-",
-    "Damage": "26",
+    "Damage": "23",
     "Stun": "13",
     "Bar_gain_attacker": {
       "Whiff": "3",
-      "Hit": "17",
-      "Block": "7"
+      "Hit": "19",
+      "Block": "10"
     },
     "Bar_gain_opponent": {
       "Hit": "4",
@@ -210,45 +210,10 @@
     }
   },
   {
-    "Name": "Towards Fierce complete",
-    "Common_name": "6HP complete, 6HP HP HP",
-    "Startup": "16",
-    "Hit": "23",
-    "Recovery": "13",
-    "Block_advantage": "-4",
-    "Hit_advantage": "-3",
-    "Crouch_hit_advantage": "-2",
-    "Cancel": {
-      "Super_art": false,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": false,
-      "High_jump": false
-    },
-    "Parry": {
-      "High": true,
-      "Low": false
-    },
-    "Kara_range": "0",
-    "Throw_range": "-",
-    "Damage": "31",
-    "Stun": "17",
-    "Bar_gain_attacker": {
-      "Whiff": "3",
-      "Hit": "29",
-      "Block": "11"
-    },
-    "Bar_gain_opponent": {
-      "Hit": "8",
-      "Block": "0"
-    }
-  },
-  {
     "Name": "Crouching Jab",
     "Common_name": "cr.LP, 2LP",
-    "Startup": "5",
-    "Hit": "4",
+    "Startup": "4",
+    "Hit": "3",
     "Recovery": "5",
     "Block_advantage": "3",
     "Hit_advantage": "3",
@@ -282,12 +247,12 @@
   {
     "Name": "Crouching Strong",
     "Common_name": "cr.MP, 2MP",
-    "Startup": "7",
-    "Hit": "7",
-    "Recovery": "11",
-    "Block_advantage": "-1",
-    "Hit_advantage": "0",
-    "Crouch_hit_advantage": "1",
+    "Startup": "5",
+    "Hit": "4",
+    "Recovery": "7",
+    "Block_advantage": "3",
+    "Hit_advantage": "4",
+    "Crouch_hit_advantage": "5",
     "Cancel": {
       "Super_art": true,
       "Special": true,
@@ -300,10 +265,10 @@
       "High": true,
       "Low": true
     },
-    "Kara_range": "3",
+    "Kara_range": "0",
     "Throw_range": "-",
-    "Damage": "12",
-    "Stun": "5",
+    "Damage": "16",
+    "Stun": "7",
     "Bar_gain_attacker": {
       "Whiff": "2",
       "Hit": "11",
@@ -317,28 +282,28 @@
   {
     "Name": "Crouching Fierce",
     "Common_name": "cr.HP, 2HP",
-    "Startup": "10",
-    "Hit": "2",
-    "Recovery": "21",
+    "Startup": "7",
+    "Hit": "5",
+    "Recovery": "17",
     "Block_advantage": "-6",
-    "Hit_advantage": "D",
-    "Crouch_hit_advantage": "D",
+    "Hit_advantage": "-4",
+    "Crouch_hit_advantage": "-2",
     "Cancel": {
-      "Super_art": false,
-      "Special": false,
+      "Super_art": true,
+      "Special": true,
       "Self": false,
       "Chain": false,
       "Dash": false,
       "High_jump": false
     },
     "Parry": {
-      "High": false,
+      "High": true,
       "Low": true
     },
     "Kara_range": "0",
     "Throw_range": "-",
-    "Damage": "17",
-    "Stun": "3",
+    "Damage": "23",
+    "Stun": "13",
     "Bar_gain_attacker": {
       "Whiff": "3",
       "Hit": "19",
@@ -352,8 +317,8 @@
   {
     "Name": "Neutral Jumping Jab",
     "Common_name": "n.j.LP, 8LP",
-    "Startup": "9",
-    "Hit": "17",
+    "Startup": "5",
+    "Hit": "-",
     "Recovery": "-",
     "Block_advantage": "-",
     "Hit_advantage": "-",
@@ -372,7 +337,7 @@
     },
     "Kara_range": "0",
     "Throw_range": "-",
-    "Damage": "8",
+    "Damage": "10",
     "Stun": "7",
     "Bar_gain_attacker": {
       "Whiff": "0",
@@ -387,8 +352,8 @@
   {
     "Name": "Neutral Jumping Strong",
     "Common_name": "n.j.MP, 8MP",
-    "Startup": "11",
-    "Hit": "10",
+    "Startup": "6",
+    "Hit": "5",
     "Recovery": "-",
     "Block_advantage": "-",
     "Hit_advantage": "-",
@@ -407,7 +372,7 @@
     },
     "Kara_range": "0",
     "Throw_range": "-",
-    "Damage": "14",
+    "Damage": "17",
     "Stun": "11",
     "Bar_gain_attacker": {
       "Whiff": "2",
@@ -422,8 +387,8 @@
   {
     "Name": "Neutral Jumping Fierce",
     "Common_name": "n.j.HP, 8HP",
-    "Startup": "13",
-    "Hit": "2",
+    "Startup": "7",
+    "Hit": "3",
     "Recovery": "-",
     "Block_advantage": "-",
     "Hit_advantage": "-",
@@ -458,7 +423,7 @@
     "Name": "Jumping Jab",
     "Common_name": "j.LP, 7LP, 9LP",
     "Startup": "4",
-    "Hit": "21",
+    "Hit": "-",
     "Recovery": "-",
     "Block_advantage": "-",
     "Hit_advantage": "-",
@@ -492,8 +457,8 @@
   {
     "Name": "Jumping Strong",
     "Common_name": "j.MP, 7MP, 9MP",
-    "Startup": "11",
-    "Hit": "23",
+    "Startup": "5",
+    "Hit": "5",
     "Recovery": "-",
     "Block_advantage": "-",
     "Hit_advantage": "-",
@@ -512,7 +477,7 @@
     },
     "Kara_range": "0",
     "Throw_range": "-",
-    "Damage": "12",
+    "Damage": "17",
     "Stun": "11",
     "Bar_gain_attacker": {
       "Whiff": "2",
@@ -527,8 +492,8 @@
   {
     "Name": "Jumping Fierce",
     "Common_name": "j.HP, 7HP, 9HP",
-    "Startup": "10",
-    "Hit": "2",
+    "Startup": "6",
+    "Hit": "4",
     "Recovery": "-",
     "Block_advantage": "-",
     "Hit_advantage": "-",
@@ -547,7 +512,7 @@
     },
     "Kara_range": "0",
     "Throw_range": "-",
-    "Damage": "26",
+    "Damage": "23",
     "Stun": "15",
     "Bar_gain_attacker": {
       "Whiff": "3",
@@ -563,14 +528,14 @@
     "Name": "Short",
     "Common_name": "LK",
     "Startup": "4",
-    "Hit": "5",
-    "Recovery": "12",
-    "Block_advantage": "-2",
-    "Hit_advantage": "-2",
-    "Crouch_hit_advantage": "-2",
+    "Hit": "4",
+    "Recovery": "7",
+    "Block_advantage": "2",
+    "Hit_advantage": "2",
+    "Crouch_hit_advantage": "2",
     "Cancel": {
-      "Super_art": true,
-      "Special": true,
+      "Super_art": false,
+      "Special": false,
       "Self": false,
       "Chain": false,
       "Dash": false,
@@ -580,7 +545,7 @@
       "High": true,
       "Low": true
     },
-    "Kara_range": "7",
+    "Kara_range": "0",
     "Throw_range": "-",
     "Damage": "7",
     "Stun": "3",
@@ -597,11 +562,11 @@
   {
     "Name": "Forward",
     "Common_name": "MK",
-    "Startup": "7",
-    "Hit": "5",
-    "Recovery": "13",
-    "Block_advantage": "-2",
-    "Hit_advantage": "-1",
+    "Startup": "8",
+    "Hit": "7",
+    "Recovery": "16",
+    "Block_advantage": "-6",
+    "Hit_advantage": "-2",
     "Crouch_hit_advantage": "0",
     "Cancel": {
       "Super_art": false,
@@ -613,12 +578,12 @@
     },
     "Parry": {
       "High": true,
-      "Low": true
+      "Low": false
     },
-    "Kara_range": "7",
+    "Kara_range": "6",
     "Throw_range": "-",
-    "Damage": "16",
-    "Stun": "7",
+    "Damage": "19",
+    "Stun": "15",
     "Bar_gain_attacker": {
       "Whiff": "2",
       "Hit": "11",
@@ -630,14 +595,14 @@
     }
   },
   {
-    "Name": "Roundhouse",
-    "Common_name": "HK",
-    "Startup": "11",
-    "Hit": "9",
-    "Recovery": "13",
-    "Block_advantage": "0",
-    "Hit_advantage": "2",
-    "Crouch_hit_advantage": "4",
+    "Name": "Hold Forward",
+    "Common_name": "h.MK",
+    "Startup": "8",
+    "Hit": "8",
+    "Recovery": "10",
+    "Block_advantage": "-1",
+    "Hit_advantage": "0",
+    "Crouch_hit_advantage": "3",
     "Cancel": {
       "Super_art": false,
       "Special": false,
@@ -650,13 +615,13 @@
       "High": true,
       "Low": false
     },
-    "Kara_range": "-24",
+    "Kara_range": "6",
     "Throw_range": "-",
-    "Damage": "23",
-    "Stun": "7",
+    "Damage": "29",
+    "Stun": "22",
     "Bar_gain_attacker": {
-      "Whiff": "3",
-      "Hit": "19",
+      "Whiff": "4",
+      "Hit": "21",
       "Block": "10"
     },
     "Bar_gain_opponent": {
@@ -665,49 +630,14 @@
     }
   },
   {
-    "Name": "Towards Short",
-    "Common_name": "6LK",
-    "Startup": "6",
+    "Name": "Roundhouse",
+    "Common_name": "HK",
+    "Startup": "11",
     "Hit": "6",
-    "Recovery": "13",
-    "Block_advantage": "-5",
-    "Hit_advantage": "-5",
-    "Crouch_hit_advantage": "-5",
-    "Cancel": {
-      "Super_art": false,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": false,
-      "High_jump": false
-    },
-    "Parry": {
-      "High": true,
-      "Low": true
-    },
-    "Kara_range": "4",
-    "Throw_range": "-",
-    "Damage": "6",
-    "Stun": "5",
-    "Bar_gain_attacker": {
-      "Whiff": "0",
-      "Hit": "2",
-      "Block": "1"
-    },
-    "Bar_gain_opponent": {
-      "Hit": "0",
-      "Block": "0"
-    }
-  },
-  {
-    "Name": "Towards Forward",
-    "Common_name": "6MK",
-    "Startup": "17",
-    "Hit": "5",
-    "Recovery": "18",
-    "Block_advantage": "-5",
-    "Hit_advantage": "-3",
-    "Crouch_hit_advantage": "-1",
+    "Recovery": "19",
+    "Block_advantage": "-4",
+    "Hit_advantage": "-2",
+    "Crouch_hit_advantage": "0",
     "Cancel": {
       "Super_art": false,
       "Special": false,
@@ -720,45 +650,10 @@
       "High": true,
       "Low": false
     },
-    "Kara_range": "2",
+    "Kara_range": "6",
     "Throw_range": "-",
-    "Damage": "17",
-    "Stun": "9",
-    "Bar_gain_attacker": {
-      "Whiff": "2",
-      "Hit": "11",
-      "Block": "6"
-    },
-    "Bar_gain_opponent": {
-      "Hit": "2",
-      "Block": "0"
-    }
-  },
-  {
-    "Name": "Towards Roundhouse",
-    "Common_name": "6HK",
-    "Startup": "22",
-    "Hit": "3",
-    "Recovery": "25",
-    "Block_advantage": "-11",
-    "Hit_advantage": "D",
-    "Crouch_hit_advantage": "D",
-    "Cancel": {
-      "Super_art": false,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": false,
-      "High_jump": false
-    },
-    "Parry": {
-      "High": false,
-      "Low": true
-    },
-    "Kara_range": "0",
-    "Throw_range": "-",
-    "Damage": "21",
-    "Stun": "5",
+    "Damage": "26",
+    "Stun": "11",
     "Bar_gain_attacker": {
       "Whiff": "3",
       "Hit": "19",
@@ -772,16 +667,16 @@
   {
     "Name": "Crouching Short",
     "Common_name": "cr.LK, 2LK",
-    "Startup": "4",
-    "Hit": "6",
-    "Recovery": "10",
-    "Block_advantage": "-3",
-    "Hit_advantage": "-3",
-    "Crouch_hit_advantage": "-3",
+    "Startup": "5",
+    "Hit": "3",
+    "Recovery": "7",
+    "Block_advantage": "1",
+    "Hit_advantage": "1",
+    "Crouch_hit_advantage": "1",
     "Cancel": {
       "Super_art": true,
       "Special": true,
-      "Self": false,
+      "Self": true,
       "Chain": false,
       "Dash": false,
       "High_jump": false
@@ -792,7 +687,7 @@
     },
     "Kara_range": "0",
     "Throw_range": "-",
-    "Damage": "5",
+    "Damage": "3",
     "Stun": "3",
     "Bar_gain_attacker": {
       "Whiff": "0",
@@ -807,28 +702,28 @@
   {
     "Name": "Crouching Forward",
     "Common_name": "cr.MK, 2MK",
-    "Startup": "7",
-    "Hit": "8",
-    "Recovery": "7",
-    "Block_advantage": "3",
-    "Hit_advantage": "4",
-    "Crouch_hit_advantage": "5",
+    "Startup": "6",
+    "Hit": "5",
+    "Recovery": "17",
+    "Block_advantage": "-4",
+    "Hit_advantage": "-3",
+    "Crouch_hit_advantage": "-2",
     "Cancel": {
-      "Super_art": false,
-      "Special": false,
+      "Super_art": true,
+      "Special": true,
       "Self": false,
       "Chain": false,
       "Dash": false,
       "High_jump": false
     },
     "Parry": {
-      "High": true,
+      "High": false,
       "Low": true
     },
-    "Kara_range": "0",
+    "Kara_range": "13",
     "Throw_range": "-",
-    "Damage": "16",
-    "Stun": "5",
+    "Damage": "15",
+    "Stun": "3",
     "Bar_gain_attacker": {
       "Whiff": "2",
       "Hit": "11",
@@ -842,12 +737,12 @@
   {
     "Name": "Crouching Roundhouse",
     "Common_name": "cr.HK, 2HK",
-    "Startup": "10",
-    "Hit": "4",
-    "Recovery": "12",
-    "Block_advantage": "2",
-    "Hit_advantage": "4",
-    "Crouch_hit_advantage": "6",
+    "Startup": "6",
+    "Hit": "5",
+    "Recovery": "26",
+    "Block_advantage": "-14",
+    "Hit_advantage": "D",
+    "Crouch_hit_advantage": "D",
     "Cancel": {
       "Super_art": false,
       "Special": false,
@@ -857,13 +752,13 @@
       "High_jump": false
     },
     "Parry": {
-      "High": true,
-      "Low": false
+      "High": false,
+      "Low": true
     },
     "Kara_range": "13",
     "Throw_range": "-",
     "Damage": "23",
-    "Stun": "15",
+    "Stun": "3",
     "Bar_gain_attacker": {
       "Whiff": "3",
       "Hit": "19",
@@ -875,10 +770,10 @@
     }
   },
   {
-    "Name": "Jumping Short",
-    "Common_name": "j.LK, 7LK, 8LK, 9LK",
-    "Startup": "2",
-    "Hit": "14",
+    "Name": "Neutral Jumping Short",
+    "Common_name": "n.j.LK, 8LK",
+    "Startup": "5",
+    "Hit": "-",
     "Recovery": "-",
     "Block_advantage": "-",
     "Hit_advantage": "-",
@@ -897,7 +792,7 @@
     },
     "Kara_range": "0",
     "Throw_range": "-",
-    "Damage": "10",
+    "Damage": "8",
     "Stun": "7",
     "Bar_gain_attacker": {
       "Whiff": "0",
@@ -910,10 +805,115 @@
     }
   },
   {
-    "Name": "Jumping Forward",
-    "Common_name": "j.MK, 7MK, 8MK, 9MK",
+    "Name": "Neutral Jumping Forward",
+    "Common_name": "n.j.MK, 8MK",
+    "Startup": "5",
+    "Hit": "6",
+    "Recovery": "-",
+    "Block_advantage": "-",
+    "Hit_advantage": "-",
+    "Crouch_hit_advantage": "-",
+    "Cancel": {
+      "Super_art": false,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": true,
+      "Low": false
+    },
+    "Kara_range": "0",
+    "Throw_range": "-",
+    "Damage": "16",
+    "Stun": "9",
+    "Bar_gain_attacker": {
+      "Whiff": "2",
+      "Hit": "11",
+      "Block": "6"
+    },
+    "Bar_gain_opponent": {
+      "Hit": "2",
+      "Block": "0"
+    }
+  },
+  {
+    "Name": "Neutral Jumping Roundhouse",
+    "Common_name": "n.j.HK, 8HK",
     "Startup": "7",
-    "Hit": "13",
+    "Hit": "5",
+    "Recovery": "-",
+    "Block_advantage": "-",
+    "Hit_advantage": "-",
+    "Crouch_hit_advantage": "-",
+    "Cancel": {
+      "Super_art": false,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": true,
+      "Low": false
+    },
+    "Kara_range": "0",
+    "Throw_range": "-",
+    "Damage": "23",
+    "Stun": "13",
+    "Bar_gain_attacker": {
+      "Whiff": "3",
+      "Hit": "19",
+      "Block": "10"
+    },
+    "Bar_gain_opponent": {
+      "Hit": "4",
+      "Block": "0"
+    }
+  },
+  {
+    "Name": "Jumping Short",
+    "Common_name": "j.LK, 7LK, 9LK",
+    "Startup": "4",
+    "Hit": "10",
+    "Recovery": "-",
+    "Block_advantage": "-",
+    "Hit_advantage": "-",
+    "Crouch_hit_advantage": "-",
+    "Cancel": {
+      "Super_art": false,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": true,
+      "Low": false
+    },
+    "Kara_range": "0",
+    "Throw_range": "-",
+    "Damage": "8",
+    "Stun": "5",
+    "Bar_gain_attacker": {
+      "Whiff": "0",
+      "Hit": "2",
+      "Block": "1"
+    },
+    "Bar_gain_opponent": {
+      "Hit": "0",
+      "Block": "0"
+    }
+  },
+  {
+    "Name": "Jumping Forward",
+    "Common_name": "j.MK, 7MK, 9MK",
+    "Startup": "5",
+    "Hit": "6",
     "Recovery": "-",
     "Block_advantage": "-",
     "Hit_advantage": "-",
@@ -946,9 +946,9 @@
   },
   {
     "Name": "Jumping Roundhouse",
-    "Common_name": "j.HK, 7HK, 8HK, 9HK",
+    "Common_name": "j.HK, 7HK, 9HK",
     "Startup": "6",
-    "Hit": "6",
+    "Hit": "4",
     "Recovery": "-",
     "Block_advantage": "-",
     "Hit_advantage": "-",
@@ -967,7 +967,112 @@
     },
     "Kara_range": "0",
     "Throw_range": "-",
-    "Damage": "23",
+    "Damage": "22",
+    "Stun": "13",
+    "Bar_gain_attacker": {
+      "Whiff": "3",
+      "Hit": "19",
+      "Block": "10"
+    },
+    "Bar_gain_opponent": {
+      "Hit": "4",
+      "Block": "0"
+    }
+  },
+  {
+    "Name": "Towards Forward",
+    "Common_name": "6MK",
+    "Startup": "16",
+    "Hit": "4",
+    "Recovery": "15",
+    "Block_advantage": "-4",
+    "Hit_advantage": "-1",
+    "Crouch_hit_advantage": "0",
+    "Cancel": {
+      "Super_art": false,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": true,
+      "Low": false
+    },
+    "Kara_range": "0",
+    "Throw_range": "-",
+    "Damage": "14",
+    "Stun": "7",
+    "Bar_gain_attacker": {
+      "Whiff": "3",
+      "Hit": "19",
+      "Block": "10"
+    },
+    "Bar_gain_opponent": {
+      "Hit": "4",
+      "Block": "0"
+    }
+  },
+  {
+    "Name": "Back Forward",
+    "Common_name": "4MK",
+    "Startup": "18",
+    "Hit": "4",
+    "Recovery": "10",
+    "Block_advantage": "1",
+    "Hit_advantage": "2",
+    "Crouch_hit_advantage": "3",
+    "Cancel": {
+      "Super_art": false,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": true,
+      "Low": false
+    },
+    "Kara_range": "10",
+    "Throw_range": "-",
+    "Damage": "21",
+    "Stun": "13",
+    "Bar_gain_attacker": {
+      "Whiff": "2",
+      "Hit": "11",
+      "Block": "5"
+    },
+    "Bar_gain_opponent": {
+      "Hit": "2",
+      "Block": "0"
+    }
+  },
+  {
+    "Name": "Towards Roundhouse",
+    "Common_name": "6HK",
+    "Startup": "30",
+    "Hit": "5",
+    "Recovery": "18",
+    "Block_advantage": "-1",
+    "Hit_advantage": "1",
+    "Crouch_hit_advantage": "3",
+    "Cancel": {
+      "Super_art": false,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": true,
+      "Low": false
+    },
+    "Kara_range": "0",
+    "Throw_range": "-",
+    "Damage": "21",
     "Stun": "11",
     "Bar_gain_attacker": {
       "Whiff": "3",
@@ -1001,22 +1106,22 @@
       "Low": false
     },
     "Kara_range": "0",
-    "Throw_range": "20",
-    "Damage": "16",
-    "Stun": "16",
+    "Throw_range": "24",
+    "Damage": "27",
+    "Stun": "12",
     "Bar_gain_attacker": {
       "Whiff": "0",
-      "Hit": "8",
+      "Hit": "7",
       "Block": "0"
     },
     "Bar_gain_opponent": {
-      "Hit": "2",
+      "Hit": "0",
       "Block": "7"
     }
   },
   {
-    "Name": "Back & Towards Throw",
-    "Common_name": "throw, 4LP+LK, 6LP+LK",
+    "Name": "Back Throw",
+    "Common_name": "4LP+LK",
     "Startup": "2",
     "Hit": "1",
     "Recovery": "21",
@@ -1036,12 +1141,47 @@
       "Low": false
     },
     "Kara_range": "0",
-    "Throw_range": "20",
-    "Damage": "21",
-    "Stun": "10",
+    "Throw_range": "24",
+    "Damage": "19",
+    "Stun": "14",
     "Bar_gain_attacker": {
       "Whiff": "0",
-      "Hit": "7",
+      "Hit": "8",
+      "Block": "0"
+    },
+    "Bar_gain_opponent": {
+      "Hit": "2",
+      "Block": "7"
+    }
+  },
+  {
+    "Name": "Towards Throw",
+    "Common_name": "6LP+LK",
+    "Startup": "2",
+    "Hit": "1",
+    "Recovery": "21",
+    "Block_advantage": "0",
+    "Hit_advantage": "D",
+    "Crouch_hit_advantage": "D",
+    "Cancel": {
+      "Super_art": false,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": false,
+      "Low": false
+    },
+    "Kara_range": "0",
+    "Throw_range": "24",
+    "Damage": "21",
+    "Stun": "8",
+    "Bar_gain_attacker": {
+      "Whiff": "0",
+      "Hit": "8",
       "Block": "0"
     },
     "Bar_gain_opponent": {
@@ -1053,11 +1193,11 @@
     "Name": "Universal Overhead",
     "Common_name": "UOH, MP+MK",
     "Startup": "15",
-    "Hit": "10",
-    "Recovery": "5",
-    "Block_advantage": "-",
-    "Hit_advantage": "-",
-    "Crouch_hit_advantage": "-",
+    "Hit": "8",
+    "Recovery": "7",
+    "Block_advantage": "-5 ~ 0",
+    "Hit_advantage": "0 ~ +7",
+    "Crouch_hit_advantage": "+1 ~ +8",
     "Cancel": {
       "Super_art": false,
       "Special": false,
@@ -1087,10 +1227,185 @@
   {
     "Name": "Taunt",
     "Common_name": "HP+HK",
-    "Startup": "79",
-    "Hit": "3",
-    "Recovery": "-",
-    "Block_advantage": "-",
+    "Startup": "15",
+    "Hit": "2",
+    "Recovery": "27",
+    "Block_advantage": "-18",
+    "Hit_advantage": "-18",
+    "Crouch_hit_advantage": "0",
+    "Cancel": {
+      "Super_art": false,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": true,
+      "Low": true
+    },
+    "Kara_range": "0",
+    "Throw_range": "-",
+    "Damage": "2",
+    "Stun": "6",
+    "Bar_gain_attacker": {
+      "Whiff": "4",
+      "Hit": "8",
+      "Block": "6"
+    },
+    "Bar_gain_opponent": {
+      "Hit": "0",
+      "Block": "0"
+    }
+  },
+  {
+    "Name": "Hadouken Jab",
+    "Common_name": "Hadoken LP, Hadouken LP, 236LP",
+    "Startup": "11",
+    "Hit": "-",
+    "Recovery": "38",
+    "Block_advantage": "-11",
+    "Hit_advantage": "-",
+    "Crouch_hit_advantage": "-",
+    "Cancel": {
+      "Super_art": true,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": true,
+      "Low": false
+    },
+    "Kara_range": "-",
+    "Throw_range": "-",
+    "Damage": "10",
+    "Stun": "3",
+    "Bar_gain_attacker": {
+      "Whiff": "0",
+      "Hit": "2",
+      "Block": "1"
+    },
+    "Bar_gain_opponent": {
+      "Hit": "0",
+      "Block": "0"
+    }
+  },
+  {
+    "Name": "Hadouken Strong",
+    "Common_name": "Hadoken MP, Hadouken MP, 236MP",
+    "Startup": "11",
+    "Hit": "-",
+    "Recovery": "38",
+    "Block_advantage": "-11",
+    "Hit_advantage": "-",
+    "Crouch_hit_advantage": "-",
+    "Cancel": {
+      "Super_art": true,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": true,
+      "Low": false
+    },
+    "Kara_range": "-",
+    "Throw_range": "-",
+    "Damage": "1",
+    "Stun": "0",
+    "Bar_gain_attacker": {
+      "Whiff": "0",
+      "Hit": "1",
+      "Block": "1"
+    },
+    "Bar_gain_opponent": {
+      "Hit": "0",
+      "Block": "0"
+    }
+  },
+  {
+    "Name": "Hadouken Fierce",
+    "Common_name": "Hadoken HP, Hadouken HP, 236HP",
+    "Startup": "11",
+    "Hit": "-",
+    "Recovery": "38",
+    "Block_advantage": "-11",
+    "Hit_advantage": "-",
+    "Crouch_hit_advantage": "-",
+    "Cancel": {
+      "Super_art": true,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": true,
+      "Low": false
+    },
+    "Kara_range": "-",
+    "Throw_range": "-",
+    "Damage": "10",
+    "Stun": "3",
+    "Bar_gain_attacker": {
+      "Whiff": "0",
+      "Hit": "2",
+      "Block": "1"
+    },
+    "Bar_gain_opponent": {
+      "Hit": "0",
+      "Block": "0"
+    }
+  },
+  {
+    "Name": "Hadouken EX",
+    "Common_name": "Hadoken EX, 236PP",
+    "Startup": "11",
+    "Hit": "-",
+    "Recovery": "38",
+    "Block_advantage": "-6",
+    "Hit_advantage": "-",
+    "Crouch_hit_advantage": "-",
+    "Cancel": {
+      "Super_art": true,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": true,
+      "Low": false
+    },
+    "Kara_range": "-",
+    "Throw_range": "-",
+    "Damage": "20",
+    "Stun": "5",
+    "Bar_gain_attacker": {
+      "Whiff": "-40",
+      "Hit": "-40",
+      "Block": "-40"
+    },
+    "Bar_gain_opponent": {
+      "Hit": "0",
+      "Block": "0"
+    }
+  },
+  {
+    "Name": "Shoryuken Jab",
+    "Common_name": "Shoryuken LP, 623LP",
+    "Startup": "2",
+    "Hit": "8",
+    "Recovery": "26",
+    "Block_advantage": "-17",
     "Hit_advantage": "-",
     "Crouch_hit_advantage": "-",
     "Cancel": {
@@ -1105,66 +1420,31 @@
       "High": true,
       "Low": true
     },
-    "Kara_range": "13",
-    "Throw_range": "-",
-    "Damage": "1",
-    "Stun": "3",
-    "Bar_gain_attacker": {
-      "Whiff": "18",
-      "Hit": "20",
-      "Block": "19"
-    },
-    "Bar_gain_opponent": {
-      "Hit": "0",
-      "Block": "0"
-    }
-  },
-  {
-    "Name": "Hayate full charge",
-    "Common_name": "Chesto full charge, 236P full charge",
-    "Startup": "126",
-    "Hit": "6",
-    "Recovery": "24",
-    "Block_advantage": "2",
-    "Hit_advantage": "-",
-    "Crouch_hit_advantage": "-",
-    "Cancel": {
-      "Super_art": false,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": false,
-      "High_jump": false
-    },
-    "Parry": {
-      "High": true,
-      "Low": false
-    },
     "Kara_range": "-",
     "Throw_range": "-",
-    "Damage": "24",
-    "Stun": "17",
+    "Damage": "26",
+    "Stun": "11",
     "Bar_gain_attacker": {
       "Whiff": "3",
-      "Hit": "15",
-      "Block": "7"
+      "Hit": "21",
+      "Block": "15"
     },
     "Bar_gain_opponent": {
-      "Hit": "3",
+      "Hit": "6",
       "Block": "0"
     }
   },
   {
-    "Name": "Hayate Jab",
-    "Common_name": "Hayate LP, Chesto LP, 236LP",
-    "Startup": "6",
-    "Hit": "6",
-    "Recovery": "24",
-    "Block_advantage": "-12",
+    "Name": "Shoryuken Strong",
+    "Common_name": "Shoryuken MP, 623MP",
+    "Startup": "3",
+    "Hit": "14",
+    "Recovery": "28",
+    "Block_advantage": "-24",
     "Hit_advantage": "-",
     "Crouch_hit_advantage": "-",
     "Cancel": {
-      "Super_art": false,
+      "Super_art": true,
       "Special": false,
       "Self": false,
       "Chain": false,
@@ -1173,116 +1453,81 @@
     },
     "Parry": {
       "High": true,
-      "Low": false
-    },
-    "Kara_range": "-",
-    "Throw_range": "-",
-    "Damage": "17",
-    "Stun": "9",
-    "Bar_gain_attacker": {
-      "Whiff": "3",
-      "Hit": "15",
-      "Block": "7"
-    },
-    "Bar_gain_opponent": {
-      "Hit": "3",
-      "Block": "0"
-    }
-  },
-  {
-    "Name": "Hayate Strong",
-    "Common_name": "Hayate MP, Chesto MP, 236MP",
-    "Startup": "9",
-    "Hit": "6",
-    "Recovery": "24",
-    "Block_advantage": "-12",
-    "Hit_advantage": "-",
-    "Crouch_hit_advantage": "-",
-    "Cancel": {
-      "Super_art": false,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": false,
-      "High_jump": false
-    },
-    "Parry": {
-      "High": true,
-      "Low": false
-    },
-    "Kara_range": "-",
-    "Throw_range": "-",
-    "Damage": "17",
-    "Stun": "9",
-    "Bar_gain_attacker": {
-      "Whiff": "3",
-      "Hit": "15",
-      "Block": "7"
-    },
-    "Bar_gain_opponent": {
-      "Hit": "3",
-      "Block": "0"
-    }
-  },
-  {
-    "Name": "Hayate Fierce",
-    "Common_name": "Hayate HP, Chesto HP, 236HP",
-    "Startup": "11",
-    "Hit": "6",
-    "Recovery": "24",
-    "Block_advantage": "-12",
-    "Hit_advantage": "-",
-    "Crouch_hit_advantage": "-",
-    "Cancel": {
-      "Super_art": false,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": false,
-      "High_jump": false
-    },
-    "Parry": {
-      "High": true,
-      "Low": false
-    },
-    "Kara_range": "-",
-    "Throw_range": "-",
-    "Damage": "17",
-    "Stun": "9",
-    "Bar_gain_attacker": {
-      "Whiff": "3",
-      "Hit": "15",
-      "Block": "7"
-    },
-    "Bar_gain_opponent": {
-      "Hit": "3",
-      "Block": "0"
-    }
-  },
-  {
-    "Name": "Hayate EX",
-    "Common_name": "Chesto EX, 236PP",
-    "Startup": "17",
-    "Hit": "6",
-    "Recovery": "24",
-    "Block_advantage": "2",
-    "Hit_advantage": "-",
-    "Crouch_hit_advantage": "-",
-    "Cancel": {
-      "Super_art": false,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": false,
-      "High_jump": false
-    },
-    "Parry": {
-      "High": true,
-      "Low": false
+      "Low": true
     },
     "Kara_range": "-",
     "Throw_range": "-",
     "Damage": "28",
+    "Stun": "15",
+    "Bar_gain_attacker": {
+      "Whiff": "3",
+      "Hit": "22",
+      "Block": "16"
+    },
+    "Bar_gain_opponent": {
+      "Hit": "6",
+      "Block": "0"
+    }
+  },
+  {
+    "Name": "Shoryuken Fierce",
+    "Common_name": "Shoryuken HP, 623HP",
+    "Startup": "3",
+    "Hit": "21",
+    "Recovery": "32",
+    "Block_advantage": "-31",
+    "Hit_advantage": "-",
+    "Crouch_hit_advantage": "-",
+    "Cancel": {
+      "Super_art": true,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": true,
+      "Low": true
+    },
+    "Kara_range": "-",
+    "Throw_range": "-",
+    "Damage": "32",
+    "Stun": "15",
+    "Bar_gain_attacker": {
+      "Whiff": "3",
+      "Hit": "23",
+      "Block": "17"
+    },
+    "Bar_gain_opponent": {
+      "Hit": "6",
+      "Block": "0"
+    }
+  },
+  {
+    "Name": "Shoryuken EX",
+    "Common_name": "623PP",
+    "Startup": "1",
+    "Hit": "20",
+    "Recovery": "38",
+    "Block_advantage": "-36",
+    "Hit_advantage": "-",
+    "Crouch_hit_advantage": "-",
+    "Cancel": {
+      "Super_art": true,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": true,
+      "Low": true
+    },
+    "Kara_range": "-",
+    "Throw_range": "-",
+    "Damage": "34",
     "Stun": "17",
     "Bar_gain_attacker": {
       "Whiff": "-40",
@@ -1295,187 +1540,12 @@
     }
   },
   {
-    "Name": "Fukiage Jab",
-    "Common_name": "Fukiage LP, 623LP",
-    "Startup": "7",
-    "Hit": "8",
-    "Recovery": "26",
-    "Block_advantage": "-",
-    "Hit_advantage": "-",
-    "Crouch_hit_advantage": "-",
-    "Cancel": {
-      "Super_art": true,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": false,
-      "High_jump": true
-    },
-    "Parry": {
-      "High": true,
-      "Low": true
-    },
-    "Kara_range": "-",
-    "Throw_range": "-",
-    "Damage": "21",
-    "Stun": "29",
-    "Bar_gain_attacker": {
-      "Whiff": "3",
-      "Hit": "21",
-      "Block": "---"
-    },
-    "Bar_gain_opponent": {
-      "Hit": "6",
-      "Block": "---"
-    }
-  },
-  {
-    "Name": "Fukiage Strong",
-    "Common_name": "Fukiage MP, 623MP",
-    "Startup": "10",
-    "Hit": "8",
-    "Recovery": "26",
-    "Block_advantage": "-",
-    "Hit_advantage": "-",
-    "Crouch_hit_advantage": "-",
-    "Cancel": {
-      "Super_art": true,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": false,
-      "High_jump": true
-    },
-    "Parry": {
-      "High": true,
-      "Low": true
-    },
-    "Kara_range": "-",
-    "Throw_range": "-",
-    "Damage": "24",
-    "Stun": "31",
-    "Bar_gain_attacker": {
-      "Whiff": "3",
-      "Hit": "21",
-      "Block": "---"
-    },
-    "Bar_gain_opponent": {
-      "Hit": "6",
-      "Block": "---"
-    }
-  },
-  {
-    "Name": "Fukiage Fierce",
-    "Common_name": "Fukiage HP, 623HP",
-    "Startup": "14",
-    "Hit": "8",
-    "Recovery": "26",
-    "Block_advantage": "-",
-    "Hit_advantage": "-",
-    "Crouch_hit_advantage": "-",
-    "Cancel": {
-      "Super_art": true,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": false,
-      "High_jump": true
-    },
-    "Parry": {
-      "High": true,
-      "Low": true
-    },
-    "Kara_range": "-",
-    "Throw_range": "-",
-    "Damage": "28",
-    "Stun": "31",
-    "Bar_gain_attacker": {
-      "Whiff": "3",
-      "Hit": "21",
-      "Block": "---"
-    },
-    "Bar_gain_opponent": {
-      "Hit": "6",
-      "Block": "---"
-    }
-  },
-  {
-    "Name": "Fukiage EX",
-    "Common_name": "623PP",
-    "Startup": "11",
-    "Hit": "8",
-    "Recovery": "26",
-    "Block_advantage": "-",
-    "Hit_advantage": "-",
-    "Crouch_hit_advantage": "-",
-    "Cancel": {
-      "Super_art": true,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": false,
-      "High_jump": true
-    },
-    "Parry": {
-      "High": true,
-      "Low": true
-    },
-    "Kara_range": "-",
-    "Throw_range": "-",
-    "Damage": "24",
-    "Stun": "21",
-    "Bar_gain_attacker": {
-      "Whiff": "-40",
-      "Hit": "-40",
-      "Block": "---"
-    },
-    "Bar_gain_opponent": {
-      "Hit": "0",
-      "Block": "---"
-    }
-  },
-  {
-    "Name": "Oroshi Jab",
-    "Common_name": "Oroshi LP, 214LP",
-    "Startup": "19",
+    "Name": "Tatsumaki Senpuu Kyaku Short",
+    "Common_name": "Tatsumaki LK, 214LK",
+    "Startup": "6",
     "Hit": "7",
-    "Recovery": "17",
-    "Block_advantage": "-4",
-    "Hit_advantage": "-",
-    "Crouch_hit_advantage": "-",
-    "Cancel": {
-      "Super_art": true,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": false,
-      "High_jump": false
-    },
-    "Parry": {
-      "High": true,
-      "Low": false
-    },
-    "Kara_range": "-",
-    "Throw_range": "-",
-    "Damage": "17",
-    "Stun": "7",
-    "Bar_gain_attacker": {
-      "Whiff": "3",
-      "Hit": "18",
-      "Block": "12"
-    },
-    "Bar_gain_opponent": {
-      "Hit": "4",
-      "Block": "0"
-    }
-  },
-  {
-    "Name": "Oroshi Strong",
-    "Common_name": "Oroshi MP, 214MP",
-    "Startup": "23",
-    "Hit": "7",
-    "Recovery": "17",
-    "Block_advantage": "-4",
+    "Recovery": "14",
+    "Block_advantage": "-5",
     "Hit_advantage": "-",
     "Crouch_hit_advantage": "-",
     "Cancel": {
@@ -1493,11 +1563,11 @@
     "Kara_range": "-",
     "Throw_range": "-",
     "Damage": "19",
-    "Stun": "11",
+    "Stun": "9",
     "Bar_gain_attacker": {
       "Whiff": "3",
-      "Hit": "18",
-      "Block": "12"
+      "Hit": "19",
+      "Block": "13"
     },
     "Bar_gain_opponent": {
       "Hit": "4",
@@ -1505,16 +1575,121 @@
     }
   },
   {
-    "Name": "Oroshi Fierce",
-    "Common_name": "Oroshi HP, 214HP",
-    "Startup": "28",
-    "Hit": "7",
-    "Recovery": "17",
+    "Name": "Tatsumaki Senpuu Kyaku Forward",
+    "Common_name": "Tatsumaki MK, 214MK",
+    "Startup": "6",
+    "Hit": "14",
+    "Recovery": "15",
+    "Block_advantage": "-6",
+    "Hit_advantage": "-",
+    "Crouch_hit_advantage": "-",
+    "Cancel": {
+      "Super_art": true,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": true,
+      "Low": false
+    },
+    "Kara_range": "-",
+    "Throw_range": "-",
+    "Damage": "23",
+    "Stun": "13",
+    "Bar_gain_attacker": {
+      "Whiff": "3",
+      "Hit": "21",
+      "Block": "15"
+    },
+    "Bar_gain_opponent": {
+      "Hit": "4",
+      "Block": "0"
+    }
+  },
+  {
+    "Name": "Tatsumaki Senpuu Kyaku Roundhouse",
+    "Common_name": "Tatsumaki HK, 214HK",
+    "Startup": "6",
+    "Hit": "17",
+    "Recovery": "15",
+    "Block_advantage": "-7",
+    "Hit_advantage": "-",
+    "Crouch_hit_advantage": "-",
+    "Cancel": {
+      "Super_art": true,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": true,
+      "Low": false
+    },
+    "Kara_range": "-",
+    "Throw_range": "-",
+    "Damage": "27",
+    "Stun": "15",
+    "Bar_gain_attacker": {
+      "Whiff": "3",
+      "Hit": "22",
+      "Block": "16"
+    },
+    "Bar_gain_opponent": {
+      "Hit": "4",
+      "Block": "0"
+    }
+  },
+  {
+    "Name": "Tatsumaki Senpuu Kyaku EX",
+    "Common_name": "Tatsumaki EX, 214KK",
+    "Startup": "4",
+    "Hit": "21",
+    "Recovery": "13",
+    "Block_advantage": "-3",
+    "Hit_advantage": "-",
+    "Crouch_hit_advantage": "-",
+    "Cancel": {
+      "Super_art": true,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": true,
+      "Low": false
+    },
+    "Kara_range": "-",
+    "Throw_range": "-",
+    "Damage": "34",
+    "Stun": "17",
+    "Bar_gain_attacker": {
+      "Whiff": "-40",
+      "Hit": "-40",
+      "Block": "-40"
+    },
+    "Bar_gain_opponent": {
+      "Hit": "0",
+      "Block": "0"
+    }
+  },
+  {
+    "Name": "Air Tatsumaki Senpuu Kyaku Short",
+    "Common_name": "Air Tatsumaki LK, a.214LK",
+    "Startup": "7",
+    "Hit": "4",
+    "Recovery": "-",
     "Block_advantage": "0",
     "Hit_advantage": "-",
     "Crouch_hit_advantage": "-",
     "Cancel": {
-      "Super_art": true,
+      "Super_art": false,
       "Special": false,
       "Self": false,
       "Chain": false,
@@ -1527,82 +1702,12 @@
     },
     "Kara_range": "-",
     "Throw_range": "-",
-    "Damage": "24",
-    "Stun": "13",
-    "Bar_gain_attacker": {
-      "Whiff": "3",
-      "Hit": "18",
-      "Block": "12"
-    },
-    "Bar_gain_opponent": {
-      "Hit": "4",
-      "Block": "0"
-    }
-  },
-  {
-    "Name": "Oroshi EX",
-    "Common_name": "214PP",
-    "Startup": "13",
-    "Hit": "7",
-    "Recovery": "17",
-    "Block_advantage": "4",
-    "Hit_advantage": "-",
-    "Crouch_hit_advantage": "-",
-    "Cancel": {
-      "Super_art": true,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": false,
-      "High_jump": false
-    },
-    "Parry": {
-      "High": true,
-      "Low": false
-    },
-    "Kara_range": "-",
-    "Throw_range": "-",
-    "Damage": "28",
+    "Damage": "27",
     "Stun": "9",
     "Bar_gain_attacker": {
-      "Whiff": "-40",
-      "Hit": "-40",
-      "Block": "-40"
-    },
-    "Bar_gain_opponent": {
-      "Hit": "0",
-      "Block": "0"
-    }
-  },
-  {
-    "Name": "Tsurugi Short",
-    "Common_name": "Tsurugi LK, a.214LK",
-    "Startup": "14",
-    "Hit": "4",
-    "Recovery": "-",
-    "Block_advantage": "1",
-    "Hit_advantage": "-",
-    "Crouch_hit_advantage": "-",
-    "Cancel": {
-      "Super_art": false,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": false,
-      "High_jump": false
-    },
-    "Parry": {
-      "High": true,
-      "Low": false
-    },
-    "Kara_range": "-",
-    "Throw_range": "-",
-    "Damage": "24",
-    "Stun": "13",
-    "Bar_gain_attacker": {
-      "Whiff": "3",
-      "Hit": "19",
-      "Block": "12"
+      "Whiff": "2",
+      "Hit": "17",
+      "Block": "3"
     },
     "Bar_gain_opponent": {
       "Hit": "4",
@@ -1610,117 +1715,12 @@
     }
   },
   {
-    "Name": "Tsurugi Forward",
-    "Common_name": "Tsurugi MK, a.214MK",
-    "Startup": "15",
-    "Hit": "4",
-    "Recovery": "-",
-    "Block_advantage": "1",
-    "Hit_advantage": "-",
-    "Crouch_hit_advantage": "-",
-    "Cancel": {
-      "Super_art": false,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": false,
-      "High_jump": false
-    },
-    "Parry": {
-      "High": true,
-      "Low": false
-    },
-    "Kara_range": "-",
-    "Throw_range": "-",
-    "Damage": "26",
-    "Stun": "13",
-    "Bar_gain_attacker": {
-      "Whiff": "3",
-      "Hit": "19",
-      "Block": "12"
-    },
-    "Bar_gain_opponent": {
-      "Hit": "4",
-      "Block": "0"
-    }
-  },
-  {
-    "Name": "Tsurugi Roundhouse",
-    "Common_name": "Tsurugi HK, a.214HK",
-    "Startup": "16",
-    "Hit": "4",
-    "Recovery": "-",
-    "Block_advantage": "1",
-    "Hit_advantage": "-",
-    "Crouch_hit_advantage": "-",
-    "Cancel": {
-      "Super_art": false,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": false,
-      "High_jump": false
-    },
-    "Parry": {
-      "High": true,
-      "Low": false
-    },
-    "Kara_range": "-",
-    "Throw_range": "-",
-    "Damage": "28",
-    "Stun": "13",
-    "Bar_gain_attacker": {
-      "Whiff": "3",
-      "Hit": "19",
-      "Block": "12"
-    },
-    "Bar_gain_opponent": {
-      "Hit": "4",
-      "Block": "0"
-    }
-  },
-  {
-    "Name": "Tsurugi EX",
-    "Common_name": "a.214KK",
-    "Startup": "15",
-    "Hit": "4",
-    "Recovery": "-",
-    "Block_advantage": "3",
-    "Hit_advantage": "-",
-    "Crouch_hit_advantage": "-",
-    "Cancel": {
-      "Super_art": false,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": false,
-      "High_jump": false
-    },
-    "Parry": {
-      "High": true,
-      "Low": false
-    },
-    "Kara_range": "-",
-    "Throw_range": "-",
-    "Damage": "17",
-    "Stun": "9",
-    "Bar_gain_attacker": {
-      "Whiff": "-40",
-      "Hit": "-40",
-      "Block": "-40"
-    },
-    "Bar_gain_opponent": {
-      "Hit": "0",
-      "Block": "0"
-    }
-  },
-  {
-    "Name": "Karakusa Short",
-    "Common_name": "Karakusa LK, 63214LK",
+    "Name": "Air Tatsumaki Senpuu Kyaku Forward",
+    "Common_name": "Air Tatsumaki MK, a.214MK",
     "Startup": "7",
-    "Hit": "3",
-    "Recovery": "28",
-    "Block_advantage": "-",
+    "Hit": "6",
+    "Recovery": "-",
+    "Block_advantage": "0",
     "Hit_advantage": "-",
     "Crouch_hit_advantage": "-",
     "Cancel": {
@@ -1732,30 +1732,30 @@
       "High_jump": false
     },
     "Parry": {
-      "High": false,
+      "High": true,
       "Low": false
     },
     "Kara_range": "-",
-    "Throw_range": "53",
-    "Damage": "5",
-    "Stun": "8",
+    "Throw_range": "-",
+    "Damage": "40",
+    "Stun": "13",
     "Bar_gain_attacker": {
-      "Whiff": "0",
-      "Hit": "8",
-      "Block": "---"
+      "Whiff": "3",
+      "Hit": "25",
+      "Block": "3"
     },
     "Bar_gain_opponent": {
-      "Hit": "2",
-      "Block": "---"
+      "Hit": "6",
+      "Block": "0"
     }
   },
   {
-    "Name": "Karakusa Forward",
-    "Common_name": "Karakusa MK, 63214MK",
-    "Startup": "8",
-    "Hit": "4",
-    "Recovery": "29",
-    "Block_advantage": "-",
+    "Name": "Air Tatsumaki Senpuu Kyaku Roundhouse",
+    "Common_name": "Air Tatsumaki HK, a.214HK",
+    "Startup": "7",
+    "Hit": "8",
+    "Recovery": "-",
+    "Block_advantage": "0",
     "Hit_advantage": "-",
     "Crouch_hit_advantage": "-",
     "Cancel": {
@@ -1767,30 +1767,30 @@
       "High_jump": false
     },
     "Parry": {
-      "High": false,
+      "High": true,
       "Low": false
     },
     "Kara_range": "-",
-    "Throw_range": "57",
-    "Damage": "5",
-    "Stun": "8",
+    "Throw_range": "-",
+    "Damage": "40",
+    "Stun": "13",
     "Bar_gain_attacker": {
-      "Whiff": "0",
-      "Hit": "8",
-      "Block": "---"
+      "Whiff": "4",
+      "Hit": "26",
+      "Block": "3"
     },
     "Bar_gain_opponent": {
-      "Hit": "2",
-      "Block": "---"
+      "Hit": "6",
+      "Block": "0"
     }
   },
   {
-    "Name": "Karakusa Roundhouse",
-    "Common_name": "Karakusa HK, 63214HK",
-    "Startup": "9",
-    "Hit": "4",
-    "Recovery": "30",
-    "Block_advantage": "-",
+    "Name": "Air Tatsumaki Senpuu Kyaku (EX)",
+    "Common_name": "Air Tatsumaki EX, a.214KK",
+    "Startup": "6",
+    "Hit": "13",
+    "Recovery": "-",
+    "Block_advantage": "2",
     "Hit_advantage": "-",
     "Crouch_hit_advantage": "-",
     "Cancel": {
@@ -1802,30 +1802,30 @@
       "High_jump": false
     },
     "Parry": {
-      "High": false,
+      "High": true,
       "Low": false
     },
     "Kara_range": "-",
-    "Throw_range": "61",
-    "Damage": "5",
-    "Stun": "8",
+    "Throw_range": "-",
+    "Damage": "52",
+    "Stun": "17",
     "Bar_gain_attacker": {
-      "Whiff": "0",
-      "Hit": "8",
-      "Block": "---"
+      "Whiff": "-40",
+      "Hit": "-40",
+      "Block": "-40"
     },
     "Bar_gain_opponent": {
-      "Hit": "2",
-      "Block": "---"
+      "Hit": "0",
+      "Block": "0"
     }
   },
   {
-    "Name": "Seichuusen Godanzuki",
+    "Name": "Shoryureppa",
     "Common_name": "Super Art 1, SA1",
     "Startup": "0",
-    "Hit": "3",
-    "Recovery": "65",
-    "Block_advantage": "-17",
+    "Hit": "34",
+    "Recovery": "45",
+    "Block_advantage": "-38",
     "Hit_advantage": "-",
     "Crouch_hit_advantage": "-",
     "Cancel": {
@@ -1842,42 +1842,16 @@
     },
     "Kara_range": "-",
     "Throw_range": "-",
-    "Damage": "83",
-    "Stun": "20"
+    "Damage": "69",
+    "Stun": "6"
   },
   {
-    "Name": "Abare Tosanami",
+    "Name": "Shinryuken",
     "Common_name": "Super Art 2, SA2",
-    "Startup": "14 + 0",
-    "Hit": "5",
-    "Recovery": "25",
-    "Block_advantage": "-20",
-    "Hit_advantage": "-",
-    "Crouch_hit_advantage": "-",
-    "Cancel": {
-      "Super_art": false,
-      "Special": false,
-      "Self": false,
-      "Chain": false,
-      "Dash": true,
-      "High_jump": true
-    },
-    "Parry": {
-      "High": true,
-      "Low": false
-    },
-    "Kara_range": "-",
-    "Throw_range": "-",
-    "Damage": "59",
-    "Stun": "22"
-  },
-  {
-    "Name": "Tanden Renki",
-    "Common_name": "Super Art 3, SA3",
-    "Startup": "-",
-    "Hit": "-",
-    "Recovery": "-",
-    "Block_advantage": "-",
+    "Startup": "1",
+    "Hit": "36",
+    "Recovery": "61",
+    "Block_advantage": "-80",
     "Hit_advantage": "-",
     "Crouch_hit_advantage": "-",
     "Cancel": {
@@ -1889,12 +1863,38 @@
       "High_jump": false
     },
     "Parry": {
-      "High": false,
+      "High": true,
+      "Low": true
+    },
+    "Kara_range": "-",
+    "Throw_range": "-",
+    "Damage": "67",
+    "Stun": "0"
+  },
+  {
+    "Name": "Shipuujinrai Kyaku",
+    "Common_name": "Super Art 3, SA3",
+    "Startup": "1",
+    "Hit": "9",
+    "Recovery": "27",
+    "Block_advantage": "-11",
+    "Hit_advantage": "-",
+    "Crouch_hit_advantage": "-",
+    "Cancel": {
+      "Super_art": false,
+      "Special": false,
+      "Self": false,
+      "Chain": false,
+      "Dash": false,
+      "High_jump": false
+    },
+    "Parry": {
+      "High": true,
       "Low": false
     },
     "Kara_range": "-",
     "Throw_range": "-",
-    "Damage": "-",
-    "Stun": "-"
+    "Damage": "51",
+    "Stun": "16"
   }
 ]
