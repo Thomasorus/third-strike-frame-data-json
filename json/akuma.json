@@ -1,7 +1,7 @@
 [
   {
     "Name": "Jab",
-    "Common_name": "",
+    "Common_name": "LP",
     "Startup": "3",
     "Hit": "3",
     "Recovery": "5",
@@ -36,7 +36,7 @@
   },
   {
     "Name": "Strong",
-    "Common_name": "",
+    "Common_name": "MP",
     "Startup": "5",
     "Hit": "4",
     "Recovery": "10",
@@ -71,7 +71,7 @@
   },
   {
     "Name": "Fierce",
-    "Common_name": "",
+    "Common_name": "HP",
     "Startup": "4",
     "Hit": "4",
     "Recovery": "17",
@@ -106,7 +106,7 @@
   },
   {
     "Name": "Far Jab",
-    "Common_name": "",
+    "Common_name": "Far LP, f.LP",
     "Startup": "4",
     "Hit": "3",
     "Recovery": "4",
@@ -141,7 +141,7 @@
   },
   {
     "Name": "Far Strong",
-    "Common_name": "",
+    "Common_name": "Far MP, f.MP",
     "Startup": "5",
     "Hit": "4",
     "Recovery": "9",
@@ -176,7 +176,7 @@
   },
   {
     "Name": "Far Fierce",
-    "Common_name": "",
+    "Common_name": "Far HP, f.HP",
     "Startup": "8",
     "Hit": "5",
     "Recovery": "22",
@@ -211,7 +211,7 @@
   },
   {
     "Name": "Crouching Jab",
-    "Common_name": "",
+    "Common_name": "cr.LP, 2LP",
     "Startup": "4",
     "Hit": "3",
     "Recovery": "5",
@@ -246,7 +246,7 @@
   },
   {
     "Name": "Crouching Strong",
-    "Common_name": "",
+    "Common_name": "cr.MP, 2MP",
     "Startup": "5",
     "Hit": "4",
     "Recovery": "7",
@@ -281,7 +281,7 @@
   },
   {
     "Name": "Crouching Fierce",
-    "Common_name": "",
+    "Common_name": "cr.HP, 2HP",
     "Startup": "5",
     "Hit": "5",
     "Recovery": "19",
@@ -316,7 +316,7 @@
   },
   {
     "Name": "Neutral Jumping Fierce",
-    "Common_name": "",
+    "Common_name": "n.j.HP, 8HP",
     "Startup": "6",
     "Hit": "3",
     "Recovery": "-",
@@ -351,7 +351,7 @@
   },
   {
     "Name": "Jumping Jab",
-    "Common_name": "",
+    "Common_name": "j.LP, 7LP, 8LP, 9LP",
     "Startup": "4",
     "Hit": "-",
     "Recovery": "-",
@@ -386,7 +386,7 @@
   },
   {
     "Name": "Jumping Strong",
-    "Common_name": "",
+    "Common_name": "j.MP, 7MP, 8MP, 9MP",
     "Startup": "5",
     "Hit": "5",
     "Recovery": "-",
@@ -421,7 +421,7 @@
   },
   {
     "Name": "Jumping Fierce",
-    "Common_name": "",
+    "Common_name": "j.HP, 7HP, 9HP",
     "Startup": "6",
     "Hit": "4",
     "Recovery": "-",
@@ -456,7 +456,7 @@
   },
   {
     "Name": "Short",
-    "Common_name": "",
+    "Common_name": "LK",
     "Startup": "4",
     "Hit": "4",
     "Recovery": "7",
@@ -491,7 +491,7 @@
   },
   {
     "Name": "Forward",
-    "Common_name": "",
+    "Common_name": "MK",
     "Startup": "4",
     "Hit": "5",
     "Recovery": "11",
@@ -526,7 +526,7 @@
   },
   {
     "Name": "Far Forward",
-    "Common_name": "",
+    "Common_name": "Far MK, f.MK",
     "Startup": "5",
     "Hit": "5",
     "Recovery": "17",
@@ -561,7 +561,7 @@
   },
   {
     "Name": "Roundhouse",
-    "Common_name": "",
+    "Common_name": "HK",
     "Startup": "5",
     "Hit": "8",
     "Recovery": "25",
@@ -596,7 +596,7 @@
   },
   {
     "Name": "Far Roundhouse",
-    "Common_name": "",
+    "Common_name": "Far HK, f.HK",
     "Startup": "9",
     "Hit": "5",
     "Recovery": "20",
@@ -631,7 +631,7 @@
   },
   {
     "Name": "Crouching Short",
-    "Common_name": "",
+    "Common_name": "cr.LK, 2LK",
     "Startup": "5",
     "Hit": "3",
     "Recovery": "7",
@@ -666,7 +666,7 @@
   },
   {
     "Name": "Crouching Forward",
-    "Common_name": "",
+    "Common_name": "cr.MK, 2MK",
     "Startup": "6",
     "Hit": "5",
     "Recovery": "16",
@@ -701,7 +701,7 @@
   },
   {
     "Name": "Crouching Roundhouse",
-    "Common_name": "",
+    "Common_name": "cr.HK, 2HK",
     "Startup": "7",
     "Hit": "5",
     "Recovery": "25",
@@ -736,7 +736,7 @@
   },
   {
     "Name": "Neutral Jumping Forward",
-    "Common_name": "",
+    "Common_name": "n.j.MK, 8MK",
     "Startup": "5",
     "Hit": "6",
     "Recovery": "-",
@@ -771,7 +771,7 @@
   },
   {
     "Name": "Neutral Jumping Roundhouse",
-    "Common_name": "",
+    "Common_name": "n.j.HK, 8HK",
     "Startup": "6",
     "Hit": "5",
     "Recovery": "-",
@@ -806,7 +806,7 @@
   },
   {
     "Name": "Jumping Short",
-    "Common_name": "",
+    "Common_name": "j.LK, 7LK, 8LK, 9LK",
     "Startup": "4",
     "Hit": "10",
     "Recovery": "-",
@@ -841,7 +841,7 @@
   },
   {
     "Name": "Jumping Forward",
-    "Common_name": "",
+    "Common_name": "j.MK, 7MK, 9MK",
     "Startup": "5",
     "Hit": "6",
     "Recovery": "-",
@@ -876,7 +876,7 @@
   },
   {
     "Name": "Jumping Roundhouse",
-    "Common_name": "",
+    "Common_name": "j.HK, 7HK, 9HK",
     "Startup": "6",
     "Hit": "4",
     "Recovery": "-",
@@ -910,8 +910,8 @@
     }
   },
   {
-    "Name": "Towards + Strong",
-    "Common_name": "",
+    "Name": "Towards Strong",
+    "Common_name": "6MP",
     "Startup": "14",
     "Hit": "2",
     "Recovery": "22",
@@ -946,7 +946,7 @@
   },
   {
     "Name": "Dive Kick",
-    "Common_name": "",
+    "Common_name": "a.2MK",
     "Startup": "8",
     "Hit": "10",
     "Recovery": "7",
@@ -981,7 +981,7 @@
   },
   {
     "Name": "Throw",
-    "Common_name": "",
+    "Common_name": "LP+LK",
     "Startup": "2",
     "Hit": "1",
     "Recovery": "21",
@@ -1015,8 +1015,8 @@
     }
   },
   {
-    "Name": "Back + Throw",
-    "Common_name": "",
+    "Name": "Back Throw",
+    "Common_name": "4LP+LK",
     "Startup": "2",
     "Hit": "1",
     "Recovery": "21",
@@ -1051,7 +1051,7 @@
   },
   {
     "Name": "Universal Overhead",
-    "Common_name": "",
+    "Common_name": "UOH, MP+MK",
     "Startup": "15",
     "Hit": "8",
     "Recovery": "7",
@@ -1086,7 +1086,7 @@
   },
   {
     "Name": "Gou Hadouken",
-    "Common_name": "",
+    "Common_name": "Hadouken, Hadoken, 236P",
     "Startup": "8",
     "Hit": "-",
     "Recovery": "38",
@@ -1120,8 +1120,8 @@
     }
   },
   {
-    "Name": "Gou Shoryuken (Jab)",
-    "Common_name": "",
+    "Name": "Gou Shoryuken Jab",
+    "Common_name": "Shoryuken LP, 623LP",
     "Startup": "3",
     "Hit": "14",
     "Recovery": "26",
@@ -1155,8 +1155,8 @@
     }
   },
   {
-    "Name": "Gou Shoryuken (Strong)",
-    "Common_name": "",
+    "Name": "Gou Shoryuken Strong",
+    "Common_name": "Shoryuken MP, 623MP",
     "Startup": "2",
     "Hit": "7",
     "Recovery": "41",
@@ -1190,8 +1190,8 @@
     }
   },
   {
-    "Name": "Gou Shoryuken (Fierce)",
-    "Common_name": "",
+    "Name": "Gou Shoryuken Fierce",
+    "Common_name": "Shoryuken HP, 623HP",
     "Startup": "1",
     "Hit": "23",
     "Recovery": "35",
@@ -1226,7 +1226,7 @@
   },
   {
     "Name": "Ashura Senkuu",
-    "Common_name": "",
+    "Common_name": "Teleport",
     "Startup": "-",
     "Hit": "-",
     "Recovery": "9",
@@ -1261,7 +1261,7 @@
   },
   {
     "Name": "Zankuu Hadouken",
-    "Common_name": "",
+    "Common_name": "Air Hadouken, Air Hadoken, a.236P",
     "Startup": "12",
     "Hit": "24",
     "Recovery": "N/A",
@@ -1295,8 +1295,8 @@
     }
   },
   {
-    "Name": "Tatsumaki Zankuu Kyaku (Short)",
-    "Common_name": "",
+    "Name": "Tatsumaki Zankuu Kyaku Short",
+    "Common_name": "Tatsu LK, 214LK",
     "Startup": "11",
     "Hit": "4",
     "Recovery": "17",
@@ -1330,8 +1330,8 @@
     }
   },
   {
-    "Name": "Tatsumaki Zankuu Kyaku (Forward)",
-    "Common_name": "",
+    "Name": "Tatsumaki Zankuu Kyaku Forward",
+    "Common_name": "Tatsu MK, 214MK",
     "Startup": "2",
     "Hit": "10",
     "Recovery": "16",
@@ -1365,8 +1365,8 @@
     }
   },
   {
-    "Name": "Tatsumaki Zankuu Kyaku (RH)",
-    "Common_name": "",
+    "Name": "Tatsumaki Zankuu Kyaku Roundhouse",
+    "Common_name": "Tatsu HK, 214HK",
     "Startup": "2",
     "Hit": "18",
     "Recovery": "10",
@@ -1400,8 +1400,8 @@
     }
   },
   {
-    "Name": "Shakunetsu Hadouken (Jab)",
-    "Common_name": "",
+    "Name": "Shakunetsu Hadouken Jab",
+    "Common_name": "Shakunetsu LP, 63214LP",
     "Startup": "14",
     "Hit": "44",
     "Recovery": "42",
@@ -1435,8 +1435,8 @@
     }
   },
   {
-    "Name": "Shakunetsu Hadouken (Strong)",
-    "Common_name": "",
+    "Name": "Shakunetsu Hadouken Strong",
+    "Common_name": "Shakunetsu MP, 63214MP",
     "Startup": "18",
     "Hit": "45",
     "Recovery": "43",
@@ -1470,8 +1470,8 @@
     }
   },
   {
-    "Name": "Shakunetsu Hadouken (Fierce)",
-    "Common_name": "",
+    "Name": "Shakunetsu Hadouken Fierce",
+    "Common_name": "Shakunetsu HP, 63214HP",
     "Startup": "22",
     "Hit": "46",
     "Recovery": "44",
@@ -1505,8 +1505,8 @@
     }
   },
   {
-    "Name": "Air Tatsumaki Zankuu Kyaku (Short)",
-    "Common_name": "",
+    "Name": "Air Tatsumaki Zankuu Kyaku Short",
+    "Common_name": "Air Tatsumaki LK, a.214LK",
     "Startup": "5",
     "Hit": "3",
     "Recovery": "40",
@@ -1540,8 +1540,8 @@
     }
   },
   {
-    "Name": "Air Tatsumaki Zankuu Kyaku (Forward)",
-    "Common_name": "",
+    "Name": "Air Tatsumaki Zankuu Kyaku Forward",
+    "Common_name": "Air Tatsumaki MK, a.214MK",
     "Startup": "5",
     "Hit": "6",
     "Recovery": "31",
@@ -1575,8 +1575,8 @@
     }
   },
   {
-    "Name": "Air Tatsumaki Zankuu Kyaku (RH)",
-    "Common_name": "",
+    "Name": "Air Tatsumaki Zankuu Kyaku Roundhouse",
+    "Common_name": "Air Tatsumaki HK, a.214HK",
     "Startup": "5",
     "Hit": "12",
     "Recovery": "16",
@@ -1611,7 +1611,7 @@
   },
   {
     "Name": "Hyakki Shuu",
-    "Common_name": "",
+    "Common_name": "Dragon K, 623K",
     "Startup": "40",
     "Hit": "15",
     "Recovery": "13",
@@ -1646,7 +1646,7 @@
   },
   {
     "Name": "Hyakki Goushou",
-    "Common_name": "",
+    "Common_name": "623K-P",
     "Startup": "10",
     "Hit": "3",
     "Recovery": "20",
@@ -1681,7 +1681,7 @@
   },
   {
     "Name": "Hyakki Goujin",
-    "Common_name": "",
+    "Common_name": "623K-K",
     "Startup": "9",
     "Hit": "10",
     "Recovery": "7",
@@ -1716,7 +1716,7 @@
   },
   {
     "Name": "Hyakki Gousai",
-    "Common_name": "",
+    "Common_name": "623K-LP+LK",
     "Startup": "3",
     "Hit": "2",
     "Recovery": "34",
@@ -1751,7 +1751,7 @@
   },
   {
     "Name": "Messatsu Gou Hadou",
-    "Common_name": "",
+    "Common_name": "Super Art 1, SA1",
     "Startup": "2",
     "Hit": "42",
     "Recovery": "N/A",
@@ -1777,7 +1777,7 @@
   },
   {
     "Name": "Tenma Gou Zankuu",
-    "Common_name": "",
+    "Common_name": "a.SA, a.236236P",
     "Startup": "7",
     "Hit": "32",
     "Recovery": "N/A",
@@ -1803,7 +1803,7 @@
   },
   {
     "Name": "Messatsu Gou Shoryuu",
-    "Common_name": "",
+    "Common_name": "Super Art 2, SA2",
     "Startup": "0",
     "Hit": "24",
     "Recovery": "37",
@@ -1829,7 +1829,7 @@
   },
   {
     "Name": "Messatsu Gou Rasen (Ground)",
-    "Common_name": "",
+    "Common_name": "Super Art 3, SA3",
     "Startup": "3",
     "Hit": "22",
     "Recovery": "51",
@@ -1855,7 +1855,7 @@
   },
   {
     "Name": "Messatsu Gou Rasen (Air)",
-    "Common_name": "",
+    "Common_name": "Aerial Super Art 3, a.SA3",
     "Startup": "1",
     "Hit": "27",
     "Recovery": "45",
@@ -1881,7 +1881,7 @@
   },
   {
     "Name": "Shun Goku Sastu",
-    "Common_name": "",
+    "Common_name": "Demon, LP LP 6 LK HP",
     "Startup": "4",
     "Hit": "39",
     "Recovery": "2",
@@ -1907,7 +1907,7 @@
   },
   {
     "Name": "Kongou Kokuretsu Zan",
-    "Common_name": "",
+    "Common_name": "222PPP",
     "Startup": "15",
     "Hit": "24",
     "Recovery": "64",
