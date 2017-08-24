@@ -1,7 +1,7 @@
 [
   {
     "Name": "Jab",
-    "Common_name": "",
+    "Common_name": "LP",
     "Startup": "4",
     "Hit": "2",
     "Recovery": "9",
@@ -36,7 +36,7 @@
   },
   {
     "Name": "Far Jab",
-    "Common_name": "",
+    "Common_name": "Far LP, f.LP",
     "Startup": "4",
     "Hit": "2",
     "Recovery": "8",
@@ -71,7 +71,7 @@
   },
   {
     "Name": "Strong",
-    "Common_name": "",
+    "Common_name": "MP",
     "Startup": "4",
     "Hit": "3",
     "Recovery": "12",
@@ -106,7 +106,7 @@
   },
   {
     "Name": "Fierce",
-    "Common_name": "",
+    "Common_name": "HP",
     "Startup": "14",
     "Hit": "4",
     "Recovery": "16",
@@ -141,7 +141,7 @@
   },
   {
     "Name": "Crouching Jab",
-    "Common_name": "",
+    "Common_name": "cr.LP, 2LP",
     "Startup": "4",
     "Hit": "2",
     "Recovery": "9",
@@ -176,7 +176,7 @@
   },
   {
     "Name": "Crouching Strong",
-    "Common_name": "",
+    "Common_name": "cr.MP, 2MP",
     "Startup": "7",
     "Hit": "2",
     "Recovery": "13",
@@ -211,7 +211,7 @@
   },
   {
     "Name": "Crouching Fierce",
-    "Common_name": "",
+    "Common_name": "cr.HP, 2HP",
     "Startup": "13",
     "Hit": "5",
     "Recovery": "22",
@@ -246,7 +246,7 @@
   },
   {
     "Name": "Jumping Jab",
-    "Common_name": "",
+    "Common_name": "j.LP, 7LP, 8LP, 9LP",
     "Startup": "4",
     "Hit": "12",
     "Recovery": "-",
@@ -281,7 +281,7 @@
   },
   {
     "Name": "Jumping Strong",
-    "Common_name": "",
+    "Common_name": "j.MP, 7MP, 8MP, 9MP",
     "Startup": "5",
     "Hit": "3",
     "Recovery": "-",
@@ -316,7 +316,7 @@
   },
   {
     "Name": "Jumping Fierce",
-    "Common_name": "",
+    "Common_name": "j.HP, 7HP, 8HP, 9HP",
     "Startup": "8",
     "Hit": "3",
     "Recovery": "-",
@@ -351,7 +351,7 @@
   },
   {
     "Name": "Short",
-    "Common_name": "",
+    "Common_name": "LK",
     "Startup": "5",
     "Hit": "3",
     "Recovery": "10",
@@ -386,7 +386,7 @@
   },
   {
     "Name": "Forward",
-    "Common_name": "",
+    "Common_name": "MK",
     "Startup": "5",
     "Hit": "3",
     "Recovery": "12",
@@ -421,7 +421,7 @@
   },
   {
     "Name": "Far Forward",
-    "Common_name": "",
+    "Common_name": "Far MK, f.MK",
     "Startup": "11",
     "Hit": "3",
     "Recovery": "14",
@@ -456,7 +456,7 @@
   },
   {
     "Name": "Roundhouse",
-    "Common_name": "",
+    "Common_name": "HK",
     "Startup": "16",
     "Hit": "5",
     "Recovery": "29",
@@ -491,7 +491,7 @@
   },
   {
     "Name": "Crouching Short",
-    "Common_name": "",
+    "Common_name": "cr.LK, 2LK",
     "Startup": "5",
     "Hit": "2",
     "Recovery": "8",
@@ -526,7 +526,7 @@
   },
   {
     "Name": "Crouching Forward",
-    "Common_name": "",
+    "Common_name": "cr.MK, 2MK",
     "Startup": "8",
     "Hit": "3",
     "Recovery": "12",
@@ -561,7 +561,7 @@
   },
   {
     "Name": "Crouching Roundhouse",
-    "Common_name": "",
+    "Common_name": "cr.HK, 2HK",
     "Startup": "11",
     "Hit": "2",
     "Recovery": "29",
@@ -596,7 +596,7 @@
   },
   {
     "Name": "Jumping Short",
-    "Common_name": "",
+    "Common_name": "j.LK, 7LK, 8LK, 9LK",
     "Startup": "4",
     "Hit": "-",
     "Recovery": "-",
@@ -631,7 +631,7 @@
   },
   {
     "Name": "Jumping Forward",
-    "Common_name": "",
+    "Common_name": "j.MK, 7MK, 8MK, 9MK",
     "Startup": "9",
     "Hit": "3",
     "Recovery": "-",
@@ -666,7 +666,7 @@
   },
   {
     "Name": "Jumping Roundhouse",
-    "Common_name": "",
+    "Common_name": "j.HK, 7HK, 8HK, 9HK",
     "Startup": "8",
     "Hit": "4",
     "Recovery": "-",
@@ -700,8 +700,8 @@
     }
   },
   {
-    "Name": "Towards + Strong",
-    "Common_name": "",
+    "Name": "Towards Strong",
+    "Common_name": "6MP",
     "Startup": "7",
     "Hit": "5",
     "Recovery": "10",
@@ -735,8 +735,8 @@
     }
   },
   {
-    "Name": "Towards + Fierce",
-    "Common_name": "",
+    "Name": "Towards Fierce",
+    "Common_name": "6HP",
     "Startup": "9",
     "Hit": "4",
     "Recovery": "17",
@@ -770,8 +770,8 @@
     }
   },
   {
-    "Name": "Back + Fierce",
-    "Common_name": "",
+    "Name": "Back Fierce",
+    "Common_name": "4HP",
     "Startup": "8",
     "Hit": "4",
     "Recovery": "23",
@@ -806,7 +806,7 @@
   },
   {
     "Name": "Throw",
-    "Common_name": "",
+    "Common_name": "LP+LK",
     "Startup": "2",
     "Hit": "1",
     "Recovery": "21",
@@ -841,7 +841,7 @@
   },
   {
     "Name": "Universal Overhead",
-    "Common_name": "",
+    "Common_name": "UOH, MP+MK",
     "Startup": "15",
     "Hit": "10",
     "Recovery": "5",
@@ -875,8 +875,8 @@
     }
   },
   {
-    "Name": "(Air) Down + Fierce",
-    "Common_name": "",
+    "Name": "Air Down Fierce",
+    "Common_name": "a.2HP",
     "Startup": "10",
     "Hit": "11",
     "Recovery": "26",
@@ -910,8 +910,8 @@
     }
   },
   {
-    "Name": "Flash Chop (Jab)",
-    "Common_name": "",
+    "Name": "Flash Chop Jab",
+    "Common_name": "Flash Chop LP, 236LP",
     "Startup": "11",
     "Hit": "2",
     "Recovery": "17",
@@ -945,8 +945,8 @@
     }
   },
   {
-    "Name": "Flash Chop (Strong)",
-    "Common_name": "",
+    "Name": "Flash Chop Strong",
+    "Common_name": "Flash Chop MP, 236MP",
     "Startup": "15",
     "Hit": "3",
     "Recovery": "19",
@@ -980,8 +980,8 @@
     }
   },
   {
-    "Name": "Flash Chop (Fierce)",
-    "Common_name": "",
+    "Name": "Flash Chop Fierce",
+    "Common_name": "Flash Chop HP, 236HP",
     "Startup": "19",
     "Hit": "4",
     "Recovery": "17",
@@ -1015,8 +1015,8 @@
     }
   },
   {
-    "Name": "Flash Chop (EX)",
-    "Common_name": "",
+    "Name": "Flash Chop EX",
+    "Common_name": "Flash Chop EX, 236PP",
     "Startup": "9",
     "Hit": "4",
     "Recovery": "15",
@@ -1050,8 +1050,8 @@
     }
   },
   {
-    "Name": "Power Bomb (Jab)",
-    "Common_name": "",
+    "Name": "Power Bomb Jab",
+    "Common_name": "Power Bomb LP, 63214LP",
     "Startup": "6",
     "Hit": "2",
     "Recovery": "35",
@@ -1085,8 +1085,8 @@
     }
   },
   {
-    "Name": "Power Bomb (Strong)",
-    "Common_name": "",
+    "Name": "Power Bomb Strong",
+    "Common_name": "Power Bomb MP, 63214MP",
     "Startup": "7",
     "Hit": "2",
     "Recovery": "41",
@@ -1120,8 +1120,8 @@
     }
   },
   {
-    "Name": "Power Bomb (Fierce)",
-    "Common_name": "",
+    "Name": "Power Bomb Fierce",
+    "Common_name": "Power Bomb HP, 63214HP",
     "Startup": "8",
     "Hit": "2",
     "Recovery": "44",
@@ -1155,8 +1155,8 @@
     }
   },
   {
-    "Name": "Reverse Power Bomb (Jab)",
-    "Common_name": "",
+    "Name": "Reverse Power Bomb Jab",
+    "Common_name": "Reverse Power Bomb LP, r.63214LP",
     "Startup": "6",
     "Hit": "2",
     "Recovery": "35",
@@ -1190,8 +1190,8 @@
     }
   },
   {
-    "Name": "Reverse Power Bomb (Strong)",
-    "Common_name": "",
+    "Name": "Reverse Power Bomb Strong",
+    "Common_name": "Reverse Power Bomb MP, r.63214MP",
     "Startup": "7",
     "Hit": "2",
     "Recovery": "41",
@@ -1225,8 +1225,8 @@
     }
   },
   {
-    "Name": "Reverse Power Bomb (Fierce)",
-    "Common_name": "",
+    "Name": "Reverse Power Bomb Fierce",
+    "Common_name": "Reverse Power Bomb HP, r.63214HP",
     "Startup": "8",
     "Hit": "2",
     "Recovery": "44",
@@ -1260,8 +1260,8 @@
     }
   },
   {
-    "Name": "Air Knee Smash (Short)",
-    "Common_name": "",
+    "Name": "Air Knee Smash Short",
+    "Common_name": "Air Knee Smash LK, 623LK",
     "Startup": "6",
     "Hit": "6",
     "Recovery": "35",
@@ -1295,8 +1295,8 @@
     }
   },
   {
-    "Name": "Air Knee Smash (Forward)",
-    "Common_name": "",
+    "Name": "Air Knee Smash Forward",
+    "Common_name": "Air Knee Smash MK, 623MK",
     "Startup": "7",
     "Hit": "10",
     "Recovery": "34",
@@ -1330,8 +1330,8 @@
     }
   },
   {
-    "Name": "Air Knee Smash (RH)",
-    "Common_name": "",
+    "Name": "Air Knee Smash Roundhouse",
+    "Common_name": "Air Knee Smash HK, 623HK",
     "Startup": "8",
     "Hit": "12",
     "Recovery": "33",
@@ -1365,8 +1365,8 @@
     }
   },
   {
-    "Name": "Air Knee Smash (EX)",
-    "Common_name": "",
+    "Name": "Air Knee Smash EX",
+    "Common_name": "Air Knee Smash EX, 623KK",
     "Startup": "3",
     "Hit": "17",
     "Recovery": "34",
@@ -1400,8 +1400,8 @@
     }
   },
   {
-    "Name": "Air Stampede (Short)",
-    "Common_name": "",
+    "Name": "Air Stampede Short",
+    "Common_name": "Air Stampede LK, 2..8LK",
     "Startup": "23",
     "Hit": "2",
     "Recovery": "24",
@@ -1435,8 +1435,8 @@
     }
   },
   {
-    "Name": "Air Stampede (Forward)",
-    "Common_name": "",
+    "Name": "Air Stampede Forward",
+    "Common_name": "Air Stampede MK, 2..8MK",
     "Startup": "25",
     "Hit": "2",
     "Recovery": "24",
@@ -1470,8 +1470,8 @@
     }
   },
   {
-    "Name": "Air Stampede (RH)",
-    "Common_name": "",
+    "Name": "Air Stampede Roundhouse",
+    "Common_name": "Air Stampede HK, 2..8HK",
     "Startup": "26",
     "Hit": "2",
     "Recovery": "24",
@@ -1505,8 +1505,8 @@
     }
   },
   {
-    "Name": "Air Stampede (EX)",
-    "Common_name": "",
+    "Name": "Air Stampede EX",
+    "Common_name": "Air Stampede EX, 2..8KK",
     "Startup": "26",
     "Hit": "2",
     "Recovery": "24",
@@ -1540,8 +1540,8 @@
     }
   },
   {
-    "Name": "Slash Elbow (Short)",
-    "Common_name": "",
+    "Name": "Slash Elbow Short",
+    "Common_name": "Slash Elbow LK, 4..6LK",
     "Startup": "15",
     "Hit": "1",
     "Recovery": "17",
@@ -1575,8 +1575,8 @@
     }
   },
   {
-    "Name": "Slash Elbow (Forward)",
-    "Common_name": "",
+    "Name": "Slash Elbow Forward",
+    "Common_name": "Slash Elbow MK, 4..6MK",
     "Startup": "18",
     "Hit": "1",
     "Recovery": "23",
@@ -1610,8 +1610,8 @@
     }
   },
   {
-    "Name": "Slash Elbow (RH)",
-    "Common_name": "",
+    "Name": "Slash Elbow Roundhouse",
+    "Common_name": "Slash Elbow HK, 4..6HK",
     "Startup": "20",
     "Hit": "1",
     "Recovery": "23",
@@ -1645,8 +1645,8 @@
     }
   },
   {
-    "Name": "Slash Elbow (EX)",
-    "Common_name": "",
+    "Name": "Slash Elbow EX",
+    "Common_name": "Slash Elbow EX, 4..6PP",
     "Startup": "9",
     "Hit": "6*1",
     "Recovery": "23",
@@ -1680,8 +1680,8 @@
     }
   },
   {
-    "Name": "Spiral D.D.T. (Short)",
-    "Common_name": "",
+    "Name": "Spiral D.D.T. Short",
+    "Common_name": "Spiral D.D.T. LK, 63214LK",
     "Startup": "20",
     "Hit": "3",
     "Recovery": "15",
@@ -1715,8 +1715,8 @@
     }
   },
   {
-    "Name": "Spiral D.D.T. (Forward)",
-    "Common_name": "",
+    "Name": "Spiral D.D.T. Forward",
+    "Common_name": "Spiral D.D.T. MK, 63214MK",
     "Startup": "22",
     "Hit": "3",
     "Recovery": "14",
@@ -1750,8 +1750,8 @@
     }
   },
   {
-    "Name": "Spiral D.D.T. (RH)",
-    "Common_name": "",
+    "Name": "Spiral D.D.T. Roundhouse",
+    "Common_name": "Spiral D.D.T. HK, 63214HK",
     "Startup": "24",
     "Hit": "3",
     "Recovery": "13",
@@ -1786,7 +1786,7 @@
   },
   {
     "Name": "Hyper Bomb",
-    "Common_name": "",
+    "Common_name": "Super Art 1, SA1",
     "Startup": "1",
     "Hit": "2",
     "Recovery": "33",
@@ -1812,7 +1812,7 @@
   },
   {
     "Name": "Reverse Hyper Bomb",
-    "Common_name": "",
+    "Common_name": "Reverse Super Art 1, Reverse SA1, r.SA1",
     "Startup": "1",
     "Hit": "2",
     "Recovery": "33",
@@ -1838,7 +1838,7 @@
   },
   {
     "Name": "Boomerang Raid",
-    "Common_name": "",
+    "Common_name": "Super Art 2, SA2",
     "Startup": "0",
     "Hit": "14",
     "Recovery": "41",
@@ -1864,7 +1864,7 @@
   },
   {
     "Name": "Stun Gun Headbutt",
-    "Common_name": "",
+    "Common_name": "Super Art 3, SA3",
     "Startup": "24",
     "Hit": "3",
     "Recovery": "17",
