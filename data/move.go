@@ -1,4 +1,4 @@
-//Package data implements the structure of Json for Third Strike frame data.
+// Package data implements the structure of Json for Third Strike frame data.
 package data
 
 import (
@@ -9,6 +9,7 @@ import (
 	"github.com/fmicaelli/framedata/util"
 )
 
+// ThirdStrikeMove represents the json data structure to be deserialized
 type ThirdStrikeMove struct {
 	Name                 string
 	Common_Name          string
@@ -48,6 +49,7 @@ type BarGain struct {
 	Block string
 }
 
+// GetMove is the function type to be redefined and pass to RunBot
 func GetMove(characterData []byte, moveName string) (s string, err error) {
 	var moveList []ThirdStrikeMove
 	err = json.Unmarshal(characterData, &moveList)
@@ -66,6 +68,7 @@ func GetMove(characterData []byte, moveName string) (s string, err error) {
 	return
 }
 
+// The string which will be displayed by the discord bot
 func (t ThirdStrikeMove) String() string {
 	var buffer bytes.Buffer
 	buffer.WriteString(fmt.Sprintf("Common_Name: %s\n", t.Common_Name))
