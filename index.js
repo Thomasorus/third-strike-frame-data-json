@@ -1,7 +1,7 @@
 let characters
 
 async function getCharacters() {
-   const res = await fetch(`/characters.json`)
+   const res = await fetch(`./characters.json`)
    if(res.ok) {
      const json = await res.json()
      window.localStorage.setItem("characters", JSON.stringify(json[0]))
