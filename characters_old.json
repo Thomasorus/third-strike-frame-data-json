@@ -1,7 +1,7 @@
 [{
  "akuma": [
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "LP",
      "Startup": "3",
      "Hit": "3",
@@ -36,7 +36,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "MP",
      "Startup": "5",
      "Hit": "4",
@@ -71,7 +71,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "HP",
      "Startup": "4",
      "Hit": "4",
@@ -106,7 +106,7 @@
      }
    },
    {
-     "Name": "Far LP",
+     "Name": "Far Jab",
      "Common_name": "Far LP, f.LP",
      "Startup": "4",
      "Hit": "3",
@@ -141,7 +141,7 @@
      }
    },
    {
-     "Name": "Far MP",
+     "Name": "Far Strong",
      "Common_name": "Far MP, f.MP",
      "Startup": "5",
      "Hit": "4",
@@ -176,7 +176,7 @@
      }
    },
    {
-     "Name": "Far HP",
+     "Name": "Far Fierce",
      "Common_name": "Far HP, f.HP",
      "Startup": "8",
      "Hit": "5",
@@ -211,7 +211,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "cr.LP, 2LP",
      "Startup": "4",
      "Hit": "3",
@@ -246,7 +246,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "cr.MP, 2MP",
      "Startup": "5",
      "Hit": "4",
@@ -281,7 +281,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "cr.HP, 2HP",
      "Startup": "5",
      "Hit": "5",
@@ -316,7 +316,7 @@
      }
    },
    {
-     "Name": "n.j.HP",
+     "Name": "Neutral Jumping Fierce",
      "Common_name": "n.j.HP, 8HP",
      "Startup": "6",
      "Hit": "3",
@@ -351,7 +351,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "j.LP, 7LP, 8LP, 9LP",
      "Startup": "4",
      "Hit": "-",
@@ -386,7 +386,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "j.MP, 7MP, 8MP, 9MP",
      "Startup": "5",
      "Hit": "5",
@@ -421,7 +421,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "j.HP, 7HP, 9HP",
      "Startup": "6",
      "Hit": "4",
@@ -456,7 +456,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "LK",
      "Startup": "4",
      "Hit": "4",
@@ -491,7 +491,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "MK",
      "Startup": "4",
      "Hit": "5",
@@ -526,7 +526,7 @@
      }
    },
    {
-     "Name": "Far MK",
+     "Name": "Far Forward",
      "Common_name": "Far MK, f.MK",
      "Startup": "5",
      "Hit": "5",
@@ -561,7 +561,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "HK",
      "Startup": "5",
      "Hit": "8",
@@ -596,7 +596,7 @@
      }
    },
    {
-     "Name": "Far HK",
+     "Name": "Far Roundhouse",
      "Common_name": "Far HK, f.HK",
      "Startup": "9",
      "Hit": "5",
@@ -631,7 +631,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "cr.LK, 2LK",
      "Startup": "5",
      "Hit": "3",
@@ -666,7 +666,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "cr.MK, 2MK",
      "Startup": "6",
      "Hit": "5",
@@ -701,7 +701,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "cr.HK, 2HK",
      "Startup": "7",
      "Hit": "5",
@@ -736,7 +736,7 @@
      }
    },
    {
-     "Name": "n.j.MK",
+     "Name": "Neutral Jumping Forward",
      "Common_name": "n.j.MK, 8MK",
      "Startup": "5",
      "Hit": "6",
@@ -771,7 +771,7 @@
      }
    },
    {
-     "Name": "n.j.HK",
+     "Name": "Neutral Jumping Roundhouse",
      "Common_name": "n.j.HK, 8HK",
      "Startup": "6",
      "Hit": "5",
@@ -806,7 +806,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "j.LK, 7LK, 8LK, 9LK",
      "Startup": "4",
      "Hit": "10",
@@ -841,7 +841,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "j.MK, 7MK, 9MK",
      "Startup": "5",
      "Hit": "6",
@@ -876,7 +876,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "j.HK, 7HK, 9HK",
      "Startup": "6",
      "Hit": "4",
@@ -911,8 +911,8 @@
      }
    },
    {
-     "Name": "f.MP",
-     "Common_name": "f.MP",
+     "Name": "Towards Strong",
+     "Common_name": "6MP",
      "Startup": "14",
      "Hit": "2",
      "Recovery": "22",
@@ -1016,7 +1016,7 @@
      }
    },
    {
-     "Name": "b.Throw",
+     "Name": "Back Throw",
      "Common_name": "4LP+LK",
      "Startup": "2",
      "Hit": "1",
@@ -1051,7 +1051,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "UOH, MP+MK",
      "Startup": "15",
      "Hit": "8",
@@ -1121,7 +1121,7 @@
      }
    },
    {
-     "Name": "Gou Shoryuken LP",
+     "Name": "Gou Shoryuken Jab",
      "Common_name": "Shoryuken LP, 623LP",
      "Startup": "3",
      "Hit": "14",
@@ -1156,7 +1156,7 @@
      }
    },
    {
-     "Name": "Gou Shoryuken MP",
+     "Name": "Gou Shoryuken Strong",
      "Common_name": "Shoryuken MP, 623MP",
      "Startup": "2",
      "Hit": "7",
@@ -1191,7 +1191,7 @@
      }
    },
    {
-     "Name": "Gou Shoryuken HP",
+     "Name": "Gou Shoryuken Fierce",
      "Common_name": "Shoryuken HP, 623HP",
      "Startup": "1",
      "Hit": "23",
@@ -1296,7 +1296,7 @@
      }
    },
    {
-     "Name": "Tatsumaki Zankuu Kyaku LK",
+     "Name": "Tatsumaki Zankuu Kyaku Short",
      "Common_name": "Tatsu LK, 214LK",
      "Startup": "11",
      "Hit": "4",
@@ -1331,7 +1331,7 @@
      }
    },
    {
-     "Name": "Tatsumaki Zankuu Kyaku MK",
+     "Name": "Tatsumaki Zankuu Kyaku Forward",
      "Common_name": "Tatsu MK, 214MK",
      "Startup": "2",
      "Hit": "10",
@@ -1366,7 +1366,7 @@
      }
    },
    {
-     "Name": "Tatsumaki Zankuu Kyaku HK",
+     "Name": "Tatsumaki Zankuu Kyaku Roundhouse",
      "Common_name": "Tatsu HK, 214HK",
      "Startup": "2",
      "Hit": "18",
@@ -1401,7 +1401,7 @@
      }
    },
    {
-     "Name": "Shakunetsu Hadouken LP",
+     "Name": "Shakunetsu Hadouken Jab",
      "Common_name": "Shakunetsu LP, 63214LP",
      "Startup": "14",
      "Hit": "44",
@@ -1436,7 +1436,7 @@
      }
    },
    {
-     "Name": "Shakunetsu Hadouken MP",
+     "Name": "Shakunetsu Hadouken Strong",
      "Common_name": "Shakunetsu MP, 63214MP",
      "Startup": "18",
      "Hit": "45",
@@ -1471,7 +1471,7 @@
      }
    },
    {
-     "Name": "Shakunetsu Hadouken HP",
+     "Name": "Shakunetsu Hadouken Fierce",
      "Common_name": "Shakunetsu HP, 63214HP",
      "Startup": "22",
      "Hit": "46",
@@ -1506,7 +1506,7 @@
      }
    },
    {
-     "Name": "Air Tatsumaki Zankuu Kyaku LK",
+     "Name": "Air Tatsumaki Zankuu Kyaku Short",
      "Common_name": "Air Tatsumaki LK, a.214LK",
      "Startup": "5",
      "Hit": "3",
@@ -1541,7 +1541,7 @@
      }
    },
    {
-     "Name": "Air Tatsumaki Zankuu Kyaku MK",
+     "Name": "Air Tatsumaki Zankuu Kyaku Forward",
      "Common_name": "Air Tatsumaki MK, a.214MK",
      "Startup": "5",
      "Hit": "6",
@@ -1576,7 +1576,7 @@
      }
    },
    {
-     "Name": "Air Tatsumaki Zankuu Kyaku HK",
+     "Name": "Air Tatsumaki Zankuu Kyaku Roundhouse",
      "Common_name": "Air Tatsumaki HK, a.214HK",
      "Startup": "5",
      "Hit": "12",
@@ -1935,7 +1935,7 @@
  ],
  "alex": [
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "LP",
      "Startup": "4",
      "Hit": "2",
@@ -1970,7 +1970,7 @@
      }
    },
    {
-     "Name": "Far LP",
+     "Name": "Far Jab",
      "Common_name": "Far LP, f.LP",
      "Startup": "4",
      "Hit": "2",
@@ -2005,7 +2005,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "MP",
      "Startup": "4",
      "Hit": "3",
@@ -2040,7 +2040,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "HP",
      "Startup": "14",
      "Hit": "4",
@@ -2075,7 +2075,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "cr.LP, 2LP",
      "Startup": "4",
      "Hit": "2",
@@ -2110,7 +2110,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "cr.MP, 2MP",
      "Startup": "7",
      "Hit": "2",
@@ -2145,7 +2145,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "cr.HP, 2HP",
      "Startup": "13",
      "Hit": "5",
@@ -2180,7 +2180,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "j.LP, 7LP, 8LP, 9LP",
      "Startup": "4",
      "Hit": "12",
@@ -2215,7 +2215,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "j.MP, 7MP, 8MP, 9MP",
      "Startup": "5",
      "Hit": "3",
@@ -2250,7 +2250,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "j.HP, 7HP, 8HP, 9HP",
      "Startup": "8",
      "Hit": "3",
@@ -2285,7 +2285,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "LK",
      "Startup": "5",
      "Hit": "3",
@@ -2320,7 +2320,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "MK",
      "Startup": "5",
      "Hit": "3",
@@ -2355,7 +2355,7 @@
      }
    },
    {
-     "Name": "Far MK",
+     "Name": "Far Forward",
      "Common_name": "Far MK, f.MK",
      "Startup": "11",
      "Hit": "3",
@@ -2390,7 +2390,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "HK",
      "Startup": "16",
      "Hit": "5",
@@ -2425,7 +2425,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "cr.LK, 2LK",
      "Startup": "5",
      "Hit": "2",
@@ -2460,7 +2460,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "cr.MK, 2MK",
      "Startup": "8",
      "Hit": "3",
@@ -2495,7 +2495,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "cr.HK, 2HK",
      "Startup": "11",
      "Hit": "2",
@@ -2530,7 +2530,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "j.LK, 7LK, 8LK, 9LK",
      "Startup": "4",
      "Hit": "-",
@@ -2565,7 +2565,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "j.MK, 7MK, 8MK, 9MK",
      "Startup": "9",
      "Hit": "3",
@@ -2600,7 +2600,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "j.HK, 7HK, 8HK, 9HK",
      "Startup": "8",
      "Hit": "4",
@@ -2635,8 +2635,8 @@
      }
    },
    {
-     "Name": "f.MP",
-     "Common_name": "f.MP",
+     "Name": "Towards Strong",
+     "Common_name": "6MP",
      "Startup": "7",
      "Hit": "5",
      "Recovery": "10",
@@ -2670,8 +2670,8 @@
      }
    },
    {
-     "Name": "f.HP",
-     "Common_name": "f.HP",
+     "Name": "Towards Fierce",
+     "Common_name": "6HP",
      "Startup": "9",
      "Hit": "4",
      "Recovery": "17",
@@ -2705,7 +2705,7 @@
      }
    },
    {
-     "Name": "b.HP",
+     "Name": "Back Fierce",
      "Common_name": "4HP",
      "Startup": "8",
      "Hit": "4",
@@ -2775,7 +2775,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "UOH, MP+MK",
      "Startup": "15",
      "Hit": "10",
@@ -2810,7 +2810,7 @@
      }
    },
    {
-     "Name": "Air Down HP",
+     "Name": "Air Down Fierce",
      "Common_name": "a.2HP",
      "Startup": "10",
      "Hit": "11",
@@ -2845,8 +2845,8 @@
      }
    },
    {
-     "Name": "Flash Chop LP",
-     "Common_name": "Flash Chop LP, 23f.LP",
+     "Name": "Flash Chop Jab",
+     "Common_name": "Flash Chop LP, 236LP",
      "Startup": "11",
      "Hit": "2",
      "Recovery": "17",
@@ -2880,8 +2880,8 @@
      }
    },
    {
-     "Name": "Flash Chop MP",
-     "Common_name": "Flash Chop MP, 23f.MP",
+     "Name": "Flash Chop Strong",
+     "Common_name": "Flash Chop MP, 236MP",
      "Startup": "15",
      "Hit": "3",
      "Recovery": "19",
@@ -2915,8 +2915,8 @@
      }
    },
    {
-     "Name": "Flash Chop HP",
-     "Common_name": "Flash Chop HP, 23f.HP",
+     "Name": "Flash Chop Fierce",
+     "Common_name": "Flash Chop HP, 236HP",
      "Startup": "19",
      "Hit": "4",
      "Recovery": "17",
@@ -2985,7 +2985,7 @@
      }
    },
    {
-     "Name": "Power Bomb LP",
+     "Name": "Power Bomb Jab",
      "Common_name": "Power Bomb LP, 63214LP",
      "Startup": "6",
      "Hit": "2",
@@ -3020,7 +3020,7 @@
      }
    },
    {
-     "Name": "Power Bomb MP",
+     "Name": "Power Bomb Strong",
      "Common_name": "Power Bomb MP, 63214MP",
      "Startup": "7",
      "Hit": "2",
@@ -3055,7 +3055,7 @@
      }
    },
    {
-     "Name": "Power Bomb HP",
+     "Name": "Power Bomb Fierce",
      "Common_name": "Power Bomb HP, 63214HP",
      "Startup": "8",
      "Hit": "2",
@@ -3090,7 +3090,7 @@
      }
    },
    {
-     "Name": "Reverse Power Bomb LP",
+     "Name": "Reverse Power Bomb Jab",
      "Common_name": "Reverse Power Bomb LP, r.63214LP",
      "Startup": "6",
      "Hit": "2",
@@ -3125,7 +3125,7 @@
      }
    },
    {
-     "Name": "Reverse Power Bomb MP",
+     "Name": "Reverse Power Bomb Strong",
      "Common_name": "Reverse Power Bomb MP, r.63214MP",
      "Startup": "7",
      "Hit": "2",
@@ -3160,7 +3160,7 @@
      }
    },
    {
-     "Name": "Reverse Power Bomb HP",
+     "Name": "Reverse Power Bomb Fierce",
      "Common_name": "Reverse Power Bomb HP, r.63214HP",
      "Startup": "8",
      "Hit": "2",
@@ -3195,7 +3195,7 @@
      }
    },
    {
-     "Name": "Air Knee Smash LK",
+     "Name": "Air Knee Smash Short",
      "Common_name": "Air Knee Smash LK, 623LK",
      "Startup": "6",
      "Hit": "6",
@@ -3230,7 +3230,7 @@
      }
    },
    {
-     "Name": "Air Knee Smash MK",
+     "Name": "Air Knee Smash Forward",
      "Common_name": "Air Knee Smash MK, 623MK",
      "Startup": "7",
      "Hit": "10",
@@ -3265,7 +3265,7 @@
      }
    },
    {
-     "Name": "Air Knee Smash HK",
+     "Name": "Air Knee Smash Roundhouse",
      "Common_name": "Air Knee Smash HK, 623HK",
      "Startup": "8",
      "Hit": "12",
@@ -3335,7 +3335,7 @@
      }
    },
    {
-     "Name": "Air Stampede LK",
+     "Name": "Air Stampede Short",
      "Common_name": "Air Stampede LK, 2..8LK",
      "Startup": "23",
      "Hit": "2",
@@ -3370,7 +3370,7 @@
      }
    },
    {
-     "Name": "Air Stampede MK",
+     "Name": "Air Stampede Forward",
      "Common_name": "Air Stampede MK, 2..8MK",
      "Startup": "25",
      "Hit": "2",
@@ -3405,7 +3405,7 @@
      }
    },
    {
-     "Name": "Air Stampede HK",
+     "Name": "Air Stampede Roundhouse",
      "Common_name": "Air Stampede HK, 2..8HK",
      "Startup": "26",
      "Hit": "2",
@@ -3475,8 +3475,8 @@
      }
    },
    {
-     "Name": "Slash Elbow LK",
-     "Common_name": "Slash Elbow LK, 4..f.LK",
+     "Name": "Slash Elbow Short",
+     "Common_name": "Slash Elbow LK, 4..6LK",
      "Startup": "15",
      "Hit": "1",
      "Recovery": "17",
@@ -3510,8 +3510,8 @@
      }
    },
    {
-     "Name": "Slash Elbow MK",
-     "Common_name": "Slash Elbow MK, 4..f.MK",
+     "Name": "Slash Elbow Forward",
+     "Common_name": "Slash Elbow MK, 4..6MK",
      "Startup": "18",
      "Hit": "1",
      "Recovery": "23",
@@ -3545,8 +3545,8 @@
      }
    },
    {
-     "Name": "Slash Elbow HK",
-     "Common_name": "Slash Elbow HK, 4..f.HK",
+     "Name": "Slash Elbow Roundhouse",
+     "Common_name": "Slash Elbow HK, 4..6HK",
      "Startup": "20",
      "Hit": "1",
      "Recovery": "23",
@@ -3615,7 +3615,7 @@
      }
    },
    {
-     "Name": "Spiral D.D.T. LK",
+     "Name": "Spiral D.D.T. Short",
      "Common_name": "Spiral D.D.T. LK, 63214LK",
      "Startup": "20",
      "Hit": "3",
@@ -3650,7 +3650,7 @@
      }
    },
    {
-     "Name": "Spiral D.D.T. MK",
+     "Name": "Spiral D.D.T. Forward",
      "Common_name": "Spiral D.D.T. MK, 63214MK",
      "Startup": "22",
      "Hit": "3",
@@ -3685,7 +3685,7 @@
      }
    },
    {
-     "Name": "Spiral D.D.T. HK",
+     "Name": "Spiral D.D.T. Roundhouse",
      "Common_name": "Spiral D.D.T. HK, 63214HK",
      "Startup": "24",
      "Hit": "3",
@@ -3826,7 +3826,7 @@
  ],
  "chunli": [
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "LP",
      "Startup": "2",
      "Hit": "2",
@@ -3861,7 +3861,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "MP",
      "Startup": "6",
      "Hit": "8",
@@ -3896,7 +3896,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "HP",
      "Startup": "8",
      "Hit": "6",
@@ -3931,7 +3931,7 @@
      }
    },
    {
-     "Name": "Far LP",
+     "Name": "Far Jab",
      "Common_name": "Far LP, f.LP",
      "Startup": "3",
      "Hit": "5",
@@ -3966,7 +3966,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "cr.LP, 2LP",
      "Startup": "2",
      "Hit": "4",
@@ -4001,7 +4001,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "cr.MP, 2MP",
      "Startup": "8",
      "Hit": "2",
@@ -4036,7 +4036,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "cr.HP, 2HP",
      "Startup": "8",
      "Hit": "2",
@@ -4071,7 +4071,7 @@
      }
    },
    {
-     "Name": "n.j.LP",
+     "Name": "Neutral Jumping Jab",
      "Common_name": "n.j.LP, 8LP",
      "Startup": "4",
      "Hit": "-",
@@ -4106,7 +4106,7 @@
      }
    },
    {
-     "Name": "n.j.MP",
+     "Name": "Neutral Jumping Strong",
      "Common_name": "n.j.LP, 8MP",
      "Startup": "6",
      "Hit": "-",
@@ -4141,7 +4141,7 @@
      }
    },
    {
-     "Name": "n.j.HP",
+     "Name": "Neutral Jumping Fierce",
      "Common_name": "n.j.LP, 8HP",
      "Startup": "10",
      "Hit": "3",
@@ -4176,7 +4176,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "j.LP, 7LP, 9LP",
      "Startup": "2",
      "Hit": "-",
@@ -4211,7 +4211,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "j.MP, 7MP, 9MP",
      "Startup": "4",
      "Hit": "-",
@@ -4246,7 +4246,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "j.HP, 7HP, 9HP",
      "Startup": "9",
      "Hit": "6",
@@ -4281,7 +4281,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "LK",
      "Startup": "3",
      "Hit": "5",
@@ -4316,7 +4316,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "MK",
      "Startup": "6",
      "Hit": "2",
@@ -4351,7 +4351,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "HK",
      "Startup": "4",
      "Hit": "9",
@@ -4386,7 +4386,7 @@
      }
    },
    {
-     "Name": "Far MK",
+     "Name": "Far Forward",
      "Common_name": "Far MK, f.MK",
      "Startup": "7",
      "Hit": "6",
@@ -4421,7 +4421,7 @@
      }
    },
    {
-     "Name": "Far HK",
+     "Name": "Far Roundhouse",
      "Common_name": "Far HK, f.HK",
      "Startup": "12",
      "Hit": "1",
@@ -4456,7 +4456,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "cr.LK, 2LK",
      "Startup": "4",
      "Hit": "2",
@@ -4491,7 +4491,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "cr.MK, 2MK",
      "Startup": "6",
      "Hit": "2",
@@ -4526,7 +4526,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "cr.HK, 2HK",
      "Startup": "7",
      "Hit": "3",
@@ -4561,7 +4561,7 @@
      }
    },
    {
-     "Name": "n.j.LK",
+     "Name": "Neutral Jumping Short",
      "Common_name": "n.j.LK, 8LK",
      "Startup": "5",
      "Hit": "22",
@@ -4596,7 +4596,7 @@
      }
    },
    {
-     "Name": "n.j.MK",
+     "Name": "Neutral Jumping Forward",
      "Common_name": "n.j.MK, 8MK",
      "Startup": "6",
      "Hit": "2",
@@ -4631,7 +4631,7 @@
      }
    },
    {
-     "Name": "n.j.HK",
+     "Name": "Neutral Jumping Roundhouse",
      "Common_name": "n.j.HK, 8HK",
      "Startup": "8",
      "Hit": "5",
@@ -4666,7 +4666,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "j.LK, 7LK, 9LK",
      "Startup": "5",
      "Hit": "-",
@@ -4701,7 +4701,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "j.MK, 7MK, 9MK",
      "Startup": "6",
      "Hit": "13",
@@ -4736,7 +4736,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "j.HK, 7HK, 9HK",
      "Startup": "10",
      "Hit": "3",
@@ -4771,7 +4771,7 @@
      }
    },
    {
-     "Name": "b.MP",
+     "Name": "Back Strong",
      "Common_name": "4MP",
      "Startup": "5",
      "Hit": "3",
@@ -4806,7 +4806,7 @@
      }
    },
    {
-     "Name": "b.HP",
+     "Name": "Back Fierce",
      "Common_name": "4HP",
      "Startup": "7",
      "Hit": "9",
@@ -4841,8 +4841,8 @@
      }
    },
    {
-     "Name": "f.MK",
-     "Common_name": "f.MK",
+     "Name": "Towards Forward",
+     "Common_name": "6MK",
      "Startup": "11",
      "Hit": "7",
      "Recovery": "11",
@@ -4876,7 +4876,7 @@
      }
    },
    {
-     "Name": "cr.f.HK",
+     "Name": "Down-Towards Roundhouse",
      "Common_name": "3HK",
      "Startup": "37",
      "Hit": "5",
@@ -4911,7 +4911,7 @@
      }
    },
    {
-     "Name": "Air Down + MK",
+     "Name": "Air Down + Forward",
      "Common_name": "a.2MK",
      "Startup": "9",
      "Hit": "-",
@@ -4946,7 +4946,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "UOH, MP+MK",
      "Startup": "15",
      "Hit": "10",
@@ -5051,8 +5051,8 @@
      }
    },
    {
-     "Name": "Kikkoken LP",
-     "Common_name": "Kikkoken LP LP, 4123f.LP",
+     "Name": "Kikkoken Jab",
+     "Common_name": "Kikkoken Jab LP, 41236LP",
      "Startup": "14",
      "Hit": "36",
      "Recovery": "45",
@@ -5086,8 +5086,8 @@
      }
    },
    {
-     "Name": "Kikkoken MP",
-     "Common_name": "Kikkoken LP MP, 4123f.MP",
+     "Name": "Kikkoken Strong",
+     "Common_name": "Kikkoken Jab MP, 41236MP",
      "Startup": "13",
      "Hit": "17",
      "Recovery": "38",
@@ -5121,8 +5121,8 @@
      }
    },
    {
-     "Name": "Kikkoken HP",
-     "Common_name": "Kikkoken LP HP, 4123f.HP",
+     "Name": "Kikkoken Fierce",
+     "Common_name": "Kikkoken Jab HP, 41236HP",
      "Startup": "11",
      "Hit": "7",
      "Recovery": "32",
@@ -5191,7 +5191,7 @@
      }
    },
    {
-     "Name": "Hyakuretsu Kyaku LK",
+     "Name": "Hyakuretsu Kyaku Short",
      "Common_name": "LK-LK-LK",
      "Startup": "6",
      "Hit": "7",
@@ -5226,7 +5226,7 @@
      }
    },
    {
-     "Name": "Hyakuretsu Kyaku MK",
+     "Name": "Hyakuretsu Kyaku Forward",
      "Common_name": "MK-MK-MK",
      "Startup": "6",
      "Hit": "4",
@@ -5261,7 +5261,7 @@
      }
    },
    {
-     "Name": "Hyakuretsu Kyaku HK",
+     "Name": "Hyakuretsu Kyaku Roundhouse",
      "Common_name": "HK-HK-HK",
      "Startup": "5",
      "Hit": "4",
@@ -5331,7 +5331,7 @@
      }
    },
    {
-     "Name": "Spinning Bird Kick LK",
+     "Name": "Spinning Bird Kick Short",
      "Common_name": "Spinning Bird Kick LK, SBK LK, 2..8LK",
      "Startup": "12",
      "Hit": "4",
@@ -5366,7 +5366,7 @@
      }
    },
    {
-     "Name": "Spinning Bird Kick MK",
+     "Name": "Spinning Bird Kick Forward",
      "Common_name": "Spinning Bird Kick MK, SBK MK, 2..8MK",
      "Startup": "14",
      "Hit": "6",
@@ -5401,7 +5401,7 @@
      }
    },
    {
-     "Name": "Spinning Bird Kick HK",
+     "Name": "Spinning Bird Kick Roundhouse",
      "Common_name": "Spinning Bird Kick HK, SBK HK, 2..8HK",
      "Startup": "17",
      "Hit": "8",
@@ -5471,7 +5471,7 @@
      }
    },
    {
-     "Name": "Hazan Shu LK",
+     "Name": "Hazan Shu Short",
      "Common_name": "Hazan Shu LK, 63214LK",
      "Startup": "22",
      "Hit": "3",
@@ -5506,7 +5506,7 @@
      }
    },
    {
-     "Name": "Hazan Shu MK",
+     "Name": "Hazan Shu Forward",
      "Common_name": "Hazan Shu MK, 63214MK",
      "Startup": "24",
      "Hit": "3",
@@ -5541,7 +5541,7 @@
      }
    },
    {
-     "Name": "Hazan Shu HK",
+     "Name": "Hazan Shu Roundhouse",
      "Common_name": "Hazan Shu HK, 63214HK",
      "Startup": "29",
      "Hit": "3",
@@ -5691,7 +5691,7 @@
  ],
  "dudley": [
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "",
      "Startup": "3",
      "Hit": "2",
@@ -5726,7 +5726,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "",
      "Startup": "3",
      "Hit": "2",
@@ -5761,7 +5761,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "",
      "Startup": "7",
      "Hit": "3",
@@ -5796,7 +5796,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "",
      "Startup": "3",
      "Hit": "1",
@@ -5831,7 +5831,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "",
      "Startup": "4",
      "Hit": "2",
@@ -5866,7 +5866,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "",
      "Startup": "7",
      "Hit": "4",
@@ -5901,7 +5901,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "4",
@@ -5936,7 +5936,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "4",
@@ -5971,7 +5971,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "",
      "Startup": "8",
      "Hit": "3",
@@ -6006,7 +6006,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "",
      "Startup": "5",
      "Hit": "2",
@@ -6041,7 +6041,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "",
      "Startup": "5",
      "Hit": "3",
@@ -6076,7 +6076,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "",
      "Startup": "5",
      "Hit": "3",
@@ -6111,7 +6111,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "1",
@@ -6146,7 +6146,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "",
      "Startup": "9",
      "Hit": "3",
@@ -6181,7 +6181,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "",
      "Startup": "15",
      "Hit": "3",
@@ -6216,7 +6216,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "17",
@@ -6251,7 +6251,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "",
      "Startup": "5",
      "Hit": "13",
@@ -6286,7 +6286,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "",
      "Startup": "12",
      "Hit": "4",
@@ -6321,7 +6321,7 @@
      }
    },
    {
-     "Name": "f.MP",
+     "Name": "Towards + Strong",
      "Common_name": "",
      "Startup": "8",
      "Hit": "5",
@@ -6356,7 +6356,7 @@
      }
    },
    {
-     "Name": "f.HK",
+     "Name": "Towards + Roundhouse",
      "Common_name": "",
      "Startup": "12",
      "Hit": "4",
@@ -6391,7 +6391,7 @@
      }
    },
    {
-     "Name": "f.MK",
+     "Name": "Towards + Forward",
      "Common_name": "",
      "Startup": "5",
      "Hit": "2",
@@ -6426,7 +6426,7 @@
      }
    },
    {
-     "Name": "f.HP",
+     "Name": "Towards + Fierce",
      "Common_name": "",
      "Startup": "15",
      "Hit": "5",
@@ -6461,7 +6461,7 @@
      }
    },
    {
-     "Name": "f.LP",
+     "Name": "Towards + Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "2",
@@ -6566,7 +6566,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "",
      "Startup": "15",
      "Hit": "10",
@@ -6636,7 +6636,7 @@
      }
    },
    {
-     "Name": "Jet Uppercut (LP)",
+     "Name": "Jet Uppercut (Jab)",
      "Common_name": "",
      "Startup": "4",
      "Hit": "8",
@@ -6671,7 +6671,7 @@
      }
    },
    {
-     "Name": "Jet Uppercut (MP)",
+     "Name": "Jet Uppercut (Strong)",
      "Common_name": "",
      "Startup": "4",
      "Hit": "16",
@@ -6706,7 +6706,7 @@
      }
    },
    {
-     "Name": "Jet Uppercut (HP)",
+     "Name": "Jet Uppercut (Fierce)",
      "Common_name": "",
      "Startup": "3",
      "Hit": "21",
@@ -6776,7 +6776,7 @@
      }
    },
    {
-     "Name": "Machine Gun Blow (LP)",
+     "Name": "Machine Gun Blow (Jab)",
      "Common_name": "",
      "Startup": "8",
      "Hit": "8",
@@ -6811,7 +6811,7 @@
      }
    },
    {
-     "Name": "Machine Gun Blow (MP)",
+     "Name": "Machine Gun Blow (Strong)",
      "Common_name": "",
      "Startup": "15",
      "Hit": "10",
@@ -6846,7 +6846,7 @@
      }
    },
    {
-     "Name": "Machine Gun Blow (HP)",
+     "Name": "Machine Gun Blow (Fierce)",
      "Common_name": "",
      "Startup": "17",
      "Hit": "13",
@@ -7021,7 +7021,7 @@
      }
    },
    {
-     "Name": "Cross Counter (LP)",
+     "Name": "Cross Counter (Jab)",
      "Common_name": "",
      "Startup": "-",
      "Hit": "-",
@@ -7056,7 +7056,7 @@
      }
    },
    {
-     "Name": "Cross Counter (MP)",
+     "Name": "Cross Counter (Strong)",
      "Common_name": "",
      "Startup": "-",
      "Hit": "-",
@@ -7091,7 +7091,7 @@
      }
    },
    {
-     "Name": "Cross Counter (HP)",
+     "Name": "Cross Counter (Fierce)",
      "Common_name": "",
      "Startup": "-",
      "Hit": "-",
@@ -7161,7 +7161,7 @@
      }
    },
    {
-     "Name": "LK Swing Blow (LK)",
+     "Name": "Short Swing Blow (Short)",
      "Common_name": "",
      "Startup": "17",
      "Hit": "3",
@@ -7196,7 +7196,7 @@
      }
    },
    {
-     "Name": "LK Swing Blow (MK)",
+     "Name": "Short Swing Blow (Forward)",
      "Common_name": "",
      "Startup": "20",
      "Hit": "3",
@@ -7231,7 +7231,7 @@
      }
    },
    {
-     "Name": "LK Swing Blow (RH)",
+     "Name": "Short Swing Blow (RH)",
      "Common_name": "",
      "Startup": "23",
      "Hit": "3",
@@ -7266,7 +7266,7 @@
      }
    },
    {
-     "Name": "LK Swing Blow (EX)",
+     "Name": "Short Swing Blow (EX)",
      "Common_name": "",
      "Startup": "17",
      "Hit": "10",
@@ -7381,7 +7381,7 @@
  ],
  "elena": [
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "",
      "Startup": "5",
      "Hit": "4",
@@ -7416,7 +7416,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "",
      "Startup": "6",
      "Hit": "5",
@@ -7451,7 +7451,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "",
      "Startup": "13",
      "Hit": "4",
@@ -7486,7 +7486,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "4",
@@ -7521,7 +7521,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "",
      "Startup": "6",
      "Hit": "6",
@@ -7556,7 +7556,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "",
      "Startup": "7",
      "Hit": "2",
@@ -7591,7 +7591,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "",
      "Startup": "5",
      "Hit": "10",
@@ -7626,7 +7626,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "",
      "Startup": "7",
      "Hit": "5",
@@ -7661,7 +7661,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "",
      "Startup": "8",
      "Hit": "3",
@@ -7696,7 +7696,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "",
      "Startup": "3",
      "Hit": "4",
@@ -7731,7 +7731,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "",
      "Startup": "7",
      "Hit": "2",
@@ -7766,7 +7766,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "",
      "Startup": "10",
      "Hit": "7",
@@ -7801,7 +7801,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "4",
@@ -7836,7 +7836,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "",
      "Startup": "8",
      "Hit": "3",
@@ -7871,7 +7871,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "",
      "Startup": "11",
      "Hit": "2",
@@ -7906,7 +7906,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "",
      "Startup": "6",
      "Hit": "8",
@@ -7941,7 +7941,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "",
      "Startup": "8",
      "Hit": "6",
@@ -7976,7 +7976,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "",
      "Startup": "10",
      "Hit": "6",
@@ -8011,7 +8011,7 @@
      }
    },
    {
-     "Name": "f.MP",
+     "Name": "Towards + Strong",
      "Common_name": "",
      "Startup": "15",
      "Hit": "4",
@@ -8046,7 +8046,7 @@
      }
    },
    {
-     "Name": "cr.f.HK",
+     "Name": "Down-Towards + Roundhouse",
      "Common_name": "",
      "Startup": "12",
      "Hit": "6",
@@ -8081,7 +8081,7 @@
      }
    },
    {
-     "Name": "f.MK",
+     "Name": "Towards + Forward",
      "Common_name": "",
      "Startup": "11",
      "Hit": "8",
@@ -8116,7 +8116,7 @@
      }
    },
    {
-     "Name": "b.HK",
+     "Name": "Back + Roundhouse",
      "Common_name": "",
      "Startup": "12",
      "Hit": "6",
@@ -8186,7 +8186,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "",
      "Startup": "15",
      "Hit": "10",
@@ -8256,7 +8256,7 @@
      }
    },
    {
-     "Name": "Scratch Wheel (LK)",
+     "Name": "Scratch Wheel (Short)",
      "Common_name": "",
      "Startup": "6",
      "Hit": "4",
@@ -8291,7 +8291,7 @@
      }
    },
    {
-     "Name": "Scratch Wheel (MK)",
+     "Name": "Scratch Wheel (Forward)",
      "Common_name": "",
      "Startup": "4",
      "Hit": "5",
@@ -8396,7 +8396,7 @@
      }
    },
    {
-     "Name": "Rhino Horn (LK)",
+     "Name": "Rhino Horn (Short)",
      "Common_name": "",
      "Startup": "14",
      "Hit": "9",
@@ -8431,7 +8431,7 @@
      }
    },
    {
-     "Name": "Rhino Horn (MK)",
+     "Name": "Rhino Horn (Forward)",
      "Common_name": "",
      "Startup": "18",
      "Hit": "10",
@@ -8536,7 +8536,7 @@
      }
    },
    {
-     "Name": "Mallet Smash (LP)",
+     "Name": "Mallet Smash (Jab)",
      "Common_name": "",
      "Startup": "21",
      "Hit": "8",
@@ -8571,7 +8571,7 @@
      }
    },
    {
-     "Name": "Mallet Smash (MP)",
+     "Name": "Mallet Smash (Strong)",
      "Common_name": "",
      "Startup": "24",
      "Hit": "7",
@@ -8606,7 +8606,7 @@
      }
    },
    {
-     "Name": "Mallet Smash (HP)",
+     "Name": "Mallet Smash (Fierce)",
      "Common_name": "",
      "Startup": "27",
      "Hit": "6",
@@ -8676,7 +8676,7 @@
      }
    },
    {
-     "Name": "Spinning Scythe (LK)",
+     "Name": "Spinning Scythe (Short)",
      "Common_name": "",
      "Startup": "15",
      "Hit": "4",
@@ -8711,7 +8711,7 @@
      }
    },
    {
-     "Name": "Spinning Scythe (MK)",
+     "Name": "Spinning Scythe (Forward)",
      "Common_name": "",
      "Startup": "16",
      "Hit": "4",
@@ -8816,7 +8816,7 @@
      }
    },
    {
-     "Name": "Lynx Tail (LK)",
+     "Name": "Lynx Tail (Short)",
      "Common_name": "",
      "Startup": "11",
      "Hit": "6",
@@ -8851,7 +8851,7 @@
      }
    },
    {
-     "Name": "Lynx Tail (MK)",
+     "Name": "Lynx Tail (Forward)",
      "Common_name": "",
      "Startup": "14",
      "Hit": "6",
@@ -9036,7 +9036,7 @@
  ],
  "hugo": [
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "4",
@@ -9071,7 +9071,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "",
      "Startup": "10",
      "Hit": "7",
@@ -9106,7 +9106,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "",
      "Startup": "16",
      "Hit": "7",
@@ -9141,7 +9141,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "3",
@@ -9176,7 +9176,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "",
      "Startup": "7",
      "Hit": "5",
@@ -9211,7 +9211,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "",
      "Startup": "13",
      "Hit": "10",
@@ -9246,7 +9246,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "11",
@@ -9281,7 +9281,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "",
      "Startup": "7",
      "Hit": "8",
@@ -9316,7 +9316,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "",
      "Startup": "12",
      "Hit": "5",
@@ -9351,7 +9351,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "",
      "Startup": "5",
      "Hit": "4",
@@ -9386,7 +9386,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "",
      "Startup": "9",
      "Hit": "6",
@@ -9421,7 +9421,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "",
      "Startup": "21",
      "Hit": "8",
@@ -9456,7 +9456,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "",
      "Startup": "3",
      "Hit": "3",
@@ -9491,7 +9491,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "",
      "Startup": "8",
      "Hit": "5",
@@ -9526,7 +9526,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "",
      "Startup": "11",
      "Hit": "23",
@@ -9561,7 +9561,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "16",
@@ -9596,7 +9596,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "",
      "Startup": "6",
      "Hit": "7",
@@ -9631,7 +9631,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "",
      "Startup": "12",
      "Hit": "7",
@@ -9666,7 +9666,7 @@
      }
    },
    {
-     "Name": "f.HP",
+     "Name": "Towards + Fierce",
      "Common_name": "",
      "Startup": "14",
      "Hit": "4",
@@ -9701,7 +9701,7 @@
      }
    },
    {
-     "Name": "Down + HP (Air)",
+     "Name": "Down + Fierce (Air)",
      "Common_name": "",
      "Startup": "9",
      "Hit": "-",
@@ -9806,7 +9806,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "",
      "Startup": "15",
      "Hit": "10",
@@ -9841,7 +9841,7 @@
      }
    },
    {
-     "Name": "Shootcr.backbreaker (LK)",
+     "Name": "Shootdown Backbreaker (Short)",
      "Common_name": "",
      "Startup": "5",
      "Hit": "9",
@@ -9876,7 +9876,7 @@
      }
    },
    {
-     "Name": "Shootcr.backbreaker (MK)",
+     "Name": "Shootdown Backbreaker (Forward)",
      "Common_name": "",
      "Startup": "17",
      "Hit": "10",
@@ -9911,7 +9911,7 @@
      }
    },
    {
-     "Name": "Shootcr.backbreaker (RH)",
+     "Name": "Shootdown Backbreaker (RH)",
      "Common_name": "",
      "Startup": "12",
      "Hit": "12",
@@ -9946,7 +9946,7 @@
      }
    },
    {
-     "Name": "Moonsault Press (LP)",
+     "Name": "Moonsault Press (Jab)",
      "Common_name": "",
      "Startup": "2",
      "Hit": "2",
@@ -9981,7 +9981,7 @@
      }
    },
    {
-     "Name": "Moonsault Press (MP)",
+     "Name": "Moonsault Press (Strong)",
      "Common_name": "",
      "Startup": "2",
      "Hit": "2",
@@ -10016,7 +10016,7 @@
      }
    },
    {
-     "Name": "Moonsault Press (HP)",
+     "Name": "Moonsault Press (Fierce)",
      "Common_name": "",
      "Startup": "2",
      "Hit": "2",
@@ -10051,7 +10051,7 @@
      }
    },
    {
-     "Name": "Meat Squasher (LK)",
+     "Name": "Meat Squasher (Short)",
      "Common_name": "",
      "Startup": "21 ~ 24",
      "Hit": "2",
@@ -10086,7 +10086,7 @@
      }
    },
    {
-     "Name": "Meat Squasher (MK)",
+     "Name": "Meat Squasher (Forward)",
      "Common_name": "",
      "Startup": "31 ~ 52",
      "Hit": "2",
@@ -10156,7 +10156,7 @@
      }
    },
    {
-     "Name": "Giant Palm Bomber (LP)",
+     "Name": "Giant Palm Bomber (Jab)",
      "Common_name": "",
      "Startup": "17",
      "Hit": "2",
@@ -10191,7 +10191,7 @@
      }
    },
    {
-     "Name": "Giant Palm Bomber (MP)",
+     "Name": "Giant Palm Bomber (Strong)",
      "Common_name": "",
      "Startup": "19",
      "Hit": "2",
@@ -10226,7 +10226,7 @@
      }
    },
    {
-     "Name": "Giant Palm Bomber (HP)",
+     "Name": "Giant Palm Bomber (Fierce)",
      "Common_name": "",
      "Startup": "22",
      "Hit": "2",
@@ -10296,7 +10296,7 @@
      }
    },
    {
-     "Name": "Monster Lariat (LK)",
+     "Name": "Monster Lariat (Short)",
      "Common_name": "",
      "Startup": "11",
      "Hit": "5",
@@ -10331,7 +10331,7 @@
      }
    },
    {
-     "Name": "Monster Lariat (MK)",
+     "Name": "Monster Lariat (Forward)",
      "Common_name": "",
      "Startup": "15",
      "Hit": "5",
@@ -10436,7 +10436,7 @@
      }
    },
    {
-     "Name": "Ultra Throw (LK)",
+     "Name": "Ultra Throw (Short)",
      "Common_name": "",
      "Startup": "7",
      "Hit": "2",
@@ -10471,7 +10471,7 @@
      }
    },
    {
-     "Name": "Ultra Throw (MK)",
+     "Name": "Ultra Throw (Forward)",
      "Common_name": "",
      "Startup": "7",
      "Hit": "2",
@@ -10673,7 +10673,7 @@
  ],
  "ibuki": [
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "",
      "Startup": "2",
      "Hit": "1",
@@ -10708,7 +10708,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "",
      "Startup": "6",
      "Hit": "2",
@@ -10743,7 +10743,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "",
      "Startup": "9",
      "Hit": "5",
@@ -10778,7 +10778,7 @@
      }
    },
    {
-     "Name": "Far LP",
+     "Name": "Far Jab",
      "Common_name": "",
      "Startup": "2",
      "Hit": "2",
@@ -10813,7 +10813,7 @@
      }
    },
    {
-     "Name": "Far HP",
+     "Name": "Far Fierce",
      "Common_name": "",
      "Startup": "13",
      "Hit": "4",
@@ -10848,7 +10848,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "",
      "Startup": "3",
      "Hit": "3",
@@ -10883,7 +10883,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "",
      "Startup": "9",
      "Hit": "7",
@@ -10918,7 +10918,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "",
      "Startup": "8",
      "Hit": "3",
@@ -10953,7 +10953,7 @@
      }
    },
    {
-     "Name": "n.j.LP",
+     "Name": "Neutral Jumping Jab",
      "Common_name": "",
      "Startup": "3",
      "Hit": "-",
@@ -10988,7 +10988,7 @@
      }
    },
    {
-     "Name": "n.j.MP",
+     "Name": "Neutral Jumping Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "7",
@@ -11023,7 +11023,7 @@
      }
    },
    {
-     "Name": "n.j.HP",
+     "Name": "Neutral Jumping Fierce",
      "Common_name": "",
      "Startup": "11",
      "Hit": "5",
@@ -11058,7 +11058,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "",
      "Startup": "3",
      "Hit": "19",
@@ -11093,7 +11093,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "",
      "Startup": "6",
      "Hit": "13",
@@ -11128,7 +11128,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "",
      "Startup": "11",
      "Hit": "5",
@@ -11163,7 +11163,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "4",
@@ -11198,7 +11198,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "",
      "Startup": "5",
      "Hit": "4",
@@ -11233,7 +11233,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "",
      "Startup": "5",
      "Hit": "7",
@@ -11268,7 +11268,7 @@
      }
    },
    {
-     "Name": "Far HK",
+     "Name": "Far Roundhouse",
      "Common_name": "",
      "Startup": "9",
      "Hit": "3",
@@ -11303,7 +11303,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "",
      "Startup": "5",
      "Hit": "3",
@@ -11338,7 +11338,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "",
      "Startup": "6",
      "Hit": "5",
@@ -11373,7 +11373,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "",
      "Startup": "10",
      "Hit": "2",
@@ -11408,7 +11408,7 @@
      }
    },
    {
-     "Name": "n.j.LK",
+     "Name": "Neutral Jumping Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "-",
@@ -11443,7 +11443,7 @@
      }
    },
    {
-     "Name": "n.j.MK",
+     "Name": "Neutral Jumping Forward",
      "Common_name": "",
      "Startup": "5",
      "Hit": "7",
@@ -11478,7 +11478,7 @@
      }
    },
    {
-     "Name": "n.j.HK",
+     "Name": "Neutral Jumping Roundhouse",
      "Common_name": "",
      "Startup": "10",
      "Hit": "3",
@@ -11513,7 +11513,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "",
      "Startup": "3",
      "Hit": "-",
@@ -11548,7 +11548,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "",
      "Startup": "7",
      "Hit": "13",
@@ -11583,7 +11583,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "",
      "Startup": "11",
      "Hit": "3",
@@ -11618,7 +11618,7 @@
      }
    },
    {
-     "Name": "b.MP",
+     "Name": "Back + Strong",
      "Common_name": "",
      "Startup": "6",
      "Hit": "7",
@@ -11653,7 +11653,7 @@
      }
    },
    {
-     "Name": "f.LK",
+     "Name": "Towards + Short",
      "Common_name": "",
      "Startup": "5",
      "Hit": "4",
@@ -11688,7 +11688,7 @@
      }
    },
    {
-     "Name": "f.MK",
+     "Name": "Towards + Forward",
      "Common_name": "",
      "Startup": "27",
      "Hit": "3",
@@ -11723,7 +11723,7 @@
      }
    },
    {
-     "Name": "b.MK",
+     "Name": "Back + Forward",
      "Common_name": "",
      "Startup": "13",
      "Hit": "2",
@@ -11758,7 +11758,7 @@
      }
    },
    {
-     "Name": "cr.f.MK",
+     "Name": "Down-Towards + Forward",
      "Common_name": "",
      "Startup": "6",
      "Hit": "11",
@@ -11793,7 +11793,7 @@
      }
    },
    {
-     "Name": "f.HK",
+     "Name": "Towards + Roundhouse",
      "Common_name": "",
      "Startup": "12",
      "Hit": "1",
@@ -11863,7 +11863,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "",
      "Startup": "15",
      "Hit": "10",
@@ -11933,7 +11933,7 @@
      }
    },
    {
-     "Name": "Kunai (LP)",
+     "Name": "Kunai (Jab)",
      "Common_name": "",
      "Startup": "9",
      "Hit": "-",
@@ -11968,7 +11968,7 @@
      }
    },
    {
-     "Name": "Kunai (MP)",
+     "Name": "Kunai (Strong)",
      "Common_name": "",
      "Startup": "10",
      "Hit": "-",
@@ -12003,7 +12003,7 @@
      }
    },
    {
-     "Name": "Kunai (HP)",
+     "Name": "Kunai (Fierce)",
      "Common_name": "",
      "Startup": "11",
      "Hit": "-",
@@ -12073,7 +12073,7 @@
      }
    },
    {
-     "Name": "Raida (LP)",
+     "Name": "Raida (Jab)",
      "Common_name": "",
      "Startup": "4",
      "Hit": "3",
@@ -12108,7 +12108,7 @@
      }
    },
    {
-     "Name": "Raida (MP)",
+     "Name": "Raida (Strong)",
      "Common_name": "",
      "Startup": "5",
      "Hit": "5",
@@ -12143,7 +12143,7 @@
      }
    },
    {
-     "Name": "Raida (HP)",
+     "Name": "Raida (Fierce)",
      "Common_name": "",
      "Startup": "6",
      "Hit": "7",
@@ -12178,7 +12178,7 @@
      }
    },
    {
-     "Name": "Hien (LK)",
+     "Name": "Hien (Short)",
      "Common_name": "",
      "Startup": "22",
      "Hit": "3",
@@ -12213,7 +12213,7 @@
      }
    },
    {
-     "Name": "Hien (MK)",
+     "Name": "Hien (Forward)",
      "Common_name": "",
      "Startup": "25",
      "Hit": "3",
@@ -12388,7 +12388,7 @@
      }
    },
    {
-     "Name": "Kazekiri (LK)",
+     "Name": "Kazekiri (Short)",
      "Common_name": "",
      "Startup": "4",
      "Hit": "12",
@@ -12423,7 +12423,7 @@
      }
    },
    {
-     "Name": "Kazekiri (MK)",
+     "Name": "Kazekiri (Forward)",
      "Common_name": "",
      "Startup": "6",
      "Hit": "10",
@@ -12528,7 +12528,7 @@
      }
    },
    {
-     "Name": "Tsumuji (LK)",
+     "Name": "Tsumuji (Short)",
      "Common_name": "",
      "Startup": "11",
      "Hit": "2",
@@ -12563,7 +12563,7 @@
      }
    },
    {
-     "Name": "Tsumuji (MK)",
+     "Name": "Tsumuji (Forward)",
      "Common_name": "",
      "Startup": "13",
      "Hit": "2",
@@ -12598,7 +12598,7 @@
      }
    },
    {
-     "Name": "Tsumuji (HK)",
+     "Name": "Tsumuji (Roundhouse)",
      "Common_name": "",
      "Startup": "14",
      "Hit": "3",
@@ -12809,7 +12809,7 @@
  ],
  "ken": [
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "LP",
      "Startup": "3",
      "Hit": "3",
@@ -12844,7 +12844,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "MP",
      "Startup": "4",
      "Hit": "4",
@@ -12879,7 +12879,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "HP",
      "Startup": "6",
      "Hit": "3",
@@ -12914,7 +12914,7 @@
      }
    },
    {
-     "Name": "Far LP",
+     "Name": "Far Jab",
      "Common_name": "Far LP, f.LP",
      "Startup": "5",
      "Hit": "3",
@@ -12949,7 +12949,7 @@
      }
    },
    {
-     "Name": "Far MP",
+     "Name": "Far Strong",
      "Common_name": "Far MP, f.MP",
      "Startup": "6",
      "Hit": "3",
@@ -12984,7 +12984,7 @@
      }
    },
    {
-     "Name": "Far HP",
+     "Name": "Far Fierce",
      "Common_name": "Far HP, f.HP",
      "Startup": "9",
      "Hit": "3",
@@ -13019,7 +13019,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "cr.LP, 2LP",
      "Startup": "4",
      "Hit": "3",
@@ -13054,7 +13054,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "cr.MP, 2MP",
      "Startup": "5",
      "Hit": "4",
@@ -13089,7 +13089,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "cr.HP, 2HP",
      "Startup": "7",
      "Hit": "5",
@@ -13124,7 +13124,7 @@
      }
    },
    {
-     "Name": "n.j.LP",
+     "Name": "Neutral Jumping Jab",
      "Common_name": "n.j.LP, 8LP",
      "Startup": "5",
      "Hit": "-",
@@ -13159,7 +13159,7 @@
      }
    },
    {
-     "Name": "n.j.MP",
+     "Name": "Neutral Jumping Strong",
      "Common_name": "n.j.MP, 8MP",
      "Startup": "6",
      "Hit": "5",
@@ -13194,7 +13194,7 @@
      }
    },
    {
-     "Name": "n.j.HP",
+     "Name": "Neutral Jumping Fierce",
      "Common_name": "n.j.HP, 8HP",
      "Startup": "7",
      "Hit": "3",
@@ -13229,7 +13229,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "j.LP, 7LP, 9LP",
      "Startup": "4",
      "Hit": "-",
@@ -13264,7 +13264,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "j.MP, 7MP, 9MP",
      "Startup": "5",
      "Hit": "5",
@@ -13299,7 +13299,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "j.HP, 7HP, 9HP",
      "Startup": "6",
      "Hit": "4",
@@ -13334,7 +13334,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "LK",
      "Startup": "4",
      "Hit": "4",
@@ -13369,7 +13369,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "MK",
      "Startup": "8",
      "Hit": "7",
@@ -13404,7 +13404,7 @@
      }
    },
    {
-     "Name": "Hold MK",
+     "Name": "Hold Forward",
      "Common_name": "h.MK",
      "Startup": "8",
      "Hit": "8",
@@ -13439,7 +13439,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "HK",
      "Startup": "11",
      "Hit": "6",
@@ -13474,7 +13474,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "cr.LK, 2LK",
      "Startup": "5",
      "Hit": "3",
@@ -13509,7 +13509,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "cr.MK, 2MK",
      "Startup": "6",
      "Hit": "5",
@@ -13544,7 +13544,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "cr.HK, 2HK",
      "Startup": "6",
      "Hit": "5",
@@ -13579,7 +13579,7 @@
      }
    },
    {
-     "Name": "n.j.LK",
+     "Name": "Neutral Jumping Short",
      "Common_name": "n.j.LK, 8LK",
      "Startup": "5",
      "Hit": "-",
@@ -13614,7 +13614,7 @@
      }
    },
    {
-     "Name": "n.j.MK",
+     "Name": "Neutral Jumping Forward",
      "Common_name": "n.j.MK, 8MK",
      "Startup": "5",
      "Hit": "6",
@@ -13649,7 +13649,7 @@
      }
    },
    {
-     "Name": "n.j.HK",
+     "Name": "Neutral Jumping Roundhouse",
      "Common_name": "n.j.HK, 8HK",
      "Startup": "7",
      "Hit": "5",
@@ -13684,7 +13684,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "j.LK, 7LK, 9LK",
      "Startup": "4",
      "Hit": "10",
@@ -13719,7 +13719,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "j.MK, 7MK, 9MK",
      "Startup": "5",
      "Hit": "6",
@@ -13754,7 +13754,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "j.HK, 7HK, 9HK",
      "Startup": "6",
      "Hit": "4",
@@ -13789,8 +13789,8 @@
      }
    },
    {
-     "Name": "f.MK",
-     "Common_name": "f.MK",
+     "Name": "Towards Forward",
+     "Common_name": "6MK",
      "Startup": "16",
      "Hit": "4",
      "Recovery": "15",
@@ -13824,7 +13824,7 @@
      }
    },
    {
-     "Name": "b.MK",
+     "Name": "Back Forward",
      "Common_name": "4MK",
      "Startup": "18",
      "Hit": "4",
@@ -13859,8 +13859,8 @@
      }
    },
    {
-     "Name": "f.HK",
-     "Common_name": "f.HK",
+     "Name": "Towards Roundhouse",
+     "Common_name": "6HK",
      "Startup": "30",
      "Hit": "5",
      "Recovery": "18",
@@ -13929,7 +13929,7 @@
      }
    },
    {
-     "Name": "b.Throw",
+     "Name": "Back Throw",
      "Common_name": "4LP+LK",
      "Startup": "2",
      "Hit": "1",
@@ -13964,8 +13964,8 @@
      }
    },
    {
-     "Name": "f.Throw",
-     "Common_name": "f.LP+LK",
+     "Name": "Towards Throw",
+     "Common_name": "6LP+LK",
      "Startup": "2",
      "Hit": "1",
      "Recovery": "21",
@@ -13999,7 +13999,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "UOH, MP+MK",
      "Startup": "15",
      "Hit": "8",
@@ -14069,8 +14069,8 @@
      }
    },
    {
-     "Name": "Hadouken LP",
-     "Common_name": "Hadoken LP, Hadouken LP, 23f.LP",
+     "Name": "Hadouken Jab",
+     "Common_name": "Hadoken LP, Hadouken LP, 236LP",
      "Startup": "11",
      "Hit": "-",
      "Recovery": "38",
@@ -14104,8 +14104,8 @@
      }
    },
    {
-     "Name": "Hadouken MP",
-     "Common_name": "Hadoken MP, Hadouken MP, 23f.MP",
+     "Name": "Hadouken Strong",
+     "Common_name": "Hadoken MP, Hadouken MP, 236MP",
      "Startup": "11",
      "Hit": "-",
      "Recovery": "38",
@@ -14139,8 +14139,8 @@
      }
    },
    {
-     "Name": "Hadouken HP",
-     "Common_name": "Hadoken HP, Hadouken HP, 23f.HP",
+     "Name": "Hadouken Fierce",
+     "Common_name": "Hadoken HP, Hadouken HP, 236HP",
      "Startup": "11",
      "Hit": "-",
      "Recovery": "38",
@@ -14209,7 +14209,7 @@
      }
    },
    {
-     "Name": "Shoryuken LP",
+     "Name": "Shoryuken Jab",
      "Common_name": "Shoryuken LP, 623LP",
      "Startup": "2",
      "Hit": "8",
@@ -14244,7 +14244,7 @@
      }
    },
    {
-     "Name": "Shoryuken MP",
+     "Name": "Shoryuken Strong",
      "Common_name": "Shoryuken MP, 623MP",
      "Startup": "3",
      "Hit": "14",
@@ -14279,7 +14279,7 @@
      }
    },
    {
-     "Name": "Shoryuken HP",
+     "Name": "Shoryuken Fierce",
      "Common_name": "Shoryuken HP, 623HP",
      "Startup": "3",
      "Hit": "21",
@@ -14349,7 +14349,7 @@
      }
    },
    {
-     "Name": "Tatsumaki Senpuu Kyaku LK",
+     "Name": "Tatsumaki Senpuu Kyaku Short",
      "Common_name": "Tatsumaki LK, 214LK",
      "Startup": "6",
      "Hit": "7",
@@ -14384,7 +14384,7 @@
      }
    },
    {
-     "Name": "Tatsumaki Senpuu Kyaku MK",
+     "Name": "Tatsumaki Senpuu Kyaku Forward",
      "Common_name": "Tatsumaki MK, 214MK",
      "Startup": "6",
      "Hit": "14",
@@ -14419,7 +14419,7 @@
      }
    },
    {
-     "Name": "Tatsumaki Senpuu Kyaku HK",
+     "Name": "Tatsumaki Senpuu Kyaku Roundhouse",
      "Common_name": "Tatsumaki HK, 214HK",
      "Startup": "6",
      "Hit": "17",
@@ -14489,7 +14489,7 @@
      }
    },
    {
-     "Name": "Air Tatsumaki Senpuu Kyaku LK",
+     "Name": "Air Tatsumaki Senpuu Kyaku Short",
      "Common_name": "Air Tatsumaki LK, a.214LK",
      "Startup": "7",
      "Hit": "4",
@@ -14524,7 +14524,7 @@
      }
    },
    {
-     "Name": "Air Tatsumaki Senpuu Kyaku MK",
+     "Name": "Air Tatsumaki Senpuu Kyaku Forward",
      "Common_name": "Air Tatsumaki MK, a.214MK",
      "Startup": "7",
      "Hit": "6",
@@ -14559,7 +14559,7 @@
      }
    },
    {
-     "Name": "Air Tatsumaki Senpuu Kyaku HK",
+     "Name": "Air Tatsumaki Senpuu Kyaku Roundhouse",
      "Common_name": "Air Tatsumaki HK, a.214HK",
      "Startup": "7",
      "Hit": "8",
@@ -14709,7 +14709,7 @@
  ],
  "makoto":[
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "LP",
      "Startup": "4",
      "Hit": "6",
@@ -14744,7 +14744,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "MP",
      "Startup": "8",
      "Hit": "11",
@@ -14779,7 +14779,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "HP",
      "Startup": "8",
      "Hit": "2",
@@ -14814,8 +14814,8 @@
      }
    },
    {
-     "Name": "f.LP",
-     "Common_name": "f.LP",
+     "Name": "Towards Jab",
+     "Common_name": "6LP",
      "Startup": "4",
      "Hit": "4",
      "Recovery": "8",
@@ -14849,8 +14849,8 @@
      }
    },
    {
-     "Name": "f.MP",
-     "Common_name": "f.MP",
+     "Name": "Towards Strong",
+     "Common_name": "6MP",
      "Startup": "9",
      "Hit": "6",
      "Recovery": "9",
@@ -14884,8 +14884,8 @@
      }
    },
    {
-     "Name": "f.HP",
-     "Common_name": "f.HP",
+     "Name": "Towards Fierce",
+     "Common_name": "6HP",
      "Startup": "16",
      "Hit": "12",
      "Recovery": "16",
@@ -14919,8 +14919,8 @@
      }
    },
    {
-     "Name": "f.HP complete",
-     "Common_name": "f.HP complete, f.HP HP HP",
+     "Name": "Towards Fierce complete",
+     "Common_name": "6HP complete, 6HP HP HP",
      "Startup": "16",
      "Hit": "23",
      "Recovery": "13",
@@ -14954,7 +14954,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "cr.LP, 2LP",
      "Startup": "5",
      "Hit": "4",
@@ -14989,7 +14989,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "cr.MP, 2MP",
      "Startup": "7",
      "Hit": "7",
@@ -15024,7 +15024,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "cr.HP, 2HP",
      "Startup": "10",
      "Hit": "2",
@@ -15059,7 +15059,7 @@
      }
    },
    {
-     "Name": "n.j.LP",
+     "Name": "Neutral Jumping Jab",
      "Common_name": "n.j.LP, 8LP",
      "Startup": "9",
      "Hit": "17",
@@ -15094,7 +15094,7 @@
      }
    },
    {
-     "Name": "n.j.MP",
+     "Name": "Neutral Jumping Strong",
      "Common_name": "n.j.MP, 8MP",
      "Startup": "11",
      "Hit": "10",
@@ -15129,7 +15129,7 @@
      }
    },
    {
-     "Name": "n.j.HP",
+     "Name": "Neutral Jumping Fierce",
      "Common_name": "n.j.HP, 8HP",
      "Startup": "13",
      "Hit": "2",
@@ -15164,7 +15164,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "j.LP, 7LP, 9LP",
      "Startup": "4",
      "Hit": "21",
@@ -15199,7 +15199,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "j.MP, 7MP, 9MP",
      "Startup": "11",
      "Hit": "23",
@@ -15234,7 +15234,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "j.HP, 7HP, 9HP",
      "Startup": "10",
      "Hit": "2",
@@ -15269,7 +15269,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "LK",
      "Startup": "4",
      "Hit": "5",
@@ -15304,7 +15304,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "MK",
      "Startup": "7",
      "Hit": "5",
@@ -15339,7 +15339,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "HK",
      "Startup": "11",
      "Hit": "9",
@@ -15374,8 +15374,8 @@
      }
    },
    {
-     "Name": "f.LK",
-     "Common_name": "f.LK",
+     "Name": "Towards Short",
+     "Common_name": "6LK",
      "Startup": "6",
      "Hit": "6",
      "Recovery": "13",
@@ -15409,8 +15409,8 @@
      }
    },
    {
-     "Name": "f.MK",
-     "Common_name": "f.MK",
+     "Name": "Towards Forward",
+     "Common_name": "6MK",
      "Startup": "17",
      "Hit": "5",
      "Recovery": "18",
@@ -15444,8 +15444,8 @@
      }
    },
    {
-     "Name": "f.HK",
-     "Common_name": "f.HK",
+     "Name": "Towards Roundhouse",
+     "Common_name": "6HK",
      "Startup": "22",
      "Hit": "3",
      "Recovery": "25",
@@ -15479,7 +15479,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "cr.LK, 2LK",
      "Startup": "4",
      "Hit": "6",
@@ -15514,7 +15514,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "cr.MK, 2MK",
      "Startup": "7",
      "Hit": "8",
@@ -15549,7 +15549,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "cr.HK, 2HK",
      "Startup": "10",
      "Hit": "4",
@@ -15584,7 +15584,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "j.LK, 7LK, 8LK, 9LK",
      "Startup": "2",
      "Hit": "14",
@@ -15619,7 +15619,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "j.MK, 7MK, 8MK, 9MK",
      "Startup": "7",
      "Hit": "13",
@@ -15654,7 +15654,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "j.HK, 7HK, 8HK, 9HK",
      "Startup": "6",
      "Hit": "6",
@@ -15724,8 +15724,8 @@
      }
    },
    {
-     "Name": "b.Throw / f.Throw",
-     "Common_name": "throw, 4LP+LK, f.LP+LK",
+     "Name": "Back & Towards Throw",
+     "Common_name": "throw, 4LP+LK, 6LP+LK",
      "Startup": "2",
      "Hit": "1",
      "Recovery": "21",
@@ -15759,7 +15759,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "UOH, MP+MK",
      "Startup": "15",
      "Hit": "10",
@@ -15864,8 +15864,8 @@
      }
    },
    {
-     "Name": "Hayate LP",
-     "Common_name": "Hayate LP, Chesto LP, 23f.LP",
+     "Name": "Hayate Jab",
+     "Common_name": "Hayate LP, Chesto LP, 236LP",
      "Startup": "6",
      "Hit": "6",
      "Recovery": "24",
@@ -15899,8 +15899,8 @@
      }
    },
    {
-     "Name": "Hayate MP",
-     "Common_name": "Hayate MP, Chesto MP, 23f.MP",
+     "Name": "Hayate Strong",
+     "Common_name": "Hayate MP, Chesto MP, 236MP",
      "Startup": "9",
      "Hit": "6",
      "Recovery": "24",
@@ -15934,8 +15934,8 @@
      }
    },
    {
-     "Name": "Hayate HP",
-     "Common_name": "Hayate HP, Chesto HP, 23f.HP",
+     "Name": "Hayate Fierce",
+     "Common_name": "Hayate HP, Chesto HP, 236HP",
      "Startup": "11",
      "Hit": "6",
      "Recovery": "24",
@@ -16004,7 +16004,7 @@
      }
    },
    {
-     "Name": "Fukiage LP",
+     "Name": "Fukiage Jab",
      "Common_name": "Fukiage LP, 623LP",
      "Startup": "7",
      "Hit": "8",
@@ -16039,7 +16039,7 @@
      }
    },
    {
-     "Name": "Fukiage MP",
+     "Name": "Fukiage Strong",
      "Common_name": "Fukiage MP, 623MP",
      "Startup": "10",
      "Hit": "8",
@@ -16074,7 +16074,7 @@
      }
    },
    {
-     "Name": "Fukiage HP",
+     "Name": "Fukiage Fierce",
      "Common_name": "Fukiage HP, 623HP",
      "Startup": "14",
      "Hit": "8",
@@ -16144,7 +16144,7 @@
      }
    },
    {
-     "Name": "Oroshi LP",
+     "Name": "Oroshi Jab",
      "Common_name": "Oroshi LP, 214LP",
      "Startup": "19",
      "Hit": "7",
@@ -16179,7 +16179,7 @@
      }
    },
    {
-     "Name": "Oroshi MP",
+     "Name": "Oroshi Strong",
      "Common_name": "Oroshi MP, 214MP",
      "Startup": "23",
      "Hit": "7",
@@ -16214,7 +16214,7 @@
      }
    },
    {
-     "Name": "Oroshi HP",
+     "Name": "Oroshi Fierce",
      "Common_name": "Oroshi HP, 214HP",
      "Startup": "28",
      "Hit": "7",
@@ -16284,7 +16284,7 @@
      }
    },
    {
-     "Name": "Tsurugi LK",
+     "Name": "Tsurugi Short",
      "Common_name": "Tsurugi LK, a.214LK",
      "Startup": "14",
      "Hit": "4",
@@ -16319,7 +16319,7 @@
      }
    },
    {
-     "Name": "Tsurugi MK",
+     "Name": "Tsurugi Forward",
      "Common_name": "Tsurugi MK, a.214MK",
      "Startup": "15",
      "Hit": "4",
@@ -16354,7 +16354,7 @@
      }
    },
    {
-     "Name": "Tsurugi HK",
+     "Name": "Tsurugi Roundhouse",
      "Common_name": "Tsurugi HK, a.214HK",
      "Startup": "16",
      "Hit": "4",
@@ -16424,7 +16424,7 @@
      }
    },
    {
-     "Name": "Karakusa LK",
+     "Name": "Karakusa Short",
      "Common_name": "Karakusa LK, 63214LK",
      "Startup": "7",
      "Hit": "3",
@@ -16459,7 +16459,7 @@
      }
    },
    {
-     "Name": "Karakusa MK",
+     "Name": "Karakusa Forward",
      "Common_name": "Karakusa MK, 63214MK",
      "Startup": "8",
      "Hit": "4",
@@ -16494,7 +16494,7 @@
      }
    },
    {
-     "Name": "Karakusa HK",
+     "Name": "Karakusa Roundhouse",
      "Common_name": "Karakusa HK, 63214HK",
      "Startup": "9",
      "Hit": "4",
@@ -16609,7 +16609,7 @@
  ],
  "necro": [
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "",
      "Startup": "5",
      "Hit": "1",
@@ -16644,7 +16644,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "",
      "Startup": "8",
      "Hit": "1",
@@ -16679,7 +16679,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "",
      "Startup": "15",
      "Hit": "1",
@@ -16714,7 +16714,7 @@
      }
    },
    {
-     "Name": "b.LP",
+     "Name": "Back + Jab",
      "Common_name": "",
      "Startup": "3",
      "Hit": "1",
@@ -16749,7 +16749,7 @@
      }
    },
    {
-     "Name": "b.MP",
+     "Name": "Back + Strong",
      "Common_name": "",
      "Startup": "4",
      "Hit": "2",
@@ -16784,7 +16784,7 @@
      }
    },
    {
-     "Name": "b.HP",
+     "Name": "Back + Fierce",
      "Common_name": "",
      "Startup": "11",
      "Hit": "4",
@@ -16819,7 +16819,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "",
      "Startup": "6",
      "Hit": "1",
@@ -16854,7 +16854,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "",
      "Startup": "8",
      "Hit": "1",
@@ -16889,7 +16889,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "",
      "Startup": "16",
      "Hit": "1",
@@ -16924,7 +16924,7 @@
      }
    },
    {
-     "Name": "n.j.LP",
+     "Name": "Neutral Jumping Jab",
      "Common_name": "",
      "Startup": "5",
      "Hit": "6",
@@ -16959,7 +16959,7 @@
      }
    },
    {
-     "Name": "n.j.MP",
+     "Name": "Neutral Jumping Strong",
      "Common_name": "",
      "Startup": "8",
      "Hit": "1",
@@ -16994,7 +16994,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "14",
@@ -17029,7 +17029,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "",
      "Startup": "9",
      "Hit": "1",
@@ -17064,7 +17064,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "",
      "Startup": "13",
      "Hit": "2",
@@ -17099,7 +17099,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "1",
@@ -17134,7 +17134,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "",
      "Startup": "9",
      "Hit": "1",
@@ -17169,7 +17169,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "",
      "Startup": "18",
      "Hit": "1",
@@ -17204,7 +17204,7 @@
      }
    },
    {
-     "Name": "b.LK",
+     "Name": "Back + Short",
      "Common_name": "",
      "Startup": "3",
      "Hit": "2",
@@ -17239,7 +17239,7 @@
      }
    },
    {
-     "Name": "b.MK",
+     "Name": "Back + Forward",
      "Common_name": "",
      "Startup": "5",
      "Hit": "1",
@@ -17274,7 +17274,7 @@
      }
    },
    {
-     "Name": "b.HK",
+     "Name": "Back + Roundhouse",
      "Common_name": "",
      "Startup": "12",
      "Hit": "1",
@@ -17309,7 +17309,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "",
      "Startup": "6",
      "Hit": "1",
@@ -17344,7 +17344,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "",
      "Startup": "12",
      "Hit": "1",
@@ -17379,7 +17379,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "",
      "Startup": "13",
      "Hit": "1",
@@ -17414,7 +17414,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "",
      "Startup": "2",
      "Hit": "15",
@@ -17449,7 +17449,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "",
      "Startup": "10",
      "Hit": "4",
@@ -17484,7 +17484,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "",
      "Startup": "15",
      "Hit": "4",
@@ -17519,7 +17519,7 @@
      }
    },
    {
-     "Name": "cr.b.HP",
+     "Name": "Down Back + Fierce",
      "Common_name": "",
      "Startup": "9",
      "Hit": "1",
@@ -17554,7 +17554,7 @@
      }
    },
    {
-     "Name": "Drill LK",
+     "Name": "Drill Short",
      "Common_name": "",
      "Startup": "9",
      "Hit": "-",
@@ -17589,7 +17589,7 @@
      }
    },
    {
-     "Name": "Drill MK",
+     "Name": "Drill Forward",
      "Common_name": "",
      "Startup": "9",
      "Hit": "-",
@@ -17694,7 +17694,7 @@
      }
    },
    {
-     "Name": "b.Throw",
+     "Name": "Back + Throw",
      "Common_name": "",
      "Startup": "2",
      "Hit": "1",
@@ -17764,7 +17764,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "",
      "Startup": "15",
      "Hit": "10",
@@ -17834,7 +17834,7 @@
      }
    },
    {
-     "Name": "Electric Shock (LP)",
+     "Name": "Electric Shock (Jab)",
      "Common_name": "",
      "Startup": "6",
      "Hit": "6",
@@ -17869,7 +17869,7 @@
      }
    },
    {
-     "Name": "Electric Shock (MP)",
+     "Name": "Electric Shock (Strong)",
      "Common_name": "",
      "Startup": "8",
      "Hit": "6",
@@ -17904,7 +17904,7 @@
      }
    },
    {
-     "Name": "Electric Shock (HP)",
+     "Name": "Electric Shock (Fierce)",
      "Common_name": "",
      "Startup": "10",
      "Hit": "10",
@@ -17939,7 +17939,7 @@
      }
    },
    {
-     "Name": "Snake Fang (LK)",
+     "Name": "Snake Fang (Short)",
      "Common_name": "",
      "Startup": "12",
      "Hit": "1",
@@ -17974,7 +17974,7 @@
      }
    },
    {
-     "Name": "Snake Fang (MK)",
+     "Name": "Snake Fang (Forward)",
      "Common_name": "",
      "Startup": "12",
      "Hit": "1",
@@ -18044,7 +18044,7 @@
      }
    },
    {
-     "Name": "Spinning Punch (LP)",
+     "Name": "Spinning Punch (Jab)",
      "Common_name": "",
      "Startup": "6",
      "Hit": "8",
@@ -18079,7 +18079,7 @@
      }
    },
    {
-     "Name": "Spinning Punch (MP)",
+     "Name": "Spinning Punch (Strong)",
      "Common_name": "",
      "Startup": "10",
      "Hit": "7",
@@ -18114,7 +18114,7 @@
      }
    },
    {
-     "Name": "Spinning Punch (HP)",
+     "Name": "Spinning Punch (Fierce)",
      "Common_name": "",
      "Startup": "17",
      "Hit": "11",
@@ -18184,7 +18184,7 @@
      }
    },
    {
-     "Name": "Flying Viper (LP)",
+     "Name": "Flying Viper (Jab)",
      "Common_name": "",
      "Startup": "26",
      "Hit": "5",
@@ -18219,7 +18219,7 @@
      }
    },
    {
-     "Name": "Flying Viper (MP)",
+     "Name": "Flying Viper (Strong)",
      "Common_name": "",
      "Startup": "26",
      "Hit": "6",
@@ -18254,7 +18254,7 @@
      }
    },
    {
-     "Name": "Flying Viper (HP)",
+     "Name": "Flying Viper (Fierce)",
      "Common_name": "",
      "Startup": "28",
      "Hit": "7",
@@ -18324,7 +18324,7 @@
      }
    },
    {
-     "Name": "Raging Cobra (LK)",
+     "Name": "Raging Cobra (Short)",
      "Common_name": "",
      "Startup": "23",
      "Hit": "4",
@@ -18359,7 +18359,7 @@
      }
    },
    {
-     "Name": "Raging Cobra (MK)",
+     "Name": "Raging Cobra (Forward)",
      "Common_name": "",
      "Startup": "25",
      "Hit": "4",
@@ -18544,7 +18544,7 @@
  ],
  "oro": [
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "",
      "Startup": "2",
      "Hit": "1",
@@ -18579,7 +18579,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "4",
@@ -18614,7 +18614,7 @@
      }
    },
    {
-     "Name": "Far LP",
+     "Name": "Far Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "1",
@@ -18649,7 +18649,7 @@
      }
    },
    {
-     "Name": "Far MP",
+     "Name": "Far Strong",
      "Common_name": "",
      "Startup": "8",
      "Hit": "4",
@@ -18684,7 +18684,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "",
      "Startup": "17",
      "Hit": "3",
@@ -18719,7 +18719,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "2",
@@ -18754,7 +18754,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "",
      "Startup": "7",
      "Hit": "6",
@@ -18789,7 +18789,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "",
      "Startup": "6",
      "Hit": "4",
@@ -18824,7 +18824,7 @@
      }
    },
    {
-     "Name": "n.j.LP",
+     "Name": "Neutral Jumping Jab",
      "Common_name": "",
      "Startup": "3",
      "Hit": "12",
@@ -18859,7 +18859,7 @@
      }
    },
    {
-     "Name": "n.j.MP",
+     "Name": "Neutral Jumping Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "6",
@@ -18894,7 +18894,7 @@
      }
    },
    {
-     "Name": "n.j.HP",
+     "Name": "Neutral Jumping Fierce",
      "Common_name": "",
      "Startup": "7",
      "Hit": "4",
@@ -18929,7 +18929,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "",
      "Startup": "7",
      "Hit": "17",
@@ -18964,7 +18964,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "",
      "Startup": "10",
      "Hit": "8",
@@ -18999,7 +18999,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "",
      "Startup": "9",
      "Hit": "4",
@@ -19034,7 +19034,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "",
      "Startup": "2",
      "Hit": "2",
@@ -19069,7 +19069,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "",
      "Startup": "4",
      "Hit": "3",
@@ -19104,7 +19104,7 @@
      }
    },
    {
-     "Name": "Far LK",
+     "Name": "Far Short",
      "Common_name": "",
      "Startup": "3",
      "Hit": "1",
@@ -19139,7 +19139,7 @@
      }
    },
    {
-     "Name": "Far MK",
+     "Name": "Far Forward",
      "Common_name": "",
      "Startup": "8",
      "Hit": "6",
@@ -19174,7 +19174,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "",
      "Startup": "7",
      "Hit": "4",
@@ -19209,7 +19209,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "2",
@@ -19244,7 +19244,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "",
      "Startup": "6",
      "Hit": "4",
@@ -19279,7 +19279,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "",
      "Startup": "10",
      "Hit": "2",
@@ -19314,7 +19314,7 @@
      }
    },
    {
-     "Name": "n.j.LK",
+     "Name": "Neutral Jumping Short",
      "Common_name": "",
      "Startup": "2",
      "Hit": "10",
@@ -19349,7 +19349,7 @@
      }
    },
    {
-     "Name": "n.j.MK",
+     "Name": "Neutral Jumping Forward",
      "Common_name": "",
      "Startup": "4",
      "Hit": "8",
@@ -19384,7 +19384,7 @@
      }
    },
    {
-     "Name": "n.j.HK",
+     "Name": "Neutral Jumping Roundhouse",
      "Common_name": "",
      "Startup": "5",
      "Hit": "5",
@@ -19419,7 +19419,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "",
      "Startup": "3",
      "Hit": "13",
@@ -19454,7 +19454,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "",
      "Startup": "3",
      "Hit": "6",
@@ -19489,7 +19489,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "",
      "Startup": "5",
      "Hit": "3",
@@ -19524,7 +19524,7 @@
      }
    },
    {
-     "Name": "f.MP",
+     "Name": "Towards + Strong",
      "Common_name": "",
      "Startup": "8",
      "Hit": "2",
@@ -19594,7 +19594,7 @@
      }
    },
    {
-     "Name": "b.Throw",
+     "Name": "Back + Throw",
      "Common_name": "",
      "Startup": "2",
      "Hit": "1",
@@ -19664,7 +19664,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "",
      "Startup": "15",
      "Hit": "10",
@@ -19699,7 +19699,7 @@
      }
    },
    {
-     "Name": "Human Pillar Driver (LP)",
+     "Name": "Human Pillar Driver (Jab)",
      "Common_name": "",
      "Startup": "9",
      "Hit": "2",
@@ -19734,7 +19734,7 @@
      }
    },
    {
-     "Name": "Human Pillar Driver (MP)",
+     "Name": "Human Pillar Driver (Strong)",
      "Common_name": "",
      "Startup": "10",
      "Hit": "2",
@@ -19769,7 +19769,7 @@
      }
    },
    {
-     "Name": "Human Pillar Driver (HP)",
+     "Name": "Human Pillar Driver (Fierce)",
      "Common_name": "",
      "Startup": "11",
      "Hit": "2",
@@ -19804,7 +19804,7 @@
      }
    },
    {
-     "Name": "Oniyama (LP)",
+     "Name": "Oniyama (Jab)",
      "Common_name": "",
      "Startup": "6",
      "Hit": "10",
@@ -19839,7 +19839,7 @@
      }
    },
    {
-     "Name": "Oniyama (MP)",
+     "Name": "Oniyama (Strong)",
      "Common_name": "",
      "Startup": "6",
      "Hit": "17",
@@ -19874,7 +19874,7 @@
      }
    },
    {
-     "Name": "Oniyama (HP)",
+     "Name": "Oniyama (Fierce)",
      "Common_name": "",
      "Startup": "7",
      "Hit": "23",
@@ -19944,7 +19944,7 @@
      }
    },
    {
-     "Name": "Sun Disk Palm (LP)",
+     "Name": "Sun Disk Palm (Jab)",
      "Common_name": "",
      "Startup": "15",
      "Hit": "-",
@@ -19979,7 +19979,7 @@
      }
    },
    {
-     "Name": "Sun Disk Palm (MP)",
+     "Name": "Sun Disk Palm (Strong)",
      "Common_name": "",
      "Startup": "15",
      "Hit": "-",
@@ -20014,7 +20014,7 @@
      }
    },
    {
-     "Name": "Sun Disk Palm (HP)",
+     "Name": "Sun Disk Palm (Fierce)",
      "Common_name": "",
      "Startup": "13",
      "Hit": "-",
@@ -20119,7 +20119,7 @@
      }
    },
    {
-     "Name": "Jinchu Nobori (LK)",
+     "Name": "Jinchu Nobori (Short)",
      "Common_name": "",
      "Startup": "27",
      "Hit": "6",
@@ -20154,7 +20154,7 @@
      }
    },
    {
-     "Name": "Jinchu Nobori (MK)",
+     "Name": "Jinchu Nobori (Forward)",
      "Common_name": "",
      "Startup": "31",
      "Hit": "6",
@@ -20513,7 +20513,7 @@
  ],
  "q": [
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "4",
@@ -20548,7 +20548,7 @@
      }
    },
    {
-     "Name": "Far LP",
+     "Name": "Far Jab",
      "Common_name": "",
      "Startup": "6",
      "Hit": "4",
@@ -20583,7 +20583,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "",
      "Startup": "12",
      "Hit": "5",
@@ -20618,7 +20618,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "",
      "Startup": "18",
      "Hit": "16",
@@ -20653,7 +20653,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "",
      "Startup": "5",
      "Hit": "4",
@@ -20688,7 +20688,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "",
      "Startup": "8",
      "Hit": "5",
@@ -20723,7 +20723,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "",
      "Startup": "14",
      "Hit": "1",
@@ -20758,7 +20758,7 @@
      }
    },
    {
-     "Name": "n.j.LP",
+     "Name": "Neutral Jumping Jab",
      "Common_name": "",
      "Startup": "3",
      "Hit": "-",
@@ -20793,7 +20793,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "",
      "Startup": "2",
      "Hit": "-",
@@ -20828,7 +20828,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "",
      "Startup": "7",
      "Hit": "6",
@@ -20863,7 +20863,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "",
      "Startup": "10",
      "Hit": "8",
@@ -20898,7 +20898,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "4",
@@ -20933,7 +20933,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "",
      "Startup": "7",
      "Hit": "2",
@@ -20968,7 +20968,7 @@
      }
    },
    {
-     "Name": "Far MK",
+     "Name": "Far Forward",
      "Common_name": "",
      "Startup": "8",
      "Hit": "5",
@@ -21003,7 +21003,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "",
      "Startup": "20",
      "Hit": "5",
@@ -21038,7 +21038,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "",
      "Startup": "6",
      "Hit": "5",
@@ -21073,7 +21073,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "",
      "Startup": "7",
      "Hit": "3",
@@ -21108,7 +21108,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "",
      "Startup": "12",
      "Hit": "8",
@@ -21143,7 +21143,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "-",
@@ -21178,7 +21178,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "",
      "Startup": "9",
      "Hit": "8",
@@ -21213,7 +21213,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "",
      "Startup": "17",
      "Hit": "3",
@@ -21248,7 +21248,7 @@
      }
    },
    {
-     "Name": "b.MP",
+     "Name": "Back + Strong",
      "Common_name": "",
      "Startup": "8",
      "Hit": "4",
@@ -21283,7 +21283,7 @@
      }
    },
    {
-     "Name": "b.HP",
+     "Name": "Back + Fierce",
      "Common_name": "",
      "Startup": "13",
      "Hit": "11",
@@ -21318,7 +21318,7 @@
      }
    },
    {
-     "Name": "b.HK",
+     "Name": "Back + Roundhouse",
      "Common_name": "",
      "Startup": "11",
      "Hit": "7",
@@ -21423,7 +21423,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "",
      "Startup": "15",
      "Hit": "10",
@@ -21458,7 +21458,7 @@
      }
    },
    {
-     "Name": "Dashing Head Attack (LP)",
+     "Name": "Dashing Head Attack (Jab)",
      "Common_name": "",
      "Startup": "13",
      "Hit": "3",
@@ -21493,7 +21493,7 @@
      }
    },
    {
-     "Name": "Dashing Head Attack (MP)",
+     "Name": "Dashing Head Attack (Strong)",
      "Common_name": "",
      "Startup": "15",
      "Hit": "3",
@@ -21528,7 +21528,7 @@
      }
    },
    {
-     "Name": "Dashing Head Attack (HP)",
+     "Name": "Dashing Head Attack (Fierce)",
      "Common_name": "",
      "Startup": "19",
      "Hit": "4",
@@ -21598,7 +21598,7 @@
      }
    },
    {
-     "Name": "Dashing Head Attack (LP)",
+     "Name": "Dashing Head Attack (Jab)",
      "Common_name": "",
      "Startup": "24",
      "Hit": "3",
@@ -21633,7 +21633,7 @@
      }
    },
    {
-     "Name": "Dashing Head Attack (MP)",
+     "Name": "Dashing Head Attack (Strong)",
      "Common_name": "",
      "Startup": "28",
      "Hit": "3",
@@ -21668,7 +21668,7 @@
      }
    },
    {
-     "Name": "Dashing Head Attack (HP)",
+     "Name": "Dashing Head Attack (Fierce)",
      "Common_name": "",
      "Startup": "32",
      "Hit": "3",
@@ -21703,7 +21703,7 @@
      }
    },
    {
-     "Name": "Dashing Leg Attack (LK)",
+     "Name": "Dashing Leg Attack (Short)",
      "Common_name": "",
      "Startup": "25",
      "Hit": "2",
@@ -21738,7 +21738,7 @@
      }
    },
    {
-     "Name": "Dashing Leg Attack (MK)",
+     "Name": "Dashing Leg Attack (Forward)",
      "Common_name": "",
      "Startup": "28",
      "Hit": "2",
@@ -21843,7 +21843,7 @@
      }
    },
    {
-     "Name": "High Speed Barrage (LP)",
+     "Name": "High Speed Barrage (Jab)",
      "Common_name": "",
      "Startup": "9",
      "Hit": "3",
@@ -21878,7 +21878,7 @@
      }
    },
    {
-     "Name": "High Speed Barrage (MP)",
+     "Name": "High Speed Barrage (Strong)",
      "Common_name": "",
      "Startup": "8",
      "Hit": "4",
@@ -21913,7 +21913,7 @@
      }
    },
    {
-     "Name": "High Speed Barrage (HP)",
+     "Name": "High Speed Barrage (Fierce)",
      "Common_name": "",
      "Startup": "9",
      "Hit": "3",
@@ -21983,7 +21983,7 @@
      }
    },
    {
-     "Name": "Capture and Deadly Blow (LK)",
+     "Name": "Capture and Deadly Blow (Short)",
      "Common_name": "",
      "Startup": "12",
      "Hit": "2",
@@ -22018,7 +22018,7 @@
      }
    },
    {
-     "Name": "Capture and Deadly Blow (MK)",
+     "Name": "Capture and Deadly Blow (Forward)",
      "Common_name": "",
      "Startup": "13",
      "Hit": "2",
@@ -22220,7 +22220,7 @@
  ],
  "remy": [
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "4",
@@ -22255,7 +22255,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "5",
@@ -22290,7 +22290,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "",
      "Startup": "6",
      "Hit": "7",
@@ -22325,7 +22325,7 @@
      }
    },
    {
-     "Name": "Far LP",
+     "Name": "Far Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "4",
@@ -22360,7 +22360,7 @@
      }
    },
    {
-     "Name": "Far MP",
+     "Name": "Far Strong",
      "Common_name": "",
      "Startup": "7",
      "Hit": "3",
@@ -22395,7 +22395,7 @@
      }
    },
    {
-     "Name": "Far HP",
+     "Name": "Far Fierce",
      "Common_name": "",
      "Startup": "10",
      "Hit": "5",
@@ -22430,7 +22430,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "",
      "Startup": "5",
      "Hit": "2",
@@ -22465,7 +22465,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "5",
@@ -22500,7 +22500,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "",
      "Startup": "8",
      "Hit": "6",
@@ -22535,7 +22535,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "20",
@@ -22570,7 +22570,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "14",
@@ -22605,7 +22605,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "",
      "Startup": "9",
      "Hit": "5",
@@ -22640,7 +22640,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "",
      "Startup": "2",
      "Hit": "5",
@@ -22675,7 +22675,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "",
      "Startup": "4",
      "Hit": "6",
@@ -22710,7 +22710,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "",
      "Startup": "7",
      "Hit": "7",
@@ -22745,7 +22745,7 @@
      }
    },
    {
-     "Name": "Far LK",
+     "Name": "Far Short",
      "Common_name": "",
      "Startup": "2",
      "Hit": "5",
@@ -22780,7 +22780,7 @@
      }
    },
    {
-     "Name": "Far MK",
+     "Name": "Far Forward",
      "Common_name": "",
      "Startup": "8",
      "Hit": "5",
@@ -22815,7 +22815,7 @@
      }
    },
    {
-     "Name": "Far HK",
+     "Name": "Far Roundhouse",
      "Common_name": "",
      "Startup": "10",
      "Hit": "3",
@@ -22850,7 +22850,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "",
      "Startup": "3",
      "Hit": "4",
@@ -22885,7 +22885,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "",
      "Startup": "8",
      "Hit": "5",
@@ -22920,7 +22920,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "",
      "Startup": "9",
      "Hit": "7",
@@ -22955,7 +22955,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "14",
@@ -22990,7 +22990,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "",
      "Startup": "6",
      "Hit": "4",
@@ -23025,7 +23025,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "",
      "Startup": "10",
      "Hit": "4",
@@ -23060,7 +23060,7 @@
      }
    },
    {
-     "Name": "f.MK",
+     "Name": "Towards + Forward",
      "Common_name": "",
      "Startup": "18",
      "Hit": "3",
@@ -23165,7 +23165,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "",
      "Startup": "15",
      "Hit": "10",
@@ -23235,7 +23235,7 @@
      }
    },
    {
-     "Name": "Light of Virtue (LP)",
+     "Name": "Light of Virtue (Jab)",
      "Common_name": "",
      "Startup": "9",
      "Hit": "-",
@@ -23270,7 +23270,7 @@
      }
    },
    {
-     "Name": "Light of Virtue (MP)",
+     "Name": "Light of Virtue (Strong)",
      "Common_name": "",
      "Startup": "10",
      "Hit": "-",
@@ -23305,7 +23305,7 @@
      }
    },
    {
-     "Name": "Light of Virtue (HP)",
+     "Name": "Light of Virtue (Fierce)",
      "Common_name": "",
      "Startup": "11",
      "Hit": "-",
@@ -23410,7 +23410,7 @@
      }
    },
    {
-     "Name": "Light of Virtue (LK)",
+     "Name": "Light of Virtue (Short)",
      "Common_name": "",
      "Startup": "11",
      "Hit": "-",
@@ -23445,7 +23445,7 @@
      }
    },
    {
-     "Name": "Light of Virtue (MK)",
+     "Name": "Light of Virtue (Forward)",
      "Common_name": "",
      "Startup": "12",
      "Hit": "-",
@@ -23585,7 +23585,7 @@
      }
    },
    {
-     "Name": "Rising Rage Flash (LK)",
+     "Name": "Rising Rage Flash (Short)",
      "Common_name": "",
      "Startup": "3",
      "Hit": "3",
@@ -23620,7 +23620,7 @@
      }
    },
    {
-     "Name": "Rising Rage Flash (MK)",
+     "Name": "Rising Rage Flash (Forward)",
      "Common_name": "",
      "Startup": "3",
      "Hit": "4",
@@ -23725,7 +23725,7 @@
      }
    },
    {
-     "Name": "Cold Blue Kick (LK)",
+     "Name": "Cold Blue Kick (Short)",
      "Common_name": "",
      "Startup": "17",
      "Hit": "10",
@@ -23760,7 +23760,7 @@
      }
    },
    {
-     "Name": "Cold Blue Kick (MK)",
+     "Name": "Cold Blue Kick (Forward)",
      "Common_name": "",
      "Startup": "18",
      "Hit": "10",
@@ -23945,7 +23945,7 @@
  ],
  "ryu": [
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "",
      "Startup": "3",
      "Hit": "3",
@@ -23980,7 +23980,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "4",
@@ -24015,7 +24015,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "",
      "Startup": "4",
      "Hit": "4",
@@ -24050,7 +24050,7 @@
      }
    },
    {
-     "Name": "Far LP",
+     "Name": "Far Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "3",
@@ -24085,7 +24085,7 @@
      }
    },
    {
-     "Name": "Far MP",
+     "Name": "Far Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "4",
@@ -24120,7 +24120,7 @@
      }
    },
    {
-     "Name": "Far HP",
+     "Name": "Far Fierce",
      "Common_name": "",
      "Startup": "11",
      "Hit": "3",
@@ -24155,7 +24155,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "3",
@@ -24190,7 +24190,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "4",
@@ -24225,7 +24225,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "",
      "Startup": "5",
      "Hit": "5",
@@ -24260,7 +24260,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "-",
@@ -24295,7 +24295,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "",
      "Startup": "4",
      "Hit": "8",
@@ -24330,7 +24330,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "",
      "Startup": "6",
      "Hit": "4",
@@ -24365,7 +24365,7 @@
      }
    },
    {
-     "Name": "n.j.MP",
+     "Name": "Neutral Jumping Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "5",
@@ -24400,7 +24400,7 @@
      }
    },
    {
-     "Name": "n.j.HP",
+     "Name": "Neutral Jumping Fierce",
      "Common_name": "",
      "Startup": "6",
      "Hit": "3",
@@ -24435,7 +24435,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "4",
@@ -24470,7 +24470,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "",
      "Startup": "4",
      "Hit": "5",
@@ -24505,7 +24505,7 @@
      }
    },
    {
-     "Name": "Far MK",
+     "Name": "Far Forward",
      "Common_name": "",
      "Startup": "6",
      "Hit": "4",
@@ -24540,7 +24540,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "",
      "Startup": "8",
      "Hit": "5",
@@ -24575,7 +24575,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "",
      "Startup": "5",
      "Hit": "3",
@@ -24610,7 +24610,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "",
      "Startup": "7",
      "Hit": "5",
@@ -24645,7 +24645,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "",
      "Startup": "7",
      "Hit": "5",
@@ -24680,7 +24680,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "10",
@@ -24715,7 +24715,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "",
      "Startup": "5",
      "Hit": "6",
@@ -24750,7 +24750,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "",
      "Startup": "6",
      "Hit": "4",
@@ -24785,7 +24785,7 @@
      }
    },
    {
-     "Name": "n.j.LK",
+     "Name": "Neutral Jumping Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "19",
@@ -24820,7 +24820,7 @@
      }
    },
    {
-     "Name": "n.j.MK",
+     "Name": "Neutral Jumping Forward",
      "Common_name": "",
      "Startup": "5",
      "Hit": "6",
@@ -24855,7 +24855,7 @@
      }
    },
    {
-     "Name": "n.j.HK",
+     "Name": "Neutral Jumping Roundhouse",
      "Common_name": "",
      "Startup": "6",
      "Hit": "5",
@@ -24890,7 +24890,7 @@
      }
    },
    {
-     "Name": "f.MP",
+     "Name": "Towards + Strong",
      "Common_name": "",
      "Startup": "14",
      "Hit": "12",
@@ -24925,7 +24925,7 @@
      }
    },
    {
-     "Name": "f.HP",
+     "Name": "Towards + Fierce",
      "Common_name": "",
      "Startup": "18",
      "Hit": "6",
@@ -24995,7 +24995,7 @@
      }
    },
    {
-     "Name": "b.Throw",
+     "Name": "Back + Throw",
      "Common_name": "",
      "Startup": "2",
      "Hit": "1",
@@ -25030,7 +25030,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "",
      "Startup": "15",
      "Hit": "9",
@@ -25065,7 +25065,7 @@
      }
    },
    {
-     "Name": "Hadouken (LP)",
+     "Name": "Hadouken (Jab)",
      "Common_name": "",
      "Startup": "10",
      "Hit": "-",
@@ -25100,7 +25100,7 @@
      }
    },
    {
-     "Name": "Hadouken (MP)",
+     "Name": "Hadouken (Strong)",
      "Common_name": "",
      "Startup": "10",
      "Hit": "-",
@@ -25135,7 +25135,7 @@
      }
    },
    {
-     "Name": "Hadouken (HP)",
+     "Name": "Hadouken (Fierce)",
      "Common_name": "",
      "Startup": "10",
      "Hit": "-",
@@ -25205,7 +25205,7 @@
      }
    },
    {
-     "Name": "Shoryuken (LP)",
+     "Name": "Shoryuken (Jab)",
      "Common_name": "",
      "Startup": "3",
      "Hit": "11",
@@ -25240,7 +25240,7 @@
      }
    },
    {
-     "Name": "Shoryuken (MP)",
+     "Name": "Shoryuken (Strong)",
      "Common_name": "",
      "Startup": "3",
      "Hit": "14",
@@ -25275,7 +25275,7 @@
      }
    },
    {
-     "Name": "Shoryuken (HP)",
+     "Name": "Shoryuken (Fierce)",
      "Common_name": "",
      "Startup": "3",
      "Hit": "18",
@@ -25345,7 +25345,7 @@
      }
    },
    {
-     "Name": "Tatsumaki Senpuu Kyaku (LK)",
+     "Name": "Tatsumaki Senpuu Kyaku (Short)",
      "Common_name": "",
      "Startup": "10",
      "Hit": "3",
@@ -25380,7 +25380,7 @@
      }
    },
    {
-     "Name": "Tatsumaki Senpuu Kyaku (MK)",
+     "Name": "Tatsumaki Senpuu Kyaku (Forward)",
      "Common_name": "",
      "Startup": "11",
      "Hit": "10",
@@ -25485,7 +25485,7 @@
      }
    },
    {
-     "Name": "Joudan Sokutou Geri (LK)",
+     "Name": "Joudan Sokutou Geri (Short)",
      "Common_name": "",
      "Startup": "10",
      "Hit": "3",
@@ -25520,7 +25520,7 @@
      }
    },
    {
-     "Name": "Joudan Sokutou Geri (MK)",
+     "Name": "Joudan Sokutou Geri (Forward)",
      "Common_name": "",
      "Startup": "13",
      "Hit": "3",
@@ -25625,7 +25625,7 @@
      }
    },
    {
-     "Name": "Air Tatsumaki Senpuu Kyaku (LK)",
+     "Name": "Air Tatsumaki Senpuu Kyaku (Short)",
      "Common_name": "",
      "Startup": "7",
      "Hit": "8",
@@ -25660,7 +25660,7 @@
      }
    },
    {
-     "Name": "Air Tatsumaki Senpuu Kyaku (MK)",
+     "Name": "Air Tatsumaki Senpuu Kyaku (Forward)",
      "Common_name": "",
      "Startup": "7",
      "Hit": "10",
@@ -25871,7 +25871,7 @@
  ],
  "sean": [
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "",
      "Startup": "3",
      "Hit": "2",
@@ -25906,7 +25906,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "",
      "Startup": "4",
      "Hit": "5",
@@ -25941,7 +25941,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "",
      "Startup": "5",
      "Hit": "5",
@@ -25976,7 +25976,7 @@
      }
    },
    {
-     "Name": "Far MP",
+     "Name": "Far Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "4",
@@ -26011,7 +26011,7 @@
      }
    },
    {
-     "Name": "Far HP",
+     "Name": "Far Fierce",
      "Common_name": "",
      "Startup": "9",
      "Hit": "4",
@@ -26046,7 +26046,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "3",
@@ -26081,7 +26081,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "4",
@@ -26116,7 +26116,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "",
      "Startup": "7",
      "Hit": "5",
@@ -26151,7 +26151,7 @@
      }
    },
    {
-     "Name": "n.j.LP",
+     "Name": "Neutral Jumping Jab",
      "Common_name": "",
      "Startup": "5",
      "Hit": "-",
@@ -26186,7 +26186,7 @@
      }
    },
    {
-     "Name": "n.j.MP",
+     "Name": "Neutral Jumping Strong",
      "Common_name": "",
      "Startup": "6",
      "Hit": "5",
@@ -26221,7 +26221,7 @@
      }
    },
    {
-     "Name": "n.j.HP",
+     "Name": "Neutral Jumping Fierce",
      "Common_name": "",
      "Startup": "7",
      "Hit": "3",
@@ -26256,7 +26256,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "-",
@@ -26291,7 +26291,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "5",
@@ -26326,7 +26326,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "",
      "Startup": "6",
      "Hit": "4",
@@ -26361,7 +26361,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "4",
@@ -26396,7 +26396,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "",
      "Startup": "6",
      "Hit": "4",
@@ -26431,7 +26431,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "",
      "Startup": "5",
      "Hit": "5",
@@ -26466,7 +26466,7 @@
      }
    },
    {
-     "Name": "Far HK",
+     "Name": "Far Roundhouse",
      "Common_name": "",
      "Startup": "7",
      "Hit": "4",
@@ -26501,7 +26501,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "",
      "Startup": "5",
      "Hit": "3",
@@ -26536,7 +26536,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "",
      "Startup": "7",
      "Hit": "5",
@@ -26571,7 +26571,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "",
      "Startup": "8",
      "Hit": "5",
@@ -26606,7 +26606,7 @@
      }
    },
    {
-     "Name": "n.j.LK",
+     "Name": "Neutral Jumping Short",
      "Common_name": "",
      "Startup": "5",
      "Hit": "19",
@@ -26641,7 +26641,7 @@
      }
    },
    {
-     "Name": "n.j.MK",
+     "Name": "Neutral Jumping Forward",
      "Common_name": "",
      "Startup": "5",
      "Hit": "6",
@@ -26676,7 +26676,7 @@
      }
    },
    {
-     "Name": "n.j.HK",
+     "Name": "Neutral Jumping Roundhouse",
      "Common_name": "",
      "Startup": "7",
      "Hit": "5",
@@ -26711,7 +26711,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "10",
@@ -26746,7 +26746,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "",
      "Startup": "5",
      "Hit": "6",
@@ -26781,7 +26781,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "",
      "Startup": "6",
      "Hit": "4",
@@ -26816,7 +26816,7 @@
      }
    },
    {
-     "Name": "f.HP",
+     "Name": "Towards + Fierce",
      "Common_name": "",
      "Startup": "21",
      "Hit": "7",
@@ -26851,7 +26851,7 @@
      }
    },
    {
-     "Name": "f.HK",
+     "Name": "Towards + Roundhouse",
      "Common_name": "",
      "Startup": "15",
      "Hit": "5",
@@ -26921,7 +26921,7 @@
      }
    },
    {
-     "Name": "b.Throw",
+     "Name": "Back + Throw",
      "Common_name": "",
      "Startup": "2",
      "Hit": "1",
@@ -26956,7 +26956,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "",
      "Startup": "15",
      "Hit": "8",
@@ -27026,7 +27026,7 @@
      }
    },
    {
-     "Name": "Sean Roll (LP)",
+     "Name": "Sean Roll (Jab)",
      "Common_name": "",
      "Startup": "2",
      "Hit": "19",
@@ -27061,7 +27061,7 @@
      }
    },
    {
-     "Name": "Sean Roll (MP)",
+     "Name": "Sean Roll (Strong)",
      "Common_name": "",
      "Startup": "2",
      "Hit": "29",
@@ -27096,7 +27096,7 @@
      }
    },
    {
-     "Name": "Sean Roll (HP)",
+     "Name": "Sean Roll (Fierce)",
      "Common_name": "",
      "Startup": "2",
      "Hit": "43",
@@ -27131,7 +27131,7 @@
      }
    },
    {
-     "Name": "Ryuubi Kyaku (LK)",
+     "Name": "Ryuubi Kyaku (Short)",
      "Common_name": "",
      "Startup": "25",
      "Hit": "8",
@@ -27166,7 +27166,7 @@
      }
    },
    {
-     "Name": "Ryuubi Kyaku (MK)",
+     "Name": "Ryuubi Kyaku (Forward)",
      "Common_name": "",
      "Startup": "25",
      "Hit": "8",
@@ -27271,7 +27271,7 @@
      }
    },
    {
-     "Name": "Tornado Kick (LK)",
+     "Name": "Tornado Kick (Short)",
      "Common_name": "",
      "Startup": "11",
      "Hit": "4",
@@ -27306,7 +27306,7 @@
      }
    },
    {
-     "Name": "Tornado Kick (MK)",
+     "Name": "Tornado Kick (Forward)",
      "Common_name": "",
      "Startup": "14",
      "Hit": "8",
@@ -27481,7 +27481,7 @@
      }
    },
    {
-     "Name": "Dragon Smash (LP)",
+     "Name": "Dragon Smash (Jab)",
      "Common_name": "",
      "Startup": "5",
      "Hit": "6",
@@ -27516,7 +27516,7 @@
      }
    },
    {
-     "Name": "Dragon Smash (MP)",
+     "Name": "Dragon Smash (Strong)",
      "Common_name": "",
      "Startup": "5",
      "Hit": "6",
@@ -27551,7 +27551,7 @@
      }
    },
    {
-     "Name": "Dragon Smash (HP)",
+     "Name": "Dragon Smash (Fierce)",
      "Common_name": "",
      "Startup": "9",
      "Hit": "9",
@@ -27701,7 +27701,7 @@
  ],
  "twelve": [
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "",
      "Startup": "3",
      "Hit": "3",
@@ -27736,7 +27736,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "",
      "Startup": "6",
      "Hit": "4",
@@ -27771,7 +27771,7 @@
      }
    },
    {
-     "Name": "Far MP",
+     "Name": "Far Strong",
      "Common_name": "",
      "Startup": "9",
      "Hit": "4",
@@ -27806,7 +27806,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "",
      "Startup": "12",
      "Hit": "4",
@@ -27841,7 +27841,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "",
      "Startup": "3",
      "Hit": "2",
@@ -27876,7 +27876,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "2",
@@ -27911,7 +27911,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "",
      "Startup": "10",
      "Hit": "7",
@@ -27946,7 +27946,7 @@
      }
    },
    {
-     "Name": "n.j.LP",
+     "Name": "Neutral Jumping Jab",
      "Common_name": "",
      "Startup": "3",
      "Hit": "13",
@@ -27981,7 +27981,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "14",
@@ -28016,7 +28016,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "11",
@@ -28051,7 +28051,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "",
      "Startup": "12",
      "Hit": "2",
@@ -28086,7 +28086,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "",
      "Startup": "3",
      "Hit": "2",
@@ -28121,7 +28121,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "",
      "Startup": "6",
      "Hit": "6",
@@ -28156,7 +28156,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "",
      "Startup": "17",
      "Hit": "3",
@@ -28191,7 +28191,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "",
      "Startup": "3",
      "Hit": "4",
@@ -28226,7 +28226,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "",
      "Startup": "8",
      "Hit": "2",
@@ -28261,7 +28261,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "",
      "Startup": "13",
      "Hit": "6",
@@ -28296,7 +28296,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "",
      "Startup": "2",
      "Hit": "20",
@@ -28331,7 +28331,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "",
      "Startup": "9",
      "Hit": "4",
@@ -28366,7 +28366,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "",
      "Startup": "14",
      "Hit": "6",
@@ -28401,7 +28401,7 @@
      }
    },
    {
-     "Name": "b.MK",
+     "Name": "Back + Forward",
      "Common_name": "",
      "Startup": "5",
      "Hit": "5",
@@ -28506,7 +28506,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "",
      "Startup": "15",
      "Hit": "10",
@@ -28541,7 +28541,7 @@
      }
    },
    {
-     "Name": "N.D.L. (LP)",
+     "Name": "N.D.L. (Jab)",
      "Common_name": "",
      "Startup": "15",
      "Hit": "11",
@@ -28576,7 +28576,7 @@
      }
    },
    {
-     "Name": "N.D.L. (MP)",
+     "Name": "N.D.L. (Strong)",
      "Common_name": "",
      "Startup": "15",
      "Hit": "13",
@@ -28611,7 +28611,7 @@
      }
    },
    {
-     "Name": "N.D.L. (HP)",
+     "Name": "N.D.L. (Fierce)",
      "Common_name": "",
      "Startup": "16",
      "Hit": "13",
@@ -28681,7 +28681,7 @@
      }
    },
    {
-     "Name": "A.X.E. (LP)",
+     "Name": "A.X.E. (Jab)",
      "Common_name": "",
      "Startup": "6",
      "Hit": "11",
@@ -28716,7 +28716,7 @@
      }
    },
    {
-     "Name": "A.X.E. (MP)",
+     "Name": "A.X.E. (Strong)",
      "Common_name": "",
      "Startup": "10",
      "Hit": "11",
@@ -28751,7 +28751,7 @@
      }
    },
    {
-     "Name": "A.X.E. (HP)",
+     "Name": "A.X.E. (Fierce)",
      "Common_name": "",
      "Startup": "14",
      "Hit": "11",
@@ -28821,7 +28821,7 @@
      }
    },
    {
-     "Name": "Air A.X.E. (LP)",
+     "Name": "Air A.X.E. (Jab)",
      "Common_name": "",
      "Startup": "9",
      "Hit": "10",
@@ -28856,7 +28856,7 @@
      }
    },
    {
-     "Name": "Air A.X.E. (MP)",
+     "Name": "Air A.X.E. (Strong)",
      "Common_name": "",
      "Startup": "11",
      "Hit": "10",
@@ -28891,7 +28891,7 @@
      }
    },
    {
-     "Name": "Air A.X.E. (HP)",
+     "Name": "Air A.X.E. (Fierce)",
      "Common_name": "",
      "Startup": "13",
      "Hit": "10",
@@ -28961,7 +28961,7 @@
      }
    },
    {
-     "Name": "D.R.A. (LK)",
+     "Name": "D.R.A. (Short)",
      "Common_name": "",
      "Startup": "14",
      "Hit": "14",
@@ -28996,7 +28996,7 @@
      }
    },
    {
-     "Name": "D.R.A. (MK)",
+     "Name": "D.R.A. (Forward)",
      "Common_name": "",
      "Startup": "14",
      "Hit": "19",
@@ -29233,7 +29233,7 @@
  ],
  "urien": [
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "2",
@@ -29268,7 +29268,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "5",
@@ -29303,7 +29303,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "",
      "Startup": "10",
      "Hit": "4",
@@ -29338,7 +29338,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "2",
@@ -29373,7 +29373,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "",
      "Startup": "11",
      "Hit": "4",
@@ -29408,7 +29408,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "",
      "Startup": "9",
      "Hit": "2",
@@ -29443,7 +29443,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "-",
@@ -29478,7 +29478,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "",
      "Startup": "6",
      "Hit": "4",
@@ -29513,7 +29513,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "",
      "Startup": "7",
      "Hit": "3",
@@ -29548,7 +29548,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "",
      "Startup": "5",
      "Hit": "2",
@@ -29583,7 +29583,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "",
      "Startup": "8",
      "Hit": "2",
@@ -29618,7 +29618,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "",
      "Startup": "17",
      "Hit": "6",
@@ -29653,7 +29653,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "",
      "Startup": "5",
      "Hit": "1",
@@ -29688,7 +29688,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "",
      "Startup": "7",
      "Hit": "3",
@@ -29723,7 +29723,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "",
      "Startup": "12",
      "Hit": "3",
@@ -29758,7 +29758,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "10",
@@ -29793,7 +29793,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "",
      "Startup": "6",
      "Hit": "4",
@@ -29828,7 +29828,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "",
      "Startup": "10",
      "Hit": "3",
@@ -29863,7 +29863,7 @@
      }
    },
    {
-     "Name": "f.MP",
+     "Name": "Towards + Strong",
      "Common_name": "",
      "Startup": "9",
      "Hit": "2",
@@ -29898,7 +29898,7 @@
      }
    },
    {
-     "Name": "f.HP",
+     "Name": "Towards + Fierce",
      "Common_name": "",
      "Startup": "14",
      "Hit": "1",
@@ -29933,7 +29933,7 @@
      }
    },
    {
-     "Name": "f.MK",
+     "Name": "Towards + Forward",
      "Common_name": "",
      "Startup": "16",
      "Hit": "3",
@@ -30038,7 +30038,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "",
      "Startup": "15",
      "Hit": "10",
@@ -30108,7 +30108,7 @@
      }
    },
    {
-     "Name": "Metallic Sphere (LP)",
+     "Name": "Metallic Sphere (Jab)",
      "Common_name": "",
      "Startup": "14",
      "Hit": "-",
@@ -30143,7 +30143,7 @@
      }
    },
    {
-     "Name": "Metallic Sphere (MP)",
+     "Name": "Metallic Sphere (Strong)",
      "Common_name": "",
      "Startup": "14",
      "Hit": "-",
@@ -30178,7 +30178,7 @@
      }
    },
    {
-     "Name": "Metallic Sphere (HP)",
+     "Name": "Metallic Sphere (Fierce)",
      "Common_name": "",
      "Startup": "14",
      "Hit": "-",
@@ -30318,7 +30318,7 @@
      }
    },
    {
-     "Name": "Chariot rush (LK)",
+     "Name": "Chariot rush (Short)",
      "Common_name": "",
      "Startup": "7",
      "Hit": "10",
@@ -30353,7 +30353,7 @@
      }
    },
    {
-     "Name": "Chariot rush (MK)",
+     "Name": "Chariot rush (Forward)",
      "Common_name": "",
      "Startup": "10",
      "Hit": "12",
@@ -30458,7 +30458,7 @@
      }
    },
    {
-     "Name": "Headbutt (LP)",
+     "Name": "Headbutt (Jab)",
      "Common_name": "",
      "Startup": "7",
      "Hit": "2",
@@ -30493,7 +30493,7 @@
      }
    },
    {
-     "Name": "Headbutt (MP)",
+     "Name": "Headbutt (Strong)",
      "Common_name": "",
      "Startup": "9",
      "Hit": "4",
@@ -30528,7 +30528,7 @@
      }
    },
    {
-     "Name": "Headbutt (HP)",
+     "Name": "Headbutt (Fierce)",
      "Common_name": "",
      "Startup": "12",
      "Hit": "6",
@@ -30704,7 +30704,7 @@
  ],
  "yang": [
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "",
      "Startup": "3",
      "Hit": "2",
@@ -30739,7 +30739,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "",
      "Startup": "4",
      "Hit": "3",
@@ -30774,7 +30774,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "",
      "Startup": "5",
      "Hit": "6",
@@ -30809,7 +30809,7 @@
      }
    },
    {
-     "Name": "Far MP",
+     "Name": "Far Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "4",
@@ -30844,7 +30844,7 @@
      }
    },
    {
-     "Name": "Far HP",
+     "Name": "Far Fierce",
      "Common_name": "",
      "Startup": "9",
      "Hit": "6",
@@ -30879,7 +30879,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "",
      "Startup": "3",
      "Hit": "2",
@@ -30914,7 +30914,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "2",
@@ -30949,7 +30949,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "",
      "Startup": "8",
      "Hit": "10",
@@ -30984,7 +30984,7 @@
      }
    },
    {
-     "Name": "n.j.MP",
+     "Name": "Neutral Jumping Strong",
      "Common_name": "",
      "Startup": "3",
      "Hit": "7",
@@ -31019,7 +31019,7 @@
      }
    },
    {
-     "Name": "n.j.HP",
+     "Name": "Neutral Jumping Fierce",
      "Common_name": "",
      "Startup": "8",
      "Hit": "5",
@@ -31054,7 +31054,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "",
      "Startup": "2",
      "Hit": "-",
@@ -31089,7 +31089,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "",
      "Startup": "3",
      "Hit": "6",
@@ -31124,7 +31124,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "",
      "Startup": "5",
      "Hit": "4",
@@ -31159,7 +31159,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "",
      "Startup": "3",
      "Hit": "3",
@@ -31194,7 +31194,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "",
      "Startup": "7",
      "Hit": "5",
@@ -31229,7 +31229,7 @@
      }
    },
    {
-     "Name": "Far MK",
+     "Name": "Far Forward",
      "Common_name": "",
      "Startup": "9",
      "Hit": "3",
@@ -31264,7 +31264,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "",
      "Startup": "14",
      "Hit": "3",
@@ -31299,7 +31299,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "1",
@@ -31334,7 +31334,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "",
      "Startup": "7",
      "Hit": "2",
@@ -31369,7 +31369,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "",
      "Startup": "10",
      "Hit": "3",
@@ -31404,7 +31404,7 @@
      }
    },
    {
-     "Name": "Neutral MK",
+     "Name": "Neutral Forward",
      "Common_name": "",
      "Startup": "6",
      "Hit": "7",
@@ -31439,7 +31439,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "12",
@@ -31474,7 +31474,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "",
      "Startup": "6",
      "Hit": "7",
@@ -31509,7 +31509,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "",
      "Startup": "5",
      "Hit": "5",
@@ -31544,7 +31544,7 @@
      }
    },
    {
-     "Name": "f.MK",
+     "Name": "Towards + Forward",
      "Common_name": "",
      "Startup": "19",
      "Hit": "6",
@@ -31649,7 +31649,7 @@
      }
    },
    {
-     "Name": "b.Throw",
+     "Name": "Back Throw",
      "Common_name": "",
      "Startup": "2",
      "Hit": "1",
@@ -31684,7 +31684,7 @@
      }
    },
    {
-     "Name": "f.Throw",
+     "Name": "Towards Throw",
      "Common_name": "",
      "Startup": "2",
      "Hit": "1",
@@ -31719,7 +31719,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "",
      "Startup": "15",
      "Hit": "10",
@@ -31789,7 +31789,7 @@
      }
    },
    {
-     "Name": "Tourou Zan (LP)",
+     "Name": "Tourou Zan (Jab)",
      "Common_name": "",
      "Startup": "8",
      "Hit": "5",
@@ -31824,7 +31824,7 @@
      }
    },
    {
-     "Name": "Tourou Zan (MP)",
+     "Name": "Tourou Zan (Strong)",
      "Common_name": "",
      "Startup": "8",
      "Hit": "5",
@@ -31859,7 +31859,7 @@
      }
    },
    {
-     "Name": "Tourou Zan (HP)",
+     "Name": "Tourou Zan (Fierce)",
      "Common_name": "",
      "Startup": "8",
      "Hit": "5",
@@ -31929,7 +31929,7 @@
      }
    },
    {
-     "Name": "Senkyuutai (LK)",
+     "Name": "Senkyuutai (Short)",
      "Common_name": "",
      "Startup": "8",
      "Hit": "8",
@@ -31964,7 +31964,7 @@
      }
    },
    {
-     "Name": "Senkyuutai (MK)",
+     "Name": "Senkyuutai (Forward)",
      "Common_name": "",
      "Startup": "16",
      "Hit": "8",
@@ -32104,7 +32104,7 @@
      }
    },
    {
-     "Name": "Kaihou (LK)",
+     "Name": "Kaihou (Short)",
      "Common_name": "",
      "Startup": "11",
      "Hit": "5",
@@ -32139,7 +32139,7 @@
      }
    },
    {
-     "Name": "Kaihou (MK)",
+     "Name": "Kaihou (Forward)",
      "Common_name": "",
      "Startup": "13",
      "Hit": "8",
@@ -32324,7 +32324,7 @@
  ],
  "yun": [
    {
-     "Name": "LP",
+     "Name": "Jab",
      "Common_name": "",
      "Startup": "3",
      "Hit": "2",
@@ -32359,7 +32359,7 @@
      }
    },
    {
-     "Name": "MP",
+     "Name": "Strong",
      "Common_name": "",
      "Startup": "4",
      "Hit": "3",
@@ -32394,7 +32394,7 @@
      }
    },
    {
-     "Name": "HP",
+     "Name": "Fierce",
      "Common_name": "",
      "Startup": "6",
      "Hit": "6",
@@ -32429,7 +32429,7 @@
      }
    },
    {
-     "Name": "Far LP",
+     "Name": "Far Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "2",
@@ -32464,7 +32464,7 @@
      }
    },
    {
-     "Name": "Far MP",
+     "Name": "Far Strong",
      "Common_name": "",
      "Startup": "5",
      "Hit": "4",
@@ -32499,7 +32499,7 @@
      }
    },
    {
-     "Name": "Far HP",
+     "Name": "Far Fierce",
      "Common_name": "",
      "Startup": "9",
      "Hit": "2",
@@ -32534,7 +32534,7 @@
      }
    },
    {
-     "Name": "cr.LP",
+     "Name": "Crouching Jab",
      "Common_name": "",
      "Startup": "4",
      "Hit": "2",
@@ -32569,7 +32569,7 @@
      }
    },
    {
-     "Name": "cr.MP",
+     "Name": "Crouching Strong",
      "Common_name": "",
      "Startup": "4",
      "Hit": "5",
@@ -32604,7 +32604,7 @@
      }
    },
    {
-     "Name": "cr.HP",
+     "Name": "Crouching Fierce",
      "Common_name": "",
      "Startup": "5",
      "Hit": "4",
@@ -32639,7 +32639,7 @@
      }
    },
    {
-     "Name": "n.j.HP",
+     "Name": "Neutral Jumping Fierce",
      "Common_name": "",
      "Startup": "8",
      "Hit": "5",
@@ -32674,7 +32674,7 @@
      }
    },
    {
-     "Name": "j.LP",
+     "Name": "Jumping Jab",
      "Common_name": "",
      "Startup": "2",
      "Hit": "-",
@@ -32709,7 +32709,7 @@
      }
    },
    {
-     "Name": "j.MP",
+     "Name": "Jumping Strong",
      "Common_name": "",
      "Startup": "3",
      "Hit": "6",
@@ -32744,7 +32744,7 @@
      }
    },
    {
-     "Name": "j.HP",
+     "Name": "Jumping Fierce",
      "Common_name": "",
      "Startup": "5",
      "Hit": "4",
@@ -32779,7 +32779,7 @@
      }
    },
    {
-     "Name": "LK",
+     "Name": "Short",
      "Common_name": "",
      "Startup": "3",
      "Hit": "3",
@@ -32814,7 +32814,7 @@
      }
    },
    {
-     "Name": "MK",
+     "Name": "Forward",
      "Common_name": "",
      "Startup": "7",
      "Hit": "4",
@@ -32849,7 +32849,7 @@
      }
    },
    {
-     "Name": "Far MK",
+     "Name": "Far Forward",
      "Common_name": "",
      "Startup": "9",
      "Hit": "3",
@@ -32884,7 +32884,7 @@
      }
    },
    {
-     "Name": "HK",
+     "Name": "Roundhouse",
      "Common_name": "",
      "Startup": "14",
      "Hit": "4",
@@ -32919,7 +32919,7 @@
      }
    },
    {
-     "Name": "cr.LK",
+     "Name": "Crouching Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "1",
@@ -32954,7 +32954,7 @@
      }
    },
    {
-     "Name": "cr.MK",
+     "Name": "Crouching Forward",
      "Common_name": "",
      "Startup": "6",
      "Hit": "3",
@@ -32989,7 +32989,7 @@
      }
    },
    {
-     "Name": "cr.HK",
+     "Name": "Crouching Roundhouse",
      "Common_name": "",
      "Startup": "13",
      "Hit": "2",
@@ -33024,7 +33024,7 @@
      }
    },
    {
-     "Name": "j.LK",
+     "Name": "Jumping Short",
      "Common_name": "",
      "Startup": "4",
      "Hit": "12",
@@ -33059,7 +33059,7 @@
      }
    },
    {
-     "Name": "j.MK",
+     "Name": "Jumping Forward",
      "Common_name": "",
      "Startup": "6",
      "Hit": "7",
@@ -33094,7 +33094,7 @@
      }
    },
    {
-     "Name": "j.HK",
+     "Name": "Jumping Roundhouse",
      "Common_name": "",
      "Startup": "5",
      "Hit": "5",
@@ -33129,7 +33129,7 @@
      }
    },
    {
-     "Name": "f.MK",
+     "Name": "Towards + Forward",
      "Common_name": "",
      "Startup": "19",
      "Hit": "6",
@@ -33164,7 +33164,7 @@
      }
    },
    {
-     "Name": "f.HP",
+     "Name": "Towards + Fierce",
      "Common_name": "",
      "Startup": "17",
      "Hit": "5",
@@ -33304,7 +33304,7 @@
      }
    },
    {
-     "Name": "MP+MK",
+     "Name": "Universal Overhead",
      "Common_name": "",
      "Startup": "15",
      "Hit": "9",
@@ -33374,7 +33374,7 @@
      }
    },
    {
-     "Name": "Tetsu Zankou (LP)",
+     "Name": "Tetsu Zankou (Jab)",
      "Common_name": "",
      "Startup": "14",
      "Hit": "6",
@@ -33409,7 +33409,7 @@
      }
    },
    {
-     "Name": "Tetsu Zankou (MP)",
+     "Name": "Tetsu Zankou (Strong)",
      "Common_name": "",
      "Startup": "18",
      "Hit": "6",
@@ -33444,7 +33444,7 @@
      }
    },
    {
-     "Name": "Tetsu Zankou (HP)",
+     "Name": "Tetsu Zankou (Fierce)",
      "Common_name": "",
      "Startup": "22",
      "Hit": "6",
@@ -33514,7 +33514,7 @@
      }
    },
    {
-     "Name": "Zesshou Hohou (LP)",
+     "Name": "Zesshou Hohou (Jab)",
      "Common_name": "",
      "Startup": "7",
      "Hit": "5",
@@ -33549,7 +33549,7 @@
      }
    },
    {
-     "Name": "Zesshou Hohou (MP)",
+     "Name": "Zesshou Hohou (Strong)",
      "Common_name": "",
      "Startup": "10",
      "Hit": "11",
@@ -33584,7 +33584,7 @@
      }
    },
    {
-     "Name": "Zesshou Hohou (HP)",
+     "Name": "Zesshou Hohou (Fierce)",
      "Common_name": "",
      "Startup": "13",
      "Hit": "15",
@@ -33654,7 +33654,7 @@
      }
    },
    {
-     "Name": "Nishou Kyaku (LK)",
+     "Name": "Nishou Kyaku (Short)",
      "Common_name": "",
      "Startup": "4",
      "Hit": "6",
@@ -33689,7 +33689,7 @@
      }
    },
    {
-     "Name": "Nishou Kyaku (MK)",
+     "Name": "Nishou Kyaku (Forward)",
      "Common_name": "",
      "Startup": "6",
      "Hit": "6",

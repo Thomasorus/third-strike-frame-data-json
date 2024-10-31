@@ -25,8 +25,8 @@
   :root {
     --text-color: #fff;
     --text-color-alt: #aaa;
-    --background-color: #000;
-    --background-color-alt: #111;
+    --background-color: #333;
+    --background-color-alt: #444;
   }
 }
 
@@ -523,4 +523,9 @@ nav {
     display: flex;
     flex-wrap: wrap;
     gap: 0.5ch;
+}
+
+thead {
+    position: sticky;
+    top:0;
 }

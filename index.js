@@ -22,7 +22,6 @@ async function getCharacters() {
 }
 
 function showFrameData(characterId) {
-  console.log(characterId)
   const characters = JSON.parse(window.localStorage.getItem("characters"))
   const char = characters[characterId]
 
@@ -40,7 +39,6 @@ function showFrameData(characterId) {
       </span>`
     }
 
-    console.log(move.Bar_gain_attacker)
 
     tableString += `<tr>
       <td>${move.Name}</td>
@@ -61,9 +59,8 @@ function showFrameData(characterId) {
       </tr>
     `
   }
-
-  const content = document.querySelector("main tbody")
-  content.innerHTML = tableString
+  const table = document.querySelector("main tbody")
+  table.innerHTML = tableString
 }
 
 async function initialize() {
